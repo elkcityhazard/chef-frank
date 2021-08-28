@@ -4,7 +4,8 @@
 
 <header class="homepage-header {{ .Params.customClass.name | safeCSS }} ">
   <img
-    src="/images/slider/slider-0.jpg"
+    src="/images/slider/slider-0-mobile.jpg"
+    srcset="/images/slider/slider-0.jpg 1000w"
     id="0"
     alt="slider image"
     class="bgImg active"
@@ -12,7 +13,8 @@
     width="900px"
   />
   <img
-    data-src="/images/slider/slider-1.jpg"
+    data-src="/images/slider/slider-1-mobile.jpg"
+    srcset="/images/slider/slider-1.jpg 1000w"
     id="1"
     alt="slider image"
     class="bgImg lazy"
@@ -20,7 +22,8 @@
     width="900px"
   />
   <img
-    data-src="/images/slider/slider-2.jpg"
+  data-src="/images/slider/slider-2-mobile.jpg"
+  srcset="/images/slider/slider-2.jpg 1000w"
     id="2"
     alt="slider image"
     class="bgImg lazy"
@@ -189,8 +192,7 @@
             >
           </h4>
           <span
-            ><strong>Date: </strong>{{- .Date | time.Format ":date_long"
-            -}}</span
+            ><strong>Date: </strong>{{- .Date | time.Format ":date_long" -}}</span
           >
           <br />
           <span><strong>Author: </strong>{{- .Params.author -}}</span>

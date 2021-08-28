@@ -1,0 +1,91 @@
+@use './_colors';
+@use './_mixins';
+@use './typography';
+
+
+section.blog {
+    overflow-y: hidden;
+    .row {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        h3 {
+            @include mixins.wavy-underline;
+        }
+        .blog-card {
+            @include mixins.transition;
+            background: colors.$english-violet-dark;
+            border-radius: 10px;
+            margin: 1em auto;
+            opacity: 0;
+            position: relative;
+            transform: translateY(100%);
+            width: 350px;
+            img.blog-card-image {
+                border-radius: 8px;
+                height: calc(100% - 7px);
+                left: 50%;
+                object-fit: cover;
+                opacity: .5;
+                position: absolute;
+                top: 50%;
+                transform: translate(-50%, -50%);
+                width: calc(100% - 7px);
+                z-index: 1;
+            }
+            .container {
+                align-items: flex-start;
+                color: #fff;
+                display: flex;
+                flex-direction: column;
+                height: 100%;
+                justify-content: flex-start;
+                max-width: unset;
+                position: absolute;
+                top: 50%;
+                left: 50%;
+                transform: translate(-50%, -50%);
+                width: 100%;
+                z-index: 2;
+                .row {
+                    flex: 1 1;
+                    h4 {
+                        a {
+                            color: #fff;
+                            text-align: center;
+                            &:hover {
+                                color: colors.$silver-sand;
+                            }
+                        }
+                    }
+                    p {
+                        padding: 1em;
+                    }
+                }
+            }
+            &.active {
+                transition-delay: 150ms;
+                transition-property: opacity;
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 968px) {
+    section.blog {
+        background: url('/images/backgrounds/coconut-bg-1200-600.jpeg') no-repeat fixed center center / cover;
+        height: auto;
+        .row:not(:nth-child(1)) {
+            flex-direction: row;
+            flex: 1 1 33%;
+            padding: {
+                right: 3em;
+                left: 3em;
+            }
+        }
+    }
+    
+}

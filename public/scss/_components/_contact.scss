@@ -1,0 +1,184 @@
+@use './colors';
+@use './_mixins';
+
+section.contact {
+    background: transparent;
+    padding: 1em;
+    position: relative;
+    overflow: hidden;
+    .circle {
+        content: '';
+        background: rgba(117,154,179,.75);
+        border-radius: 50%;
+        box-shadow: 2px 2px 20px -5px rgba(0, 0, 0, 0.5);
+        height: 400px;
+        left: 50%;
+        position: absolute;
+        top: 100%;
+        transform: translate(-50%, -50%);
+        width: 150%;
+        z-index: -1;
+    }
+    .row {
+        h3 {
+            @include mixins.wavy-underline;
+        }
+        .container {
+            max-width: 100%;
+            .row {
+                display: flex;
+                flex-direction: column;
+                .col {
+                    flex: 0 0 100%;
+                    width: 100%;
+                    h4 {
+                        @include mixins.wavy-underline;
+                    }
+                    .contact-form {
+                        height: 100%;
+                        margin: {
+                            top: 1em;
+                            right: auto;
+                            left: auto;
+                        }
+                        padding: 1em;
+                        max-width: 500px;
+                        width: 100%;
+                        .form-control {
+                            justify-content: space-around;
+                            display: flex;
+                            font-family: Helvetica, Arial, sans-serif;
+                            margin: {
+                                bottom: 1em;
+                            }
+                            label {
+                                display: block;
+                                text-align: left;
+                                visibility: hidden;
+                                width: 0;
+                            }
+                            input,
+                            textarea {
+                                font-size: 1.25em;
+                                text-align: left;
+                                flex: 0 0 100%;
+                                max-width: 600px;
+                                margin-right: auto;
+                                width: 100%;
+                            }
+                            button {
+                                @include mixins.transition;
+                                background: colors.$english-violet-dark;
+                                border: 1px solid colors.$light-goldenrod-yellow;
+                                color: #fff;
+                                cursor: pointer;
+                                flex: 1 1;
+                                margin: {
+                                    left: auto;
+                                    right: 1em;
+                                }
+                                max-width: 150px;
+                                padding: .5em 1em;
+                                &:hover {
+                                    background: #fff;
+                                    color: colors.$light-goldenrod-yellow;
+                                }
+                            }
+                            &:last-child {
+                                display: block;
+                                button {
+                                    float: right;
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 768px) {
+    section.contact {
+        .row {
+            .container {
+                max-width: 100%;
+                .row {
+                    display: flex;
+                    flex-direction: row;
+                    .col {
+                        flex: 1 1 50%;
+                        padding: 1em;
+                        h4 {
+                            text-align: center;
+                        }
+                        .contact-form {
+                            height: 100%;
+                            margin: {
+                                top: 1em;
+                                right: auto;
+                                left: auto;
+                            }
+                            max-width: 500px;
+                            width: 100%;
+                            .form-control {
+                                display: flex;
+                                font-family: Helvetica, Arial, sans-serif;
+                                margin: {
+                                    bottom: 1em;
+                                }
+                                label {
+                                    flex: 1 1 25%;
+                                    text-align: left;
+                                }
+                                input,
+                                textarea {
+                                    font-size: 1.25em;
+                                    text-align: left;
+                                    flex: 2 2 75%;
+                                }
+                                button {
+                                    @include mixins.transition;
+                                    background: colors.$english-violet-dark;
+                                    border: 1px solid colors.$light-goldenrod-yellow;
+                                    color: #fff;
+                                    cursor: pointer;
+                                    flex: 1 1;
+                                    margin: {
+                                        left: auto;
+                                        right: 1em;
+                                    }
+                                    max-width: 150px;
+                                    padding: .5em 1em;
+                                    &:hover {
+                                        background: #fff;
+                                        color: colors.$light-goldenrod-yellow;
+                                    }
+                                }
+                                &:last-child {
+                                    display: block;
+                                    button {
+                                        float: right;
+                                        max-width: 125px;
+                                        width: 150px;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+    
+}
+
+@media screen and (min-width: 1200px) {
+    section.contact {
+        .row {
+            .container {
+                max-width: 70%;
+            }
+        }
+    }
+}

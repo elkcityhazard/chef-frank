@@ -1,5 +1,11 @@
 @use './colors';
 
+@mixin wavy-underline {
+        text-decoration: underline wavy colors.$light-goldenrod-yellow 2px;
+      -webkit-text-decoration: underline wavy colors.$light-goldenrod-yellow 2px;
+      -moz-text-decoration: underline wavy colors.$light-goldenrod-yellow 2px;
+}
+
 @mixin center-spacing {
     display: block;
     margin: .25em auto;
@@ -38,5 +44,11 @@
 @mixin transition {
     transition: all 250ms linear;
     -webkit-transition: all 250ms linear;
-    -moz-transition: all 250s linear;
+    -moz-transition: all 250ms linear;
+}
+
+@mixin long-transition {
+    transition: all 500ms linear 250ms;
+    -webkit-transition: all 500ms linear 250ms;
+    -moz-transition: all 500s linear 250ms;
 }

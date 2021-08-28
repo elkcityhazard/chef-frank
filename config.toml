@@ -29,7 +29,7 @@ author = "https://andrew-mccall.com"
 
 ###Styles###
 [params.plugins.styles]
-link = "css/main.css"
+link = "css/style.css"
 
 
 ####Menus#####

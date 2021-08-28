@@ -3,19 +3,16 @@ title: Chef Frank’s Seasoning Recipes
 author: elkcityhazard
 type: page
 date: 2019-12-10T16:19:58+00:00
-featured_image: '/wp-content/uploads/2020/01/chef-franks-seasoning.jpg'
+img: images/backgrounds/fruit-on-white.jpg
 
 ---
-Chef Frank&#8217;s is the home of Traverse City [Cherry Honey][1]. This one of a kind cherry honey was developed in 1995 by Chef Frank and is a staple during the National Cherry Festival and all summer long. Sold by specialty food retailers and farm stands throughout the Traverse City area.
+Chef Frank's is the home of Traverse City Cherry Honey. This one of a kind cherry honey was developed in 1995 by Chef Frank and is a staple during the National Cherry Festival and all summer long. Sold by specialty food retailers and farm stands throughout the Traverse City area.
 
-![Chef Frank's Premium Seasoning][2]  
-![Chef Frank's Cherry Honey][3] 
+Try these wonderful recipes all including Chef Frank's Seasoning. You can also use Chef Frank's Seasoning in your own recipes as well, instead of that "other" seasoning that is mostly sugar, tricalcium phosphate, MSG, and fillers. Chef Frank's Seasoning is free of chemicals and fillers, allergen free, and includes only salt, and the finest herbs and spices. 
 
-Try these wonderful recipes all including Chef Frank&#8217;s Seasoning. You can also use Chef Frank&#8217;s Seasoning in your own recipes as well, instead of that &#8220;other&#8221; seasoning that is mostly sugar, tricalcium phosphate, MSG, and fillers. Chef Frank&#8217;s Seasoning is free of chemicals and fillers, allergen free, and includes only salt, and the finest herbs and spices. 
 
-## Chef Frank&#8217;s Seasoning Recipes
 
-[Prime Rib Roast][4]  
+<!-- [Prime Rib Roast][4]  
 [Roast Chicken][5]  
 [Roast Turkey][6]  
 [Cornish Game Hen, Slow Roasted][7]  
@@ -70,4 +67,4 @@ Try these wonderful recipes all including Chef Frank&#8217;s Seasoning. You can 
  [26]: /wordpress/index.php/chef-franks-seasoning-recipes/goulash-with-ground-beef/
  [27]: /wordpress/index.php/chef-franks-seasoning-recipes/honey-teriyaki-barbecue-sauce/
  [28]: /wordpress/index.php/chef-franks-seasoning-recipes/tartar-sauce-for-fish/
- [29]: /wordpress/index.php/chef-franks-seasoning-recipes/fresh-summer-cucumber-salad/
+ [29]: /wordpress/index.php/chef-franks-seasoning-recipes/fresh-summer-cucumber-salad/ -->

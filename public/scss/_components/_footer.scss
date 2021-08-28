@@ -1,0 +1,114 @@
+@use './_colors';
+
+// Main Footer
+.main-footer {
+  background: colors.$light-goldenrod-yellow;
+  display: grid;
+  grid-auto-rows: 2fr 3em;
+  margin: 0 auto;
+  padding: 0;
+  width: 100%;
+  h4,
+  h5,
+  h6,
+  p,
+  span {
+    color: #fff;
+  }
+  h5 {
+      padding-left: .5em;
+      text-align: left;
+  }
+  .row {
+    margin: 0 auto;
+    .container {
+      margin: 0 auto;
+    }
+    text-align: left;
+    .col {
+        margin: auto;
+        max-width: 100%;
+    }
+    .footer-logo {
+      margin: 0 auto;
+      max-width: 100%;
+      padding: 1em;
+      text-align: center;
+          padding: 1em;
+          img {
+            display: block;
+            margin: auto;
+            max-width: 100%;
+            padding: 1em;
+        }
+    }
+    a {
+      display: block;
+      padding-left: 1em;
+    }
+    span {
+        a {
+            display: inline;
+            padding: initial;
+        }
+    }
+  }
+  .row.copyright {
+      background: colors.$english-violet-dark;
+      margin: 0;
+      width: 100vw;
+  }
+}
+@media screen and (min-width: 968px) {
+  .main-footer {
+      padding-left: 0;
+    .row.navigation {
+      align-items: start;
+      display: flex;
+      justify-content: space-between;
+      .col {
+          margin: auto;
+          flex: 1 1 50%;
+          &:nth-child(2) {
+              border: {
+                  left: #fff 1px solid;
+              }
+              flex: 40%;
+          }
+          .footer-logo {
+              margin: auto;
+              img {
+                  max-width: 100%;
+              }
+          }
+      }
+      .footer-nav {
+        align-items: cener;
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: flex-start;
+        max-height: 100px;
+        max-width: 500px;
+        overflow: hidden;
+        width: 100%;
+        a {
+          display: block;
+          padding-left: 1em;
+        }
+      }
+      h5 {
+        color: colors.$silver-sand;
+          padding: {
+              left: .5em;
+          }
+          text-align: left;
+      }
+    }
+    .row.copyright {
+        align-items: center;
+        display: flex;
+        justify-content: center;
+    }
+  }
+}

@@ -41,7 +41,8 @@
       grid-row-end: 3;
       place-self: center;
       .container {
-        max-width: 100%;
+        max-width: 1000px;
+        text-align: left;
         padding: 0 1em;
         h1,
         h2 {
@@ -50,11 +51,12 @@
         }
         #subtitle {
           font-size: .75em;
-          display: inline;
+          display: inline-block;
           padding: {
             left: 1em;
           }
-          width: 100%;
+          text-align: left;
+          padding-left: 33%;
         }
         #cursor {
           @include mixins.transition;

@@ -3,15 +3,13 @@
   {{ partial "breadcrumbs.html" . }}
 </section>
 <main class="list">
-  <section class="hero">
+  <section class="hero" style="background: url('{{ .Params.img | absURL }}') no-repeat fixed center top / cover">
     <div class="row">
       <div class="container">
         <h1>{{ .Title }}</h1>
+        <p>{{- .Content -}}</p>
       </div>
     </div>
-  </section>
-  <section class="content">
-    {{- .Content -}}
   </section>
 <section class="list-section">
   {{ range .Pages }}

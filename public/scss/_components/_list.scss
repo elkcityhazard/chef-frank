@@ -1,17 +1,100 @@
 @use './_colors';
 @use './_mixins';
 
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Montserrat", sans-serif, arial;
+}
+
+p,
+span,
+a {
+  font-family: "Roboto", "Helvetica", sans-serif;
+  padding: 0;
+}
+ul {
+  list-style: none;
+  li {
+    padding: {
+      left: 0;
+    }
+    text-align: left;
+  }
+}
+#author,
+#tags,
+#categories {
+  display: inline-block;
+  text-align: left;
+}
+
 .list {
   h1 {
-    @include mixins.underline;
-    color: colors.$english-violet-dark;
+    @include mixins.wavy-underline;
   }
-  ul {
-      @include mixins.reset-list;
-  }
-  section.list {
-    margin: {
-      top: 1em;
+}
+
+section.list-section {
+  display: grid;
+  place-items: center;
+  gap: 1em;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  padding: .5em;
+  .recipe-card {
+    box-shadow: 5px 5px 20px -7px rgba(0, 0, 0, 0.5);
+    height: 100%;
+    margin-bottom: 1em;
+    position: relative;
+    overflow: hidden;
+    img {
+      bottom: 0;
+      height: 100%;
+      left: 0;
+      object-fit: cover;
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: -1;
+    }
+    .inner-card {
+      align-items: center;
+      background: rgba(0, 0, 0, 0.66);
+      bottom: 0;
+      color: #fff;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      height: 100%;
+      left: 0;
+      min-height: 75vh;
+      padding: 0.5em 1em;
+      top: 0;
+      width: 100%;
+      h4 {
+        a {
+          color: #fff;
+          &:hover {
+            color: colors.$roman-silver;
+          }
+        }
+      }
+      p {
+        font-weight: 500;
+        text-align: left;
+      }
+      .cta-btn {
+        background: transparent;
+        outline: 1px solid #fff;
+        &:hover {
+          background: #fff;
+          color: colors.$light-goldenrod-yellow;
+          outline-color: colors.$roman-silver;
+        }
+      }
     }
   }
 }

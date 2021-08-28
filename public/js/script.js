@@ -1,38 +1,142 @@
-// Toggle the Navigation Menu
+const boxes = document.querySelectorAll(".blog-card");
+const recipes = document.querySelectorAll(".card");
 
+document.body.addEventListener("scroll", checkBoxes);
 
-const navToggle = document.querySelector('.nav-toggle');
-function toggleMenu() {
-const navMenu = document.querySelector('.main-nav');
-const menuItems = document.querySelectorAll('nav.main-nav ul li a')
+// checkBoxes()
 
-navMenu.classList.toggle('active');
-    navMenu.classList.contains('active') ? navMenu.style.height = navMenu.scrollHeight + 'px' : navMenu.style.height = 0;
-    menuItems.forEach((item, index) => {
-        setTimeout(() => {
-            navMenu.classList.contains('active') ? item.style.opacity = 1 : item.style.opacity = 0
-        }, 250 * index)
-    })
+function checkBoxes() {
+  const triggerBottom = (window.innerHeight / 3) * 5;
 
+  boxes.forEach((box) => {
+    const boxTop = box.getBoundingClientRect().top;
+
+    if (boxTop < triggerBottom) {
+      box.classList.add("active");
+    } else {
+      box.classList.remove("active");
+    }
+  });
+
+  // Recipes
+  recipes.forEach((box) => {
+    const boxTop = box.getBoundingClientRect().top;
+
+    if (boxTop < triggerBottom) {
+      box.classList.add("active");
+    } else {
+      box.classList.remove("active");
+    }
+  });
 }
 
-navToggle.addEventListener('click', (e) => {
-    e.preventDefault();
-    e.target.classList.toggle('active')
-    toggleMenu();
-})
+// Toggle the Navigation Menu
 
+const navToggle = document.querySelector(".nav-toggle");
+function toggleMenu() {
+  const navMenu = document.querySelector(".main-nav");
+  const menuItems = document.querySelectorAll("nav.main-nav ul li a");
 
+  navMenu.classList.toggle("active");
+  navToggle.parentElement.classList.toggle("active");
+  navMenu.classList.contains("active")
+    ? (navMenu.style.height = navMenu.scrollHeight + "px")
+    : (navMenu.style.height = 0);
+  menuItems.forEach((item, index) => {
+    setTimeout(() => {
+      navMenu.classList.contains("active")
+        ? (item.style.opacity = 1)
+        : (item.style.opacity = 0);
+    }, 250 * index);
+  });
+}
 
+navToggle.addEventListener("click", (e) => {
+  e.preventDefault();
+  e.target.classList.toggle("active");
+  toggleMenu();
+});
+
+// adjust card height
+
+const recipeHeight = () => {
+    let cardHeight = 0;
+    document.querySelectorAll(".card").forEach((card) => {
+      card.scrollHeight > cardHeight ? (cardHeight = card.scrollHeight) : "";
+    });
+
+    document.querySelectorAll(".card").forEach((card) => {
+      card.style.height = `${cardHeight}px`;
+    });
+};
+
+// adjust blog card height
+
+const blogCardHeight = () => {
+    let boxHeight = 0;
+    boxes.forEach((box) => {
+      box.scrollHeight > boxHeight ? (boxHeight = box.scrollHeight) : "";
+    });
+    boxes.forEach((box) => {
+        box.style.height = `${boxHeight}px`;
+    });
+  
+}
 
 //disable preloader
 
+window.addEventListener("load", (e) => {
+  const preloader = document.querySelector(".preloader");
+  setTimeout(() => {
+    preloader.style.opacity = 0;
+    preloader.style.display = "none";
+  }, 1000);
+});
 
-window.addEventListener('load', (e) => {
-   const preloader = document.querySelector('.preloader')
-   preloader.style.opacity = 0;
-       setTimeout(() => {
-        preloader.style.display = "none";
-       }, 300)
-   
-})
+// Lazyload Images
+let options = {
+  rootMargin: "0px",
+  threshold: 1.0,
+};
+
+let observer = new IntersectionObserver(async (entries, options) => {
+  entries.forEach(async (entry, index) => {
+    if (entry.intersectionRatio > 0) {
+      entry.target.src = await entry.target.getAttribute("data-src");
+      setTimeout(() => {
+        entry.target.classList.add("fadeIn");
+        observer.unobserve(entry.target)
+        recipeHeight();
+        blogCardHeight();
+      }, 750);
+    } else {
+      entry.target.classList.remove("fadeIn");
+    }
+  });
+});
+
+let images = document.querySelectorAll(".lazy");
+images.forEach((image) => {
+  observer.observe(image);
+});
+
+
+
+//shrink desktop nav on scroll
+
+if (window.innerWidth >= 968) {
+  document.body.addEventListener("scroll", () => {
+    const navBar = document.querySelector('.main-nav');
+    const navBarImg = document.querySelector('.main-nav img')
+    if (document.body.scrollTop > 100 || window.pageYOffset > 100) {
+      navBar.style.padding = "0 1.5em"
+      navBar.style.fontSize = ".95em"
+      navBarImg.style.height = "40px"
+      navBarImg.style.marginLeft = "auto"
+    } else {
+      navBar.style.padding = "1em 1.5em";
+      navBar.style.fontSize = "1em"
+      navBarImg.style.height = "100px"
+    }
+  })
+}

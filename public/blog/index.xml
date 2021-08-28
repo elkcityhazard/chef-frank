@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Chef’s Blog on Chef Frank&#39;s Recipes</title>
+    <title>Today&#39;s Inspiration on Chef Frank&#39;s Recipes</title>
     <link>/blog/</link>
-    <description>Recent content in Chef’s Blog on Chef Frank&#39;s Recipes</description>
+    <description>Recent content in Today&#39;s Inspiration on Chef Frank&#39;s Recipes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 16 Dec 2019 17:36:14 +0000</lastBuildDate><atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Summer Hot Dogs</title>
+      <link>/blog/2021-08-22/</link>
+      <pubDate>Sun, 22 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/2021-08-22/</guid>
+      <description>There is nothing like a fine summer hot dog. some of the best recipes</description>
+    </item>
+    
     <item>
       <title>Hello world!</title>
       <link>/hello-world/</link>

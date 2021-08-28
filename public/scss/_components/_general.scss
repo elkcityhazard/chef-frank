@@ -14,14 +14,31 @@ html,
 body {
     font-size: 1em;
     height: 100%;
+    overflow-x: hidden;
+    scroll-behavior: smooth;
     width: 100%;
 }
 
+img {
+    object-fit: cover;
+    max-width: 100%;
+}
 
-#wrapper {
+img.lazy {
+    opacity: 0;
+}
+
+img.lazy.fadeIn {
+    @include mixins.transition;
+    opacity: 1;
+}
+
+
+.wrapper {
     display: block;
     height: 100%;
-    padding: .5em;
+    margin-top: 100px;
+    padding: 0;
     width: 100%;
 }
 
@@ -33,5 +50,5 @@ body {
 
 .container {
     @include mixins.center-spacing;
-    max-width: 1200px;
+    max-width: 70%;
 }

@@ -60,28 +60,27 @@ navToggle.addEventListener("click", (e) => {
 // adjust card height
 
 const recipeHeight = () => {
-    let cardHeight = 0;
-    document.querySelectorAll(".card").forEach((card) => {
-      card.scrollHeight > cardHeight ? (cardHeight = card.scrollHeight) : "";
-    });
+  let cardHeight = 0;
+  document.querySelectorAll(".card").forEach((card) => {
+    card.scrollHeight > cardHeight ? (cardHeight = card.scrollHeight) : "";
+  });
 
-    document.querySelectorAll(".card").forEach((card) => {
-      card.style.height = `${cardHeight}px`;
-    });
+  document.querySelectorAll(".card").forEach((card) => {
+    card.style.height = `${cardHeight}px`;
+  });
 };
 
 // adjust blog card height
 
 const blogCardHeight = () => {
-    let boxHeight = 0;
-    boxes.forEach((box) => {
-      box.scrollHeight > boxHeight ? (boxHeight = box.scrollHeight) : "";
-    });
-    boxes.forEach((box) => {
-        box.style.height = `${boxHeight}px`;
-    });
-  
-}
+  let boxHeight = 0;
+  boxes.forEach((box) => {
+    box.scrollHeight > boxHeight ? (boxHeight = box.scrollHeight) : "";
+  });
+  boxes.forEach((box) => {
+    box.style.height = `${boxHeight}px`;
+  });
+};
 
 //disable preloader
 
@@ -105,7 +104,7 @@ let observer = new IntersectionObserver(async (entries, options) => {
       entry.target.src = await entry.target.getAttribute("data-src");
       setTimeout(() => {
         entry.target.classList.add("fadeIn");
-        observer.unobserve(entry.target)
+        observer.unobserve(entry.target);
         recipeHeight();
         blogCardHeight();
       }, 750);
@@ -120,23 +119,46 @@ images.forEach((image) => {
   observer.observe(image);
 });
 
-
-
 //shrink desktop nav on scroll
 
 if (window.innerWidth >= 968) {
   document.body.addEventListener("scroll", () => {
-    const navBar = document.querySelector('.main-nav');
-    const navBarImg = document.querySelector('.main-nav img')
+    const navBar = document.querySelector(".main-nav");
+    const navBarImg = document.querySelector(".main-nav img");
     if (document.body.scrollTop > 100 || window.pageYOffset > 100) {
-      navBar.style.padding = "0 1.5em"
-      navBar.style.fontSize = ".95em"
-      navBarImg.style.height = "40px"
-      navBarImg.style.marginLeft = "auto"
+      navBar.style.padding = "0 1.5em";
+      navBar.style.fontSize = ".95em";
+      navBarImg.style.height = "40px";
+      navBarImg.style.marginLeft = "auto";
     } else {
       navBar.style.padding = "1em 1.5em";
-      navBar.style.fontSize = "1em"
-      navBarImg.style.height = "100px"
+      navBar.style.fontSize = "1em";
+      navBarImg.style.height = "50px";
     }
-  })
+  });
 }
+
+let parallax = (id, rate) => {
+  const parallaxObject = document.querySelector(id);
+
+  // check to see if there is something to add parallax too
+  if (!parallaxObject) {
+    return;
+  }
+
+  // to calculate what the bg position should be
+  const init = () => {
+    const x = parallaxObject.getBoundingClientRect().top / rate;
+    const y = Math.round((x * 100) / 100);
+    parallaxObject.style.backgroundPosition = "center " + y + "px";
+  };
+  // you need to call init once when the function initializes or else you will get a jumping effect when it recalculates the y position.
+  init();
+  // you need to add this event listener so it will continually update your background positions
+  document.body.addEventListener("scroll", () => {
+    init();
+  });
+};
+
+// call parallax to initialize it
+parallax(".hero", 5);

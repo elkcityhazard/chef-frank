@@ -1,25 +1,109 @@
 @use './_mixins';
 .homepage-header {
-    h1,
-    h2,
-    h3,
-    h4,
-    h5,
-    h6 {
-        text-align: center;
-    }
-
-    margin: {
-        top: 100px;
-    }
-    #cursor {
-        @include mixins.transition;
-        color: #000;
-        opacity: 0;
-        font-size: 1.5em;
-        margin-left: -.20em;
-        &.active {
-            opacity: 1;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    text-align: center;
+  }
+  overflow: hidden;
+  position: relative;
+  img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    z-index: -1;
+  }
+  .bgImg {
+      @include mixins.long-transition;
+      opacity: 0 !important;
+      &.active {
+          opacity: 1 !important;
+      }
+  }
+  .hero-text {
+      background: rgba(255,255,255, 0.66);
+      display: grid;
+      grid-template-columns: 3fr 1fr;
+      grid-template-rows: 1fr 2fr 1fr;
+      height: 100vh;
+      overflow: hidden;
+      z-index: 1;
+    .row {
+      grid-column-start: 1;
+      grid-column-end: 4;
+      grid-row-start: 2;
+      grid-row-end: 3;
+      place-self: center;
+      .container {
+        max-width: 100%;
+        padding: 0 1em;
+        h1,
+        h2 {
+          font-size: 1.5em;
+          text-align: center;
         }
+        #subtitle {
+          font-size: .75em;
+          display: inline;
+          padding: {
+            left: 1em;
+          }
+          width: 100%;
+        }
+        #cursor {
+          @include mixins.transition;
+          color: #000;
+          opacity: 0;
+          font-size: .75em;
+          margin-left: -0.1em;
+          width: 100%;
+          z-index: initial;
+          &.active {
+            opacity: 1;
+          }
+        }
+      }
     }
+  }
+}
+
+@media screen and (min-width: 968px) {
+  .homepage-header {
+    .hero-text {
+      grid-template-columns: 3fr 1fr;
+      .row {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        .container {
+          text-align: left;
+          h1, h2 {
+            font-size: 3em;
+          }
+          #subtitle {
+            font-size: 2.5em;
+            display: inline;
+            padding: {
+              left: 6.25rem;
+            }
+          }
+          #cursor {
+            font-size: 2.5em;            
+          }
+          a.cta-btn {
+            display: inline-block;
+            margin: {
+              left: 5.25em;
+            }
+          }
+        }
+      }
+    }
+  }
+
 }
