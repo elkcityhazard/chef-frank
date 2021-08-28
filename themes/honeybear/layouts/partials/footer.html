@@ -1,0 +1,24 @@
+<footer class="main-footer">
+    <div class="row navigation">
+        <div class="col">
+            <figure class="footer-logo">
+                <img data-src="/images/logos/svg/logo-horizontal.svg" class="lazy" alt="logo" width="350px" height="300px">
+            </figure>
+        </div>
+            <div class="col">
+                <h5>Menu</h5>
+        <nav class="footer-nav">
+            {{ $currentPage := . }}
+            {{- range .Site.Menus.footer -}}
+            <a href="{{ .URL}}">{{- .Name -}}</a>
+            {{ end }}
+        </nav>
+            </div>
+    </div>
+    <div class="row copyright">
+        <div class="container">
+            <span>👋</span>
+        <span>developed and maintained by <a href="https://andrew-mccall.com">Andrew M McCall</a></span>
+        </div>
+    </div>
+</footer>

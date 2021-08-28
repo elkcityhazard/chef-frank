@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Chef Frank&#39;s Recipes</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Chef Frank&#39;s Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Dec 2019 17:39:49 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hacks</title>
+      <link>/tags/hacks/</link>
+      <pubDate>Mon, 16 Dec 2019 17:39:49 +0000</pubDate>
+      
+      <guid>/tags/hacks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Best Practices</title>
+      <link>/tags/best-practices/</link>
+      <pubDate>Mon, 16 Dec 2019 17:39:11 +0000</pubDate>
+      
+      <guid>/tags/best-practices/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIps</title>
+      <link>/tags/tips/</link>
+      <pubDate>Mon, 16 Dec 2019 17:39:11 +0000</pubDate>
+      
+      <guid>/tags/tips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tricks</title>
+      <link>/tags/tricks/</link>
+      <pubDate>Mon, 16 Dec 2019 17:38:30 +0000</pubDate>
+      
+      <guid>/tags/tricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stories</title>
+      <link>/tags/stories/</link>
+      <pubDate>Mon, 16 Dec 2019 17:37:21 +0000</pubDate>
+      
+      <guid>/tags/stories/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

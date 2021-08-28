@@ -1,0 +1,30 @@
+@use './mixins';
+@keyframes spinner {
+    from {
+        transform: rotatez(0);
+    }
+    to {
+        transform: rotatez(360deg);
+    }
+}
+
+.preloader {
+    align-items: center;
+    background: #fff;
+    display: flex;
+    flex-direction: column;
+    font-size: 4em;
+    justify-content: center;
+    position: fixed;
+    min-height: 100vh;
+    min-width: 100vw;
+    text-align: center;
+    top: 0;
+    left: 0;
+    z-index: 999999999;
+    .circle {
+        animation: spinner 350ms linear infinite;
+        margin: auto;
+        display: block;
+    }
+}

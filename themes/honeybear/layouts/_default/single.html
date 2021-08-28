@@ -1,0 +1,56 @@
+{{ define "main" }}
+<div class="fb-root"></div>
+    <script async="true">(function(d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+        fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+<section class="breadcrumbs">
+    {{ partial "breadcrumbs.html" . }}
+</section>
+<div class="single-wrapper">
+    <main class="single-main">
+        {{ if .Params.img}}
+        <figure>
+            <img data-src="{{ .Params.img | absURL }}" class="lazy" alt="{{ .Description }}" width="100%" height="auto">
+        </figure>
+        <h1>{{- .Title -}}</h1>
+        {{ end }}
+        {{ .Content }}
+    
+    </main>
+    <aside class="single-aside">
+    <section class="tags">
+        <h3> <a href="{{ .Site.BaseURL | absURL}}tags">Tags</a> </h3>
+        <ul>
+            {{ range (.GetTerms "tags") }}
+                <li><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+            {{ end }}
+        </ul>
+    </section>
+    <section class="related">
+
+
+{{ $related := .Site.RegularPages.Related . | first 5 }}
+{{ with $related }}
+<h3>See Also</h3>
+<ul>
+	{{ range . }}
+	<li><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    <p>{{ .Description }}</p>
+    </li>
+	{{ end }}
+</ul>
+{{ end }}
+
+
+    </section>
+<section class="facebook-share">
+    <h3>Share </h3>
+    <div class="fb-share-button" data-href="{{ .RelPermalink | absURL }}" data-layout="button_count" data-size="small"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u={{.RelPermalink | absURL }}%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Share</a></div>
+</section>
+    </aside>
+</div>
+{{ end }}

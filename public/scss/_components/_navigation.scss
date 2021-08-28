@@ -1,0 +1,81 @@
+@use './_mixins';
+@use './_colors';
+@use './typography';
+
+@function fadeIn($item, $index) {
+  $result: 1;
+  @for $_ from 1 through $index {
+    $result: $result * $base;
+  }
+  @return $result;
+}
+
+.row.nav-btn-container {
+  background: colors.$roman-silver;
+  margin: 0;
+  height: 3em;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 10;
+  .nav-toggle {
+    @include mixins.transition;
+    background: transparent;
+    border: none;
+    color: colors.$english-violet-dark;
+    cursor: pointer;
+    float: right;
+    font-size: 1.75em;
+    margin: {
+      top: 0em;
+      right: 1.5em;
+      bottom: 0em;
+      left: auto;
+    }
+    &.active {
+      color: #fff;
+    }
+  }
+  &::after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+}
+
+nav.main-nav {
+  @include mixins.transition;
+  background: colors.$english-violet-dark;
+  height: 0;
+  left: 0;
+  overflow: hidden;
+  padding: {
+    top: 0em;
+    right: 1em;
+    bottom: 0em;
+    left: 1em;
+  }
+  position: fixed;
+  top: 0;
+  width: 100%;
+  ul {
+    @include mixins.reset-list;
+    margin-top: 3em;
+    li {
+      font-size: 1em;
+      padding: {
+        top: 1em;
+        right: 1.5em;
+        bottom: 1em;
+        left: 0;
+      }
+      a {
+        opacity: 0;
+      }
+    }
+  }
+  &.active {
+  
+  }
+}

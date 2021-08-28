@@ -1,0 +1,82 @@
+@use './_mixins';
+@use './colors';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Roboto:wght@300;400;500&display=swap');
+/***********************
+**Default Heading Styles
+************************/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+ {
+    font-family: 'Montserrat', sans-serif, monospace;
+    margin: {
+        top: 0.50em;
+        bottom: 0.50em;
+    }
+    text-align: center;
+}
+h1 {
+    font-size: 3em;
+}
+h2 {
+    font-size: 2.5em;
+}
+h3 {
+    font-size: 2em;
+}
+h4 {
+    font-size: 1.75em;
+}
+h5,
+h6 {
+    font-size: 1.5em;
+}
+
+p,
+span {
+    font-family: 'Roboto', sans-serif, monospace;
+    max-width: 60ch;
+    text-align: left;
+}
+
+p {
+    margin: .5em auto;
+    padding: .25em .5em;
+}
+
+h3 + p {
+    text-align: center;
+}
+
+a {
+    @include mixins.transition;
+    color: colors.$silver-sand;
+    display: inline;
+    font-family: 'Roboto';
+    padding: .5em 1em;
+    text-decoration: none;
+    &:hover {
+        color: #fff;
+    }
+}
+
+a.cta-btn {
+    @include mixins.transition;
+    background: colors.$english-violet-dark;
+    color: #fff;
+    display: block;
+    font-size: 1.25em;
+    font-family: 'Helvetica';
+    margin: 1em auto;
+    padding: 1em 1.5em;
+    text-align: center;
+    width: 300px;
+    &:hover {
+        background: colors.$silver-sand;
+        color: colors.$english-violet-dark;
+
+    }
+}

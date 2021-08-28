@@ -1,0 +1,60 @@
+@use './_mixins';
+
+section.products {
+    .row {
+        display: flex;
+        flex-direction: column;
+        h3 {
+            @include mixins.wavy-underline;
+        }
+        .product-card {
+            box-shadow: 2px 2px 20px -10px rgba(0, 0, 0, 0.5);
+            margin: 0 auto 1em;
+            max-width: 60ch;
+            figure {
+                overflow: none;
+                padding: 0;
+                figcaption {
+                    font-weight: 600;
+                }
+                img {
+                    height: 100%;
+                    object-fit: cover;
+                    max-width: 100%;
+                }
+                p {
+                    margin: auto;
+                }
+                .card-info {
+                    align-items: center;
+                    background: rgba(0, 0, 0, 0.5);
+                    justify-content: center;
+                    flex-direction: column;
+                    display: flex;
+                    height: 100%;
+                    width: 100%;
+                    .price,
+                    .shipping {
+                        color: #fff;
+                        text-align: left;
+                        font-size: 2em;
+                        width: 100%;
+                    }
+                }
+            }
+            .cta-btn {
+                font-size: 1.50em;
+                text-align: center;
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 968px) {
+    section.products {
+        .row {
+            justify-content: center;
+            flex-direction: row;
+        }
+    }
+}

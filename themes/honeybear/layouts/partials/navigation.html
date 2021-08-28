@@ -1,0 +1,36 @@
+<div class="row nav-btn-container">
+   <img src="/images/logos/svg/logo-black.svg" alt="logo" height="50" width="200"> <button class="nav-toggle" aria-label="navigation"> 🍔</button>
+</div>
+<nav class="main-nav">
+    <a href="{{.Site.BaseURL }}" title="{{ .Site.Params.description}}">
+
+        <img data-src="/images/logos/svg/logo-black.svg" class="lazy" alt="logo">
+    </a>
+    <ul>
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            {{ if .HasChildren }}
+                <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                    <a href="#">
+                        {{ .Pre }}
+                        {{ .Name }}
+                    </a>
+                </li>
+                <ul class="sub-menu">
+                    {{ range .Children }}
+                        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                            <a href="{{ .URL }}">{{ .Name }}</a>
+                        </li>
+                    {{ end }}
+                </ul>
+            {{ else }}
+                <li>
+                    <a href="{{ .URL }}">
+                        {{ .Pre }}
+                        {{ .Name }}
+                    </a>
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+</nav>

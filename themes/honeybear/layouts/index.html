@@ -1,0 +1,260 @@
+{{ define "main" }}
+
+<!-- Check for homepage -->
+
+<header class="homepage-header {{ .Params.customClass.name | safeCSS }} ">
+  <img
+    src="/images/slider/slider-0.jpg"
+    id="0"
+    alt="slider image"
+    class="bgImg active"
+    height="500px"
+    width="900px"
+  />
+  <img
+    data-src="/images/slider/slider-1.jpg"
+    id="1"
+    alt="slider image"
+    class="bgImg lazy"
+    height="500px"
+    width="900px"
+  />
+  <img
+    data-src="/images/slider/slider-2.jpg"
+    id="2"
+    alt="slider image"
+    class="bgImg lazy"
+    height="500px"
+    width="900px"
+  />
+  <div class="hero-text">
+    <div class="row">
+      <div class="container">
+        <h1>{{.Params.siteHeading}}</h1>
+        <h2 id="subtitle"></h2>
+        <span id="cursor">|</span>
+        <br />
+        {{ with .Params.button }} {{ if .enable }}
+        <a href="{{.link | relURL}}" class="cta-btn" title="{{ .label }}"
+          >{{ .label}}</a
+        >
+
+        {{ end }} {{ end }}
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Top Recipes-->
+{{ with .GetPage "featured" }}
+<section class="top-recipes">
+  <div class="row">
+    <h3>{{ .Title }}</h3>
+  </div>
+  <div class="row">
+    <div class="container">
+      {{ range .Params.recipes }}
+      <div class="card">
+        <div class="col">
+          <a href="{{ .url }}" title="{{ .title }}"><h4>{{- .title -}}</h4></a>
+          <p><strong>Description: </strong>{{ .description }}</p>
+        </div>
+        <div class="col">
+          <figure>
+            <div class="container">
+              <a href="{{ .url | absURL }}">
+                <img
+                  data-src="{{.img | absURL}}"
+                  alt="{{- .Title -}}"
+                  height="300px"
+                  width="350px"
+                  class="lazy"
+              /></a>
+            </div>
+            <figcaption>{{ .title}}</figcaption>
+          </figure>
+        </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</section>
+
+{{ end }}
+
+<!-- end Top Recipes-->
+
+<!-- BIO Section-->
+
+{{ with .GetPage "biography" }}
+
+<section
+  class="biography
+{{- with .Params.custom_css -}}
+{{ if .Params.custom_css.active }}
+{{ .Params.custom_css.name | safeCSS}} 
+{{- end -}} 
+{{- end -}}"
+>
+  <div class="row">
+    <h3>{{ .Title }}</h3>
+  </div>
+  <div class="row">
+    <img data-src="{{ .Params.img | absURL }}" alt="{{ .Title }}" class="lazy opacity-50" height="350px" width="500px" />
+    <div class="container">
+      <div class="col"></div>
+      <div class="col">
+        <h4>{{- .Params.name | markdownify -}}</h4>
+        <p>{{ .Content }}</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
+
+<!-- End Bio -->
+
+<!-- Products -->
+{{- with .GetPage "products" -}}
+<section
+  class="products
+{{- with .Params.custom_css -}}
+{{ if .Params.custom_css.active }}
+{{ .Params.custom_css.name | safeCSS}} 
+{{- end -}} 
+{{- end -}}
+"
+>
+  <div class="row">
+    <h3>{{- .Title -}}</h3>
+  </div>
+  <div class="row">
+    {{- range .Params.products -}}
+    <div class="product-card">
+      <h4>{{- .Title -}}</h4>
+      <figure>
+        <a href="{{- .url | absURL -}}"
+          ><img
+            data-src="{{ .img | absURL}}"
+            alt="{{- .title -}}"
+            width="325px"
+            height="auto"
+            class="lazy"
+        /></a>
+        <figcaption>{{ .Title }}</figcaption>
+      </figure>
+      <p>
+        <strong>Description: </strong>
+        {{- .description -}}
+      </p>
+      <div class="card-info">
+        <span class="price"><strong>Price: $</strong>${{- .price }}</span>
+        <span class="shipping"><strong>Shipping: </strong>{{ .shipping }}</span>
+      </div>
+      <a href="{{ .url | absURL }}" class="cta-btn" title="{{- .Title -}}">
+        Buy Now 🛒 <br />
+      </a>
+    </div>
+    {{- end -}}
+  </div>
+</section>
+{{- end -}}
+
+<!-- end products-->
+
+<!-- Blog -->
+{{- with .GetPage "blog" -}}
+<section class="blog" id="blogContainer">
+  <div class="row">
+    <h3>{{- .Title -}}</h3>
+    <p>{{ .Params.subtitle }}</p>
+  </div>
+  <div class="row">
+    {{- range .Pages | first 3 -}}
+    <div class="blog-card">
+      <img
+        data-src="{{ .Params.img | absURL }}"
+        class="blog-card-image lazy"
+        title="{{ .Description }}"
+        alt="{{ .Title }}"
+        width="100%"
+        height="auto"
+      />
+      <div class="container">
+        <div class="row">
+          <h4>
+            <a href="{{ .RelPermalink | absURL }}" title="{{ .Description }}"
+              >{{ .Title }}</a
+            >
+          </h4>
+          <span
+            ><strong>Date: </strong>{{- .Date | time.Format ":date_long"
+            -}}</span
+          >
+          <br />
+          <span><strong>Author: </strong>{{- .Params.author -}}</span>
+        </div>
+        <div class="row">
+          <p>{{- .Params.description -}}</p>
+        </div>
+        <div class="row">
+          <a
+            href="{{ .RelPermalink | absURL}}"
+            title="{{.Description}}"
+            class="cta-btn"
+            >{{ .Title }}</a
+          >
+        </div>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+<!-- end blog -->
+
+<!--contact section-->
+
+{{ with .GetPage "contact-us"}}
+<section class="contact" id="contact">
+  <div class="circle"></div>
+  <div class="row">
+    <h3>{{ .Title }}</h3>
+  </div>
+  <div class="row">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          {{- .Content -}}
+        </div>
+        <div class="col">
+          <div class="row">
+            <p>Fill out the form below to ask a question or submit a recipe.</p>
+          </div>
+          <form action="{{.Params.api}}" class="contact-form">
+            <div class="form-control">
+              <label for="userName">Name: </label>
+              <input type="text" placeholder="name" name="name" id="userName">
+            </div>
+            <div class="form-control">
+              <label for="userEmail">Email: </label>
+              <input type="text" placeholder="email" name="email" id="userEmail">
+            </div>
+            <div class="form-control">
+              <label for="userMessage">Message: </label>
+              <textarea name="message" placeholder="message" id="userMessage" cols="40" rows="10"></textarea>
+            </div>
+            <div class="form-control">
+              <button type="submit">Submit</button>
+              <button type="reset">Reset</button>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ end }}
+
+{{ end }}

@@ -1,0 +1,17 @@
+@use './_colors';
+@use './_mixins';
+
+.list {
+  h1 {
+    @include mixins.underline;
+    color: colors.$english-violet-dark;
+  }
+  ul {
+      @include mixins.reset-list;
+  }
+  section.list {
+    margin: {
+      top: 1em;
+    }
+  }
+}

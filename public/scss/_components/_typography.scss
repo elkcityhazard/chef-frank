@@ -1,0 +1,39 @@
+@use './mixins';
+@use './colors';
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500&family=Roboto:wght@300;400;500&display=swap');
+/***********************
+**Default Heading Styles
+************************/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6
+ {
+    font-family: 'Montserrat', sans-serif, monospace;
+    text-align: center;
+}
+
+p,
+span {
+    font-family: 'Roboto', sans-serif, monospace;
+    max-width: 60ch;
+    text-align: left;
+}
+
+p {
+    padding: .25em .5em;
+}
+
+a {
+    @include mixins.transition;
+    color: colors.$silver-sand;
+    display: inline;
+    font-family: 'Roboto';
+    padding: .5em 1em;
+    text-decoration: none;
+    &:hover {
+        color: #fff;
+    }
+}

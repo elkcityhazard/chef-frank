@@ -1,0 +1,25 @@
+@use './_mixins';
+.homepage-header {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        text-align: center;
+    }
+
+    margin: {
+        top: 100px;
+    }
+    #cursor {
+        @include mixins.transition;
+        color: #000;
+        opacity: 0;
+        font-size: 1.5em;
+        margin-left: -.20em;
+        &.active {
+            opacity: 1;
+        }
+    }
+}

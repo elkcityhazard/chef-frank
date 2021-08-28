@@ -1,0 +1,21 @@
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta
+    name="description"
+    content="{{ with .Params.Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}"
+  />
+  {{ with site.Params.author }}
+  <meta name="author" content="{{ .name }}" />
+  {{ end }} {{ hugo.Generator }}
+  <title>{{ .Title }}</title>
+
+  <!-- preconnect-->
+
+  <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin />
+
+  <!-- Main Stylesheet -->
+  {{ $styles := resources.Get "css/style.css" | minify }}
+  <link rel="stylesheet" href="{{ $styles.Permalink }}" media="screen" />
+</head>

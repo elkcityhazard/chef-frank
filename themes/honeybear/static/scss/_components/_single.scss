@@ -1,0 +1,125 @@
+@use './_colors';
+@use './_mixins';
+
+section.breadcrumbs {
+    margin: 125px auto 1em;
+    max-width: 968px;
+    padding: 0 1.5em;
+    text-align: center;
+    a {
+        &:hover {
+            color: colors.$english-violet-dark;
+        }
+    }
+}
+
+.single-wrapper {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: auto;
+    max-width: 1200px;
+    padding: 1em;
+    main.single-main,
+    aside.single-aside {
+        margin: 1em auto;
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            border: {
+                bottom: 1px solid #000;
+            }
+            text-align: left;
+        }
+        h3 + p {
+            text-align: left;
+        }
+    }
+    main.single-main {
+        padding: 1em;
+        p {
+            margin: auto;
+            max-width: unset;
+        }
+        ul {
+            margin: auto;
+            max-width: 60ch;
+            padding: 1em;
+            li {
+                a {
+                    color: colors.$english-violet-dark;
+                }
+            }
+        }
+        width: 100%;
+    }
+    
+    aside.single-aside {
+        .tags,
+        .related {
+            h3 {
+                padding: {
+                    
+                }
+                text-align: left;
+            }
+            ul {
+                li {
+                    a {
+                        color: colors.$english-violet-dark;
+                    }
+                }
+            }
+        }
+    }
+}
+
+@media screen and (min-width: 968px) {
+    .single-wrapper {
+        flex-direction: row;
+        justify-content: flex-start;
+        main.single-main {
+            flex: 0 0 66.7%;
+            figure {
+                position: relative;
+                img {
+                    max-height: 640px;
+                }
+                &::after {
+                    background: #000;
+                    content: '';
+                    height: 2px;
+                    position: absolute;
+                    width: calc(100% / 10);
+                    bottom: -1em;
+                    left: 0;
+                }
+            }
+        }
+        aside.single-aside {
+            flex: 0 0 33.3%;
+            margin: {
+                right: auto;
+            }
+            padding-top: 0em;
+            padding-left: 1em;
+            position: sticky;
+            -webkit-position: sticky;
+            -moz-position: sticky;
+            top: 150px;
+            h3 {
+                text-align: left;
+            }
+            ul {
+                li {
+                    a {
+                        color: colors.$english-violet-dark;
+                    }
+                }
+            }
+        }
+    }
+}

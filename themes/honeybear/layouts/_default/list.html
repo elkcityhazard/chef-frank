@@ -1,0 +1,32 @@
+{{ define "main" }}
+<section class="breadcrumbs">
+  {{ partial "breadcrumbs.html" . }}
+</section>
+<main class="list">
+  <section class="hero">
+    <div class="row">
+      <div class="container">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+  </section>
+  <section class="content">
+    {{- .Content -}}
+  </section>
+<section class="list-section">
+  {{ range .Pages }}
+  <div class="recipe-card">
+    {{ if .Params.img }}
+        <img data-src="{{ .Params.img | absURL }}" class="lazy" alt="{{ .Title }}" height="350" width="350">
+      {{ end }}
+    <div class="inner-card">
+      <h2><a href="{{.RelPermalink | absURL }}" title="{{ .Description }}">{{ .Title }}</a></h2>
+      <p>{{ .Description}}</p>
+      <a href="{{ .RelPermalink | absURL }}" class="cta-btn" title="{{ .Description }}">{{ .Title }}</a>
+    </div>
+  </div>
+  {{ end }}
+</section>
+</main>
+
+{{ end }}

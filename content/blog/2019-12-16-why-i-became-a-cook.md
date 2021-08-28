@@ -1,0 +1,21 @@
+---
+title: Why I Became A Cook
+author: elkcityhazard
+description: "I remember as a small child of 4or5 years old sitting in front of our black and white TV. On the screen was a lady pouring in a powdery substance, then adding a liquid. "
+type: post
+date: 2019-12-16T17:37:21+00:00
+url: /why-i-became-a-cook/
+category:
+  - Stories
+tags:
+  - Stories
+
+---
+I remember as a small child of 4or5 years old sitting in front of our black and white TV. On the screen was a lady pouring in a powdery substance, then adding a liquid. She started stirring the mixture up and all of a sudden it was something totally different, a doughy mound. &#8221; Wow&#8221;, I thought, &#8221; I wish I could do that&#8221;. I can&#8217;t explain why I was so mesmerized by something so simple, but I knew I wanted to what that lady did on TV.
+
+<!--more-->
+
+After that I started watching my grandmother in her kitchen while she cooked. This in itself was a privilege, because my grandmother always kicked us kids out as not to be underway. When I told her I wanted to watch her, I promised to be good and not get in her way. I think she knew I had a genuine interest. She would tell me ingredients she was adding and why, and explain steps for various recipes. When I got a little older I could peel potatoes and turn the stove on for her. Years went by and as I grew into a teenager, I wanted to work in a restaurant. My first job was washing dishes at a fancy fish and chips place. I remember the large grinder for making their famous Cole slaw and I had the privilege of cleaning it. After a few months of doing dishes and cleaning up after other people, I had to quite to move north with my family.  
+Once we were settled in our new town in northern Michigan, I was in school on my way to class. I passed the occupation office and noticed a help wanted sign for a restaurant down town. I applied and got the job. Back to washing dishes again. The people were very nice and I made many friends fast. After 2 months of washing dishes, my boss approached me and asked if I was interested in helping him on the line. I jumped at the offer. This is when I discovered what the Cherry Festival was and it seemed everyone was coming to our restaurant to eat. I learned how to move fast, listen well and be extremely observant. Sometimes it felt like a war zone on the front cooking line. I&#8217;ve seen cooks run out the back door crying like a baby due to the stress. I came close several times, but I knew I had to endure or I would fail. I don&#8217;t like failing, especially if it&#8217;s something my heart desires. Our master chef was extremely difficult to work with, but I recognized the knowledge he possessed, and I wanted to know as much as him and more.  
+Of course working at the restaurant was fun too. I remember a very busy Friday night where we would run out of various items and it was the dishwashers job to run up and down the stairs to get our supplies. After about 30 trips up and down, I darted back to the kitchen and said &#8221; Perry, we need a case of monkey lips.&#8221; Down the stairs he shoots like a rocket. I stood in the same spot waiting for him to come back up. &#8220;clomp, clomp, clomp. Up the stairs he comes. &#8220;What did you want again&#8221;? I just started laughing, so did he. I told him I would restock my line for the rest of the night.  
+I worked there for 10 years, then ran a government facility feeding inmates, meal programs and a cafeteria. We did a little catering as well. I learned institutional cooking at this job. I found it quite easy but rewarding. I served over 500 meal a day out of a very small kitchen. I had to develop techniques that were efficient. I spent 8 years there, then on to a job in Jackson Prison, Yikes! I worked in the corrections food service for 5 years. I learned a great deal, but the atmosphere was taxing. After that I held several positions in food service coordinating, and management. I am now in a position I love and enjoy every minute of it. Now after 37 years of food knowledge, I am writing down some of my favorite recipes for you to enjoy. I love to teach people in the kitchen, and will be available for any questions by contacting cheffrank@quick-e-recipes.com

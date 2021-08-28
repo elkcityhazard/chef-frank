@@ -1,0 +1,149 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Chef Frank's Recipes"
+theme = "honeybear"
+author = "https://andrew-mccall.com"
+
+[params.author]
+    name="Andrew M McCall"
+
+[params]
+    description="Chef Frank's every day family meals are fast and easy recipes to help you feed your family 5, 10, or 15 minutes at a time. With more than 200 recipes that can be put together in minutes, and most requiring only one pot or pan"
+
+[related]
+    threshold = 0 
+    includeNewer = true
+    toLower = false
+
+    [[related.indices]]
+        name = "tags"
+        weight = 100
+    
+    [[related.indices]]
+        name = "category"
+        weight = 80
+
+    #[[related.indices]]
+    #    name = "date"
+    #    weight = 10
+
+###Styles###
+[params.plugins.styles]
+link = "css/main.css"
+
+
+####Menus#####
+
+[menu]
+[[menu.main]]
+identifier = '/'
+name = 'Home'
+pre = "🐝"
+url = '/'
+weight = -210
+
+# [[menu.main]]
+# identifier = 'about'
+# name = 'About'
+# pre = "🐝"
+# url = '/about/'
+# weight = -150
+
+[[menu.main]]
+identifier = 'blog'
+name = 'Blog'
+pre = "🐝"
+url = '/blog/'
+weight = -160
+
+[[menu.main]]
+identifier = 'chef-franks-seasoning-recipes'
+name = "Chef Frank's Seasoning Recipes"
+pre = "🐝"
+url = '/chef-franks-seasoning-recipes/'
+weight = -180
+
+# [[menu.main]]
+# identifier = 'contact-us'
+# name = 'Contact'
+# pre = "🐝"
+# url = '/contact-us/'
+# weight = -140
+
+[[menu.main]]
+identifier = 'institutional-recipes-for-200'
+name = 'Institutional Recipes'
+pre = "🐝"
+url = '/institutional-recipes-for-200/'
+weight = -190
+
+# [[menu.main]]
+# identifier = 'kitchen-tools'
+# name = 'Kitchen Tools'
+# pre = "🐝"
+# url = '/kitchen-tools/'
+# weight = -170
+
+[[menu.main]]
+identifier = 'recipes'
+name = 'Recipes'
+pre = "🐝"
+url = '/recipes/'
+weight = -200
+
+## Footer Menu ##
+[[menu.footer]]
+identifier = '/'
+name = 'Home'
+pre = "🐝"
+url = '/'
+weight = -210
+
+[[menu.footer]]
+identifier = 'about'
+name = 'About'
+pre = "🐝"
+url = '/about/'
+weight = -150
+
+[[menu.footer]]
+identifier = 'blog'
+name = 'Blog'
+pre = "🐝"
+url = '/blog/'
+weight = -160
+
+[[menu.footer]]
+identifier = 'chef-franks-seasoning-recipes'
+name = "Chef Frank's Seasoning Recipes"
+pre = "🐝"
+url = '/chef-franks-seasoning-recipes/'
+weight = -180
+
+[[menu.footer]]
+identifier = 'contact-us'
+name = 'Contact'
+pre = "🐝"
+url = '/contact-us/'
+weight = -140
+
+[[menu.footer]]
+identifier = 'institutional-recipes-for-200'
+name = 'Institutional Recipes'
+pre = "🐝"
+url = '/institutional-recipes-for-200/'
+weight = -190
+
+[[menu.footer]]
+identifier = 'kitchen-tools'
+name = 'Kitchen Tools'
+pre = "🐝"
+url = '/kitchen-tools/'
+weight = -170
+
+[[menu.footer]]
+identifier = 'recipes'
+name = 'Recipes'
+pre = "🐝"
+url = '/recipes/'
+weight = -200
