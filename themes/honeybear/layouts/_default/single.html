@@ -16,6 +16,10 @@
         <figure>
             <img data-src="{{ .Params.img | absURL }}" class="lazy" alt="{{ .Description }}" width="100%" height="auto">
         </figure>
+        {{- else -}}
+        <figure>
+            <img data-src="{{ .Site.BaseURL }}images/logos/social/facebook/cover.png" class="lazy" alt="{{ .Description }}" width="100%" height="auto">
+        </figure>
         <h1>{{- .Title -}}</h1>
         {{ end }}
         {{ .Content }}

@@ -2,10 +2,7 @@
 title: Appetizers
 description: "Celebrate Holidays and special events with these quick, wonderful and eye appealing appetizers. Chef Frank's appetizers are fun to prepare and bring a festive flair to your event without keeping you cooped up in the kitchen."
 author: elkcityhazard
-type: Page
 date: 2019-12-10T23:14:49+00:00
-menu: ['recipes']
-summary: "Appetizers are neat"
 img: images/recipes/featured-images/appetizer-list.jpg
 tags: 
   - Appetizers
@@ -15,7 +12,7 @@ category:
 ---
 Celebrate Holidays and special events with these quick, wonderful and eye appealing appetizers. Chef Frank&#8217;s appetizers are fun to prepare and bring a festive flair to your event without keeping you cooped up in the kitchen.
 
-Festive Holiday Appetizers  
+<!-- Festive Holiday Appetizers  
 [Easy Bacon Wrapped Olives][1]  
 [Bacon Wrapped Pineapple][2]  
 [Bacon Wrapped Steak][3]  
@@ -64,4 +61,4 @@ There&#8217;s more to come in our Quick Easy Appetizer Recipes Section!
  [20]: /wordpress/index.php/appetizers/hot-mustard-sauce-recipe/
  [21]: /wordpress/index.php/appetizers/seafood-sauce-recipe/
  [22]: /wordpress/index.php/appetizers/kids-pita-pizza-recipe/
- [23]: /wordpress/index.php/appetizers/puff-pastry-wrap-recipe/
+ [23]: /wordpress/index.php/appetizers/puff-pastry-wrap-recipe/ -->

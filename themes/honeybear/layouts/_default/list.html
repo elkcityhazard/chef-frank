@@ -16,6 +16,9 @@
   <div class="recipe-card">
     {{ if .Params.img }}
         <img data-src="{{ .Params.img | absURL }}" class="lazy" alt="{{ .Title }}" height="350" width="350">
+        {{ else }}
+        <img data-src="{{ .Site.BaseURL }}images/logos/social/facebook/cover.png" class="lazy" alt="{{ .Title }}" height="350" width="350">
+
       {{ end }}
     <div class="inner-card">
       <h2><a href="{{.RelPermalink | absURL }}" title="{{ .Description }}">{{ .Title }}</a></h2>
