@@ -1,8 +1,17 @@
 ---
 title: Macaroni and Cheese Recipe For 200
 author: elkcityhazard
-type: page
-date: 2019-12-11T16:06:38+00:00
+description: "This macaroni and cheese recipe makes 200 servings. It's the best mac and cheese recipe we've ever tried. Kids love it!"
+date: 2021-08-28 
+img: images/recipes/featured-images/frontmatter/mac-and-cheese-for-200.jpg  
+category: 
+  - Institutional Cooking
+  - Casserole 
+tags: 
+  - Kids
+  - Church
+  - Schools
+  - events
 
 ---
 Quick Easy Institutional Macaroni and Cheddar Cheese Recipe is the Favorite of most Kids. Macaroni and Cheddar Cheese from Scratch is great with Fresh Watermelon and <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">Salads</a>. A Warm Roll is Nice too!

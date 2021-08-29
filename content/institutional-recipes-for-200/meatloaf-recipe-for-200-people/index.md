@@ -1,9 +1,18 @@
 ---
 title: Meatloaf Recipe For 200 People
 author: elkcityhazard
-type: page
-date: 2019-12-11T16:19:46+00:00
-featured_image: /wp-content/uploads/2020/01/meatloaf.jpg
+description: "Make a meatloaf recipe for 200 people. This easy large group recipe is the perfect solution for when you need to feed a crowd."
+date: 2021-08-28   
+img: images/recipes/featured-images/frontmatter/meatloaf-recipe-for-200.jpg
+category:   
+  - Institutional Recipes  
+  - Beef 
+tags:  
+  - School 
+  - Green Beans 
+  - Sandwich 
+  - Spaghetti Sauce
+
 
 ---
 Meatloaf for 200 people is a quick easy recipe when feeding a crowd. <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed potatoes</a> and <a href="/wordpress/recipes-for-special-occasions-and-events/simple-green-bean-casserole/" rel="noopener noreferrer" target="_blank">green beans</a> is standard with this meatloaf recipe. Use leftovers for <a href="/wordpress/sandwich-recipes/" rel="noopener noreferrer" target="_blank">sandwiches</a> or put in <a href="/wordpress/recipe-basics-and-sauces/" rel="noopener noreferrer" target="_blank">spaghetti sauce</a>.

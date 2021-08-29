@@ -1,8 +1,16 @@
 ---
 title: Thyme Chicken Breast Entree
 author: elkcityhazard
-type: page
-date: 2019-12-10T18:18:33+00:00
+description: "This Thyme Chicken Breast Entree is a quick and easy recipe that's great for weeknights. It's pan seared in a skillet and then roasted in the oven."
+date: 2019-12-10
+img: images/recipes/featured-images/frontmatter/thyme-chicken-breast.jpg
+category: 
+  - Chef Frank's Seasoning
+  - Chicken
+tags: 
+  - Fresh Herbs
+  - Chicken
+  - maître d'
 
 ---
 Thyme chicken breast is prepared with fresh thyme, herbs and spices, then baked in the oven. It makes a good partner to wild rice, or [roasted red potatoes][1], corn bread, salad or fruit.

@@ -83,7 +83,7 @@
           }
       }
       .footer-nav {
-        align-items: cener;
+        align-items: flex-start;
         display: flex;
         flex-direction: column;
         flex-wrap: wrap;
@@ -95,6 +95,7 @@
         a {
           display: block;
           padding-left: 1em;
+          flex: 0 0 10%;
         }
       }
       h5 {

@@ -1,8 +1,18 @@
 ---
 title: Spaghetti Sauce Recipe For 200 People
 author: elkcityhazard
-type: page
-date: 2019-12-11T16:31:48+00:00
+description: "This is a spaghetti recipe for 200 people. It goes well with fresh ground beef, herbs and spices, and vegetarian variations."
+date: 2021-08-28  
+img: images/recipes/featured-images/frontmatter/spaghetti-for-200.jpg
+category: 
+  - Institutional Cooking 
+  - Pasta 
+  - Beef 
+  - Vegetarian
+tags: 
+  - 200 people
+  - Fresh Herbs and Spices
+  - Vegetarian Options
 
 ---
 Our Spaghetti Sauce Recipe for 200 People will guarantee success for your large group meal. Fresh ground beef, <a href="/wordpress/herbs-and-spices-chart/" rel="noopener noreferrer" target="_blank">herbs and spices</a> and tomato sauce make our spaghetti sauce for 200 a hit! A quick easy recipe. Simply omit the ground beef for a <a href="/wordpress/easy-vegetarian-dinner-recipes/" rel="noopener noreferrer" target="_blank">fantastic vegetarian recipe</a>!

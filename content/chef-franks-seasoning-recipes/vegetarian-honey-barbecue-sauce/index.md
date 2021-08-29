@@ -1,9 +1,17 @@
 ---
 title: Vegetarian Honey Barbecue Sauce
 author: elkcityhazard
-type: page
-date: 2019-12-10T17:27:46+00:00
-
+description: "This is a great bbq sauce recipe that is vegetarian friendly. It's also great for honey barbeque wings."
+date: 2019-12-10
+img: images/recipes/featured-images/frontmatter/honey-teriyaki-barbecue-sauce-homemade.jpg
+category:
+  - Chef Frank's Seasoning
+  - Sauces
+tags: 
+  - Vegetarian
+  - Sauces
+  - grilling
+  - summer
 ---
 Prepare this vegetarian honey barbecue sauce recipe when you&#8217;re [grilling][1] outside or cooking inside. It makes your vegetarian burgers, and ribs taste amazing.
 

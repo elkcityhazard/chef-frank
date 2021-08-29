@@ -40,9 +40,13 @@ ul {
 
 section.hero {
   display: grid;
-  margin: 0 auto 2em;
+  margin: 0 auto;
   min-height: 75vh;
   place-items: center;
+  p {
+    background: rgba(255, 255, 255, 0.75);
+    padding: 1em;
+  }
 }
 
 section.list-section {

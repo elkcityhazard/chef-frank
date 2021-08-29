@@ -1,8 +1,16 @@
 ---
 title: Apple Crisp For 200
 author: elkcityhazard
-type: page
-date: 2019-12-11T14:27:03+00:00
+description: "Apple crisp is a great dessert for schools, camps, and churches. It's easy to make and serves 200 people." 
+date: 2021-08-28
+img: images/recipes/featured-images/frontmatter/apple-bread-for-200.jpg
+category: 
+  - Institutional Cooking
+  - desserts
+tags: 
+  - Dessert    
+  - Apples
+  - 200 People
 
 ---
 [Kids][1] and adults love apple crisp for dessert. So easy to make and goes with any meal. Schools, camps, and churches love this recipe.

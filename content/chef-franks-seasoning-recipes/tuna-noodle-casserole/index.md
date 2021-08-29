@@ -1,8 +1,17 @@
 ---
 title: Tuna Noodle Casserole
 author: elkcityhazard
-type: page
-date: 2019-12-10T22:25:33+00:00
+description: "Tuna Noodle Casserole is a Family Favorite and is a Quick and Easy Recipe to Prepare. Our Creamy Tuna Noodle Casserole is Comfort Food for those Cold Winter Days."
+date: 2019-12-10
+img: images/recipes/featured-images/frontmatter/tuna-noodle-casserole.jpg
+category: 
+  - Chef Frank's Seasoning
+tags: 
+  - Seafood
+  - Casserole
+  - One Dish
+  - Recipe Basics
+  - Sauces
 
 ---
 Tuna Noodle Casserole is a Family Favorite and is a Quick and Easy Recipe to Prepare. Our Creamy Tuna Noodle Casserole is Comfort Food for those Cold Winter Days.

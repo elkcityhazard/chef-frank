@@ -1,9 +1,17 @@
 ---
 title: Apple Bread For 200 Recipe
 author: elkcityhazard
-type: page
-date: 2019-12-11T14:14:05+00:00
-
+description: "When you're an institution, people expect a certain level of quality. This apple bread recipe is perfect for your cooking needs." 
+date: 2021-08-28
+img: images/recipes/featured-images/frontmatter/apple-bread-for-200.jpg
+category: 
+  - Bread
+  - Institutional Cooking
+tags: 
+  - Bread
+  - 200 people
+  - Breakfast
+  - Muffins
 ---
 Our apple bread recipe is easy to make about a 15 minute prep time. This recipe from scratch will keep your clients happy. Apple quick bread for 200 will enhance any [breakfast][1] and makes great muffins too.
 

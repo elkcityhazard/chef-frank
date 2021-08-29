@@ -126,14 +126,9 @@ if (window.innerWidth >= 968) {
     const navBar = document.querySelector(".main-nav");
     const navBarImg = document.querySelector(".main-nav img");
     if (document.body.scrollTop > 100 || window.pageYOffset > 100) {
-      navBar.style.padding = "0 1.5em";
-      navBar.style.fontSize = ".95em";
-      navBarImg.style.height = "40px";
-      navBarImg.style.marginLeft = "auto";
+      navBar.style.padding = "0";
     } else {
-      navBar.style.padding = "1em 1.5em";
-      navBar.style.fontSize = "1em";
-      navBarImg.style.height = "50px";
+      navBar.style.padding = "1.5em";
     }
   });
 }

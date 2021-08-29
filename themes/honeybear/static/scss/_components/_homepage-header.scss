@@ -51,17 +51,19 @@
         }
         #subtitle {
           font-size: .75em;
-          display: inline-block;
-          padding: {
-            left: 1em;
-          }
-          text-align: left;
-          padding-left: 33%;
+          display: block;
+          margin: auto;
+          text-align: center;
+          position: relative;
         }
         #cursor {
           @include mixins.transition;
           color: #000;
           opacity: 0;
+          position: absolute;
+          top: 0;
+          right: 1em;
+          bottom: 0;
           font-size: .75em;
           margin-left: -0.1em;
           width: 100%;

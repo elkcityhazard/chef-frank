@@ -1,9 +1,19 @@
 ---
 title: Quick and Easy Chili Recipe For 200 People
 author: elkcityhazard
-type: page
-date: 2019-12-11T16:36:46+00:00
-
+description: "This chili recipe for 200 is perfect for church functions or a lunch at the office. It's served with corn bread and shredded cheese."
+date: 2021-08-28
+img: images/recipes/featured-images/frontmatter/chili-recipe-for-200.jpg
+category: 
+  - Institutional Cooking
+  - Soup
+  - Church
+  - Schools
+tags: 
+  - Beef 
+  - Shredded Cheese 
+  - Corn Bread 
+  - Affordable 
 ---
 Try this quick easy chili recipe for school kid&#8217;s lunch or a church function. Corn bread and shredded cheddar cheese along with a <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">salad</a> make this a great meal and is very affordable as well.
 

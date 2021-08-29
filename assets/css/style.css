@@ -228,10 +228,10 @@ a.cta-btn:hover {
 }
 .homepage-header .hero-text .row .container #subtitle {
   font-size: 0.75em;
-  display: inline-block;
-  padding-left: 1em;
-  text-align: left;
-  padding-left: 33%;
+  display: block;
+  margin: auto;
+  text-align: center;
+  position: relative;
 }
 .homepage-header .hero-text .row .container #cursor {
   transition: all 250ms linear;
@@ -239,6 +239,10 @@ a.cta-btn:hover {
   -moz-transition: all 250ms linear;
   color: #000;
   opacity: 0;
+  position: absolute;
+  top: 0;
+  right: 1em;
+  bottom: 0;
   font-size: 0.75em;
   margin-left: -0.1em;
   width: 100%;
@@ -276,9 +280,12 @@ a.cta-btn:hover {
   }
 }
 section.breadcrumbs {
-  margin: 125px auto 1em;
+  align-items: center;
+  display: grid;
+  margin: auto;
   max-width: 968px;
-  padding: 0 1.5em;
+  padding: 2em 1.5em;
+  place-items: center;
   text-align: center;
 }
 section.breadcrumbs a:hover {
@@ -419,9 +426,13 @@ ul li {
 
 section.hero {
   display: grid;
-  margin: 0 auto 2em;
+  margin: 0 auto;
   min-height: 75vh;
   place-items: center;
+}
+section.hero p {
+  background: rgba(255, 255, 255, 0.75);
+  padding: 1em;
 }
 
 section.list-section {
@@ -839,13 +850,15 @@ section.products .row .product-card figure a {
   display: block;
   height: auto;
   margin: auto;
+  padding: 0;
   max-width: 75%;
   overflow: hidden;
 }
 section.products .row .product-card figure a img {
   height: 100%;
   object-fit: cover;
-  max-width: 100%;
+  margin: none;
+  width: 100%;
 }
 section.products .row .product-card figure a img:hover {
   transform: scale(1.2);
@@ -1217,7 +1230,7 @@ section.contact .row .container .row .col .contact-form .form-control textarea {
     max-width: 100%;
   }
   .main-footer .row.navigation .footer-nav {
-    align-items: cener;
+    align-items: flex-start;
     display: flex;
     flex-direction: column;
     flex-wrap: wrap;
@@ -1230,6 +1243,7 @@ section.contact .row .container .row .col .contact-form .form-control textarea {
   .main-footer .row.navigation .footer-nav a {
     display: block;
     padding-left: 1em;
+    flex: 0 0 10%;
   }
   .main-footer .row.navigation h5 {
     color: #c0c5c1;

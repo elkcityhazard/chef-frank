@@ -1,8 +1,15 @@
 ---
 title: Scalloped Corn Recipe For 200 People
 author: elkcityhazard
-type: page
-date: 2019-12-11T16:27:10+00:00
+description: "If you're looking for a scalloped corn recipe for 200, this is it. Accompanies many entrees and will hold for several hours in the warmer."
+date: 2021-08-28
+img: images/recipes/featured-images/frontmatter/scalloped-corn-for-200.jpg 
+category:
+  - Institutional Cooking
+  - Side Dish
+tags:
+  - affordable
+  - 200 people
 
 ---
 Scalloped Corn is quite an easy institutional recipe to prepare for large groups and accompanies many entrees. Scalloped Corn for 200 will hold for several hours in a warmer at 140&#8457; &#8211; 165&#8457;.

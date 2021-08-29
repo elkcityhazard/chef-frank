@@ -1,9 +1,13 @@
 ---
 title: Poppy Seed Bread Recipe For 200 People
 author: elkcityhazard
-type: page
-date: 2019-12-11T16:23:27+00:00
-
+description: "A poppy seed bread recipe for 200 that is popular as a breakfast bread, but also makes great muffins. Easy to prepare and serve."
+date: 2021-08-28 
+img: images/recipes/featured-images/frontmatter/poppy-seed-bread-for-200.jpg 
+category:
+  - Institutional Cooking
+  - breakfast
+  - dessert
 ---
 Easy quick poppy seed bread recipe for <a href="/wordpress/dessert-recipes/" rel="noopener noreferrer" target="_blank">dessert</a> or as a breakfast bread. makes <a href="/wordpress/easy-bread-recipes/" rel="noopener noreferrer" target="_blank">great muffins</a> too. poppy seed bread for 200 will keep your clients tummies happy and is easy to prepare and serve.
 

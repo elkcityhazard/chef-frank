@@ -1,8 +1,16 @@
 ---
 title: Banana Bread And Muffins Recipe For 200 People
 author: elkcityhazard
-type: page
-date: 2019-12-11T14:51:23+00:00
+description: "This is the most popular recipe on the blog. It's a simple scratch recipe for banana bread that uses fresh ingredients. And it's been tested and retested - over 200 times - to get it just right!"
+date: 2021-08-28
+img: images/recipes/featured-images/frontmatter/banana-bread-for-200-people.jpg
+category:
+  - Institutional Cooking
+  - Bread
+tags:
+ - Bread
+ - desserts
+ - Bananas
 
 ---
 ## Banana Bread Recipe For 200
