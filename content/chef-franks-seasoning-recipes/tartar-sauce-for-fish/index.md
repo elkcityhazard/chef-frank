@@ -1,11 +1,18 @@
 ---
 title: Tartar Sauce For Fish
 author: elkcityhazard
-type: page
-date: 2019-12-10T22:41:05+00:00
-
+description: "Learn all about tartar sauce. What is in tartar sauce, how to make tartar sauce, and other sauce recipes for fish."
+date: 2019-12-10
+img: images/recipes/featured-images/frontmatter/tartar-sauces.jpg
+category:
+  - Chef Frank's Seasoning
+  - Fish
+tags:
+  - Sauces
+  - Dressing
+  - Thousand Island Dressing
 ---
-Quick Easy Tartar Sauce Recipe makes [fish meals][1] complete. With a touch of lemon, Tartar Sauce is great with Fried Clams or Walleye, and Fish and Chips.
+Quick Easy Tartar Sauce Recipe makes fish meals complete. With a touch of lemon, Tartar Sauce is great with Fried Clams or Walleye, and Fish and Chips.
 
 ## Tartar Sauce Ingredients
 
@@ -18,8 +25,5 @@ Quick Easy Tartar Sauce Recipe makes [fish meals][1] complete. With a touch of l
 
 Mix ingredients together well, serve with fish and other seafoods. Refrigerate, covered.
 
-**Note:** Did you know that by adding1/4 c ketchup to this recipe you have a great Thousand Island sauce. Great for [salads][2], fish or [sandwiches][3].
+**Note:** Did you know that by adding 1/4 c ketchup to this recipe you have a great Thousand Island sauce. Great for salads, fish or sandwiches.
 
- [1]: /wordpress/seafood-dishes/
- [2]: /wordpress/vegetables-and-salad-recipes/
- [3]: /wordpress/sandwich-recipes/grilled-sandwich-recipes/
