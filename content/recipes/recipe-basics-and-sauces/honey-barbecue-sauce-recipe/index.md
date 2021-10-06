@@ -1,10 +1,24 @@
 ---
 title: Honey Barbecue Sauce Recipe
 author: elkcityhazard
-type: page
+description: "This is the best honey barbecue sauce recipe you will find online. It's sweet, tangy, and will be a hit at your next barbecue!"
 date: 2019-12-12T14:30:12+00:00
+img: https://source.unsplash.com/640x426/?honey,sauce,barbecue
+category:
+  - Recipes and Sauces
+  - Barbecue
+  - Pork
+  - Honey
+tags:
+  - Beef
+  - Pork
+  - Chicken
+  - Fish
+  - Honey
 
 ---
+# Honey Barbecue Sauce Recipe
+
 Try Chef Frank&#8217;s Homemade Honey Barbecue Sauce when you&#8217;re grilling outside in the summer or cooking inside when it&#8217;s not so warm out. This sauce makes your [ribs][1], [chicken][2], or [steak][3] come alive with the sweet taste of [local honey][4].
 
 ## Honey Barbecue Sauce Ingredients

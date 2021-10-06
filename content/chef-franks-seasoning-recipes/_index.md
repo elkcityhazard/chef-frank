@@ -7,7 +7,6 @@ img: images/backgrounds/fruit-on-white.jpg
 
 ---
 Chef Frank's is the home of Traverse City Cherry Honey. This one of a kind cherry honey was developed in 1995 by Chef Frank and is a staple during the National Cherry Festival and all summer long. Sold by specialty food retailers and farm stands throughout the Traverse City area.
-
 Try these wonderful recipes all including Chef Frank's Seasoning. You can also use Chef Frank's Seasoning in your own recipes as well, instead of that "other" seasoning that is mostly sugar, tricalcium phosphate, MSG, and fillers. Chef Frank's Seasoning is free of chemicals and fillers, allergen free, and includes only salt, and the finest herbs and spices. 
 
 

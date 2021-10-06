@@ -1,11 +1,20 @@
 ---
 title: Homemade Barbecue Sauce Recipe With Red Wine
 author: elkcityhazard
-type: page
+description: "A Traverse City favorite, Chef Frank's BBQ sauce is easy to make and versatile. It's a great gift for the bbq lover in your life!"
 date: 2019-12-11T02:14:39+00:00
+img: https://source.unsplash.com/640x426/?barbecue,sauce
+category:
+  - Recipes and Sauces
+  - Beef
+  - Chicken
+  - Pork
+  - Barbecue
+
 
 ---
-Prepare this wonderful barbecue sauce on the stove. Great for [grilling][1] outside or in. Use our sauce for [chicken][2], ribs, [pork][3], or barbecue sandwiches. Chef Frank finishes this recipe off with red wine for an added kick!
+# Homemade Barbecue Sauce Recipe With Red Wine
+Prepare this wonderful barbecue sauce on the stove. Great for grilling outside or in. Use our sauce for chicken, ribs, pork, or barbecue sandwiches. Chef Frank finishes this recipe off with red wine for an added kick!
 
 ## Barbecue Sauce Recipe
 

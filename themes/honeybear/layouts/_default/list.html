@@ -8,9 +8,6 @@
       </div>
     </div>
   </section>
-  <section class="breadcrumbs">
-    {{ partial "breadcrumbs.html" . }}
-  </section>
 <section class="list-section">
   {{ range .Pages }}
   <div class="recipe-card">
@@ -29,5 +26,10 @@
   {{ end }}
 </section>
 </main>
+<aside>
+  <section class="list-breadcrumbs">
+    {{ partial "breadcrumbs.html" . }}
+  </section>
+</aside>
 
 {{ end }}

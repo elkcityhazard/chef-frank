@@ -1,13 +1,19 @@
 ---
 title: Banana Kuhl Fry Recipe
 author: elkcityhazard
-type: page
-date: 2019-12-16T16:34:06+00:00
+description: "Quick Easy Banana Kuhl Fry is great for those Last Minute Desserts. Simply cut Bananas and Place in Dish with Sour Cream, Sugar and Coconut. Banana Kuhl Fry for Dessert!"
+date: 2019-12-16
+img: https://source.unsplash.com/640x426/?banana,kuhl,dessert
+category:
+  - Desserts
+tags:
+  - Bananas
+  - Coconut
+  - Sour Cream
 
 ---
-Quick Easy Banana Kuhl Fry is great for those [Last Minute Desserts][1]. Simply cut Bananas and Place in Dish with Sour Cream, Sugar and Coconut. Banana Kuhl Fry for Dessert!
 
-## Banana Kuhl fry Ingredients
+## Banana Kuhl Fry Recipe
 
   * Bananas
   * 1/2 c sour cream

@@ -12,7 +12,6 @@ html,
 body {
   font-size: 1em;
   height: 100%;
-  overflow-x: hidden;
   scroll-behavior: smooth;
   width: 100%;
 }
@@ -217,29 +216,27 @@ a.cta-btn:hover {
   place-self: center;
 }
 .homepage-header .hero-text .row .container {
-  max-width: 1000px;
+  margin: auto;
+  max-width: 85%;
   text-align: left;
   padding: 0 1em;
 }
 .homepage-header .hero-text .row .container h1,
 .homepage-header .hero-text .row .container h2 {
   font-size: 1.5em;
-  text-align: center;
+  text-align: left;
 }
 .homepage-header .hero-text .row .container #subtitle {
   font-size: 0.75em;
-  display: block;
-  margin: auto;
+  display: inline-block;
   text-align: center;
-  position: relative;
 }
-.homepage-header .hero-text .row .container #cursor {
+.homepage-header .hero-text .row .container #subtitle #cursor {
   transition: all 250ms linear;
   -webkit-transition: all 250ms linear;
   -moz-transition: all 250ms linear;
   color: #000;
   opacity: 0;
-  position: absolute;
   top: 0;
   right: 1em;
   bottom: 0;
@@ -248,7 +245,7 @@ a.cta-btn:hover {
   width: 100%;
   z-index: initial;
 }
-.homepage-header .hero-text .row .container #cursor.active {
+.homepage-header .hero-text .row .container #subtitle #cursor.active {
   opacity: 1;
 }
 
@@ -258,21 +255,29 @@ a.cta-btn:hover {
   }
   .homepage-header .hero-text .row {
     grid-column-start: 1;
-    grid-column-end: 2;
+    grid-column-end: 3;
   }
   .homepage-header .hero-text .row .container {
+    min-height: 2.5em;
     text-align: left;
+    width: 100%;
   }
-  .homepage-header .hero-text .row .container h1, .homepage-header .hero-text .row .container h2 {
+  .homepage-header .hero-text .row .container h1,
+.homepage-header .hero-text .row .container h2 {
     font-size: 3em;
   }
   .homepage-header .hero-text .row .container #subtitle {
     font-size: 2.5em;
     display: inline;
-    padding-left: 6.25rem;
+    text-align: left;
   }
   .homepage-header .hero-text .row .container #cursor {
     font-size: 2.5em;
+    margin-top: 0;
+    opacity: 0;
+  }
+  .homepage-header .hero-text .row .container #cursor.active {
+    opacity: 1;
   }
   .homepage-header .hero-text .row .container a.cta-btn {
     display: inline-block;
@@ -284,9 +289,17 @@ section.breadcrumbs {
   display: grid;
   margin: auto;
   max-width: 968px;
-  padding: 2em 1.5em;
-  place-items: center;
-  text-align: center;
+  padding: 0;
+}
+section.breadcrumbs ol.breadcrumbs {
+  list-style: none;
+  margin: auto;
+  padding: 0;
+  width: 100%;
+}
+section.breadcrumbs ol.breadcrumbs li {
+  display: block;
+  text-align: left;
 }
 section.breadcrumbs a:hover {
   color: #574b60;
@@ -378,7 +391,7 @@ section.breadcrumbs a:hover {
     position: sticky;
     -webkit-position: sticky;
     -moz-position: sticky;
-    top: 150px;
+    top: 80px;
   }
   .single-wrapper aside.single-aside h3 {
     text-align: left;
@@ -439,15 +452,17 @@ section.list-section {
   display: grid;
   place-items: center;
   gap: 1em;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(325px, 1fr));
   margin: auto;
-  padding: 0.5em 0.66em;
+  padding: 0.5em 1em;
+  max-width: 100%;
 }
 section.list-section .recipe-card {
   box-shadow: 5px 5px 20px -7px rgba(0, 0, 0, 0.5);
   height: 100%;
   margin: auto;
   margin-bottom: 1em;
+  max-width: 100%;
   position: relative;
   overflow: hidden;
 }
@@ -488,12 +503,24 @@ section.list-section .recipe-card .inner-card p {
 }
 section.list-section .recipe-card .inner-card .cta-btn {
   background: transparent;
-  outline: 1px solid #fff;
+  border-radius: 40px;
+  background: #ffb930;
 }
-section.list-section .recipe-card .inner-card .cta-btn:hover {
+section.list-section .recipe-card .inner-card .cta-btn:hover, section.list-section .recipe-card .inner-card .cta-btn:active {
   background: #fff;
+  box-shadow: 2px 2px 20px -10px rgba(0, 0, 0, 0.25);
   color: #473557;
   outline-color: #7d8491;
+}
+
+section.list-breadcrumbs {
+  padding: 1rem;
+}
+section.list-breadcrumbs ol.breadcrumbs {
+  list-style: none;
+}
+section.list-breadcrumbs ol.breadcrumbs li {
+  display: block;
 }
 
 .row.nav-btn-container {
@@ -579,7 +606,7 @@ nav.main-nav ul li a {
   display: block;
   font-size: 1em;
   opacity: 0;
-  padding: 1em 1.5em;
+  padding: 1em 0.25rem;
   width: 100%;
 }
 nav.main-nav ul li a :hover {
@@ -824,6 +851,11 @@ section.biography .row img.lazy.fadeIn.opacity-50 {
     margin: 0.25em auto;
   }
 }
+section.products {
+  margin-top: -1rem;
+  overflow: hidden;
+  position: relative;
+}
 section.products .row {
   display: flex;
   flex-direction: column;
@@ -834,6 +866,7 @@ section.products .row h3 {
   -moz-text-decoration: underline wavy #473557 2px;
 }
 section.products .row .product-card {
+  background: rgba(255, 255, 255, 0.75);
   box-shadow: 2px 2px 20px -10px rgba(0, 0, 0, 0.5);
   margin: 0 auto 1em;
   max-width: 60ch;
@@ -886,6 +919,16 @@ section.products .row .product-card .cta-btn {
   font-size: 1.5em;
   text-align: center;
 }
+section.products .row .circle {
+  background: transparent;
+  left: 0;
+  min-height: 100%;
+  position: absolute;
+  top: 0;
+  transform: scale(1.5) rotateZ(45deg);
+  width: 50%;
+  z-index: -1;
+}
 
 @media screen and (min-width: 968px) {
   section.products .row {
@@ -921,9 +964,7 @@ section.blog .row .blog-card {
   background: #574b60;
   border-radius: 10px;
   margin: 1em auto;
-  opacity: 0;
   position: relative;
-  transform: translateY(100%);
   width: 350px;
 }
 section.blog .row .blog-card img.blog-card-image {
@@ -966,7 +1007,7 @@ section.blog .row .blog-card .container .row h4 a:hover {
 section.blog .row .blog-card .container .row p {
   padding: 1em;
 }
-section.blog .row .blog-card.active {
+section.blog .row .blog-card.fadeIn {
   transition-delay: 150ms;
   transition-property: opacity;
   opacity: 1;
@@ -1203,7 +1244,7 @@ section.contact .row .container .row .col .contact-form .form-control textarea {
 .main-footer .row.copyright {
   background: #574b60;
   margin: 0;
-  width: 100vw;
+  width: 100%;
 }
 
 @media screen and (min-width: 968px) {

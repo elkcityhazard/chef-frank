@@ -122,10 +122,10 @@ images.forEach((image) => {
 //shrink desktop nav on scroll
 
 if (window.innerWidth >= 968) {
-  document.body.addEventListener("scroll", () => {
+  window.addEventListener("scroll", () => {
     const navBar = document.querySelector(".main-nav");
     const navBarImg = document.querySelector(".main-nav img");
-    if (document.body.scrollTop > 100 || window.pageYOffset > 100) {
+    if (document.scrollTop > 100 || window.pageYOffset > 100) {
       navBar.style.padding = "0";
     } else {
       navBar.style.padding = "1.5em";

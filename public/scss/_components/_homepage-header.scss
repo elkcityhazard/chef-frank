@@ -20,20 +20,20 @@
     z-index: -1;
   }
   .bgImg {
-      @include mixins.long-transition;
-      opacity: 0 !important;
-      &.active {
-          opacity: 1 !important;
-      }
+    @include mixins.long-transition;
+    opacity: 0 !important;
+    &.active {
+      opacity: 1 !important;
+    }
   }
   .hero-text {
-      background: rgba(255,255,255, 0.66);
-      display: grid;
-      grid-template-columns: 3fr 1fr;
-      grid-template-rows: 1fr 2fr 1fr;
-      height: 100vh;
-      overflow: hidden;
-      z-index: 1;
+    background: rgba(255, 255, 255, 0.66);
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    grid-template-rows: 1fr 2fr 1fr;
+    height: 100vh;
+    overflow: hidden;
+    z-index: 1;
     .row {
       grid-column-start: 1;
       grid-column-end: 4;
@@ -41,31 +41,33 @@
       grid-row-end: 3;
       place-self: center;
       .container {
-        max-width: 100%;
+        margin: auto;
+        max-width: 85%;
+        text-align: left;
         padding: 0 1em;
         h1,
         h2 {
           font-size: 1.5em;
-          text-align: center;
+          text-align: left;
         }
         #subtitle {
-          font-size: .75em;
-          display: inline;
-          padding: {
-            left: 1em;
-          }
-          width: 100%;
-        }
-        #cursor {
-          @include mixins.transition;
-          color: #000;
-          opacity: 0;
-          font-size: .75em;
-          margin-left: -0.1em;
-          width: 100%;
-          z-index: initial;
-          &.active {
-            opacity: 1;
+          font-size: 0.75em;
+          display: inline-block;
+          text-align: center;
+          #cursor {
+            @include mixins.transition;
+            color: #000;
+            opacity: 0;
+            top: 0;
+            right: 1em;
+            bottom: 0;
+            font-size: 0.75em;
+            margin-left: -0.1em;
+            width: 100%;
+            z-index: initial;
+            &.active {
+              opacity: 1;
+            }
           }
         }
       }
@@ -79,21 +81,27 @@
       grid-template-columns: 3fr 1fr;
       .row {
         grid-column-start: 1;
-        grid-column-end: 2;
+        grid-column-end: 3;
         .container {
+          min-height: 2.5em;
           text-align: left;
-          h1, h2 {
+          width: 100%;
+          h1,
+          h2 {
             font-size: 3em;
           }
           #subtitle {
             font-size: 2.5em;
             display: inline;
-            padding: {
-              left: 6.25rem;
-            }
+            text-align: left;
           }
           #cursor {
-            font-size: 2.5em;            
+            font-size: 2.5em;
+            margin-top: 0;
+            opacity: 0;
+            &.active {
+              opacity: 1;
+            }
           }
           a.cta-btn {
             display: inline-block;
@@ -105,5 +113,4 @@
       }
     }
   }
-
 }

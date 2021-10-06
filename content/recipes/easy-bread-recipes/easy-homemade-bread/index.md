@@ -1,10 +1,16 @@
 ---
 title: Easy Homemade Bread
 author: elkcityhazard
-type: single
+description: "Chef Frank's Recipes offers easy, handcrafted whole wheat bread recipes. With our quick and simple recipes, you can make your family and guests welcome home."
 date: 2019-12-16T16:06:40+00:00
-
+img: https://source.unsplash.com/640x426/?bread,homemade
+category:
+  - Bread
+tags:
+  - Bread
+  - Beef 
 ---
+# Easy Homemade Bread
 Quick Easy Whole Wheat or White Bread Recipe is From Scratch, Makes Two Loaves, and is the same as Grandma Makes. Homemade Bread Aroma Welcomes Your Family and Guests Warmly.
 
 ## Homemade Bread Ingredients

@@ -2,13 +2,20 @@
 title: Poppy Seed Bread Recipe
 author: elkcityhazard
 description: "Poppy Seed Bread is an old Family Favorite Quick Bread Recipe. So Easy to Prepare, Poppy Seed Bread with a Hint of Lemon is Wonderful forcBreakfast or a Quick Dessert."
-type: single
+img: https://source.unsplash.com/640x426/?poppy%20seed,bread
 date: 2019-12-16T16:01:53+00:00
+category: 
+  - Bread 
 tags: 
   - Bread
+  - Dessert
+  - Muffins
+  - Rolls
 
 ---
-Poppy Seed Bread is an old Family Favorite Quick Bread Recipe. So Easy to Prepare, Poppy Seed Bread with a Hint of Lemon is Wonderful for [Breakfast][1] or a [Quick Dessert][2].
+Poppy Seed Bread 
+
+Poppy Seed Bread is an old Family Favorite Quick Bread Recipe. So Easy to Prepare, Poppy Seed Bread with a Hint of Lemon is Wonderful for Breakfast or a Quick Dessert.
 
 ## Poppy Seed Bread Ingredients
 
@@ -22,6 +29,3 @@ Poppy Seed Bread is an old Family Favorite Quick Bread Recipe. So Easy to Prepar
 ## Poppy Seed Bread Directions
 
 Mix all ingredients in large bowl, beat as for cake. Bake in pre-heated oven 350&#8457; for 40-50 minutes.
-
- [1]: /wordpress/easy-breakfast-recipes/
- [2]: /wordpress/dessert-recipes/

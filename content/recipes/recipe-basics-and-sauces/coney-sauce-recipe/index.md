@@ -3,7 +3,7 @@ title: Coney Sauce Recipe
 author: elkcityhazard
 description: "This hot dog sauce recipe is a family favorite! The sweet and tangy taste of Vadalia Onions with Koegel Vienna's hot dogs is a Chef Frank original."
 date: 2019-12-16
-img: images/recipes/featured-images/frontmatter/original-coney-sauce-recipe.jpg
+img: https://source.unsplash.com/640x426/?coney,sauce
 tags:
   - Sauces
   - Recipe Basics

@@ -1,9 +1,14 @@
 ---
 title: All Sweet Nut Cookies
 author: elkcityhazard
-type: page
+description: "Sandy's delicious nut cookies are perfect for kids to help make. They're great for parties and get togethers."
 date: 2019-12-16T17:09:03+00:00
-
+img: https://source.unsplash.com/640x426/?cookies
+category:
+  - Desserts
+tags:
+  - Nuts
+  - Kids
 ---
 Sandy&#8217;s allsweet nut cookies are fun and easy to make. A great snack for [kids][1] after school or anytime. Get the kids to help make these delicious cookies.
 

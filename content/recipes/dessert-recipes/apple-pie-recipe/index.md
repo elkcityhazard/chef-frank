@@ -1,10 +1,20 @@
 ---
 title: Apple Pie Recipe
 author: elkcityhazard
-type: page
+description: "Apple Pie with Michigan Apples is Quick to Prepare and Easy to Eat. Using Fresh Apples for This Apple Pie Recipe, Tops off any Meal, Top that with Vanilla Ice Cream or Cheese."
 date: 2019-12-16T16:45:25+00:00
+img: https://source.unsplash.com/640x426/?apple,pie
+category:
+  - Desserts
+tags:
+  - Apples
+  - Pie
+  - Vanilla Ice Cream
+  - Cheese
 
 ---
+# Apple Pie Recipe
+
 Apple Pie with Michigan Apples is Quick to Prepare and Easy to Eat. Using Fresh Apples for This Apple Pie Recipe, Tops off any Meal, Top that with Vanilla Ice Cream or Cheese.
 
 ## Quick Apple Pie Ingredients

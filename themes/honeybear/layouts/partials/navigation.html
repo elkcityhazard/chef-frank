@@ -12,7 +12,6 @@
             {{ if .HasChildren }}
                 <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
                     <a href="#">
-                        {{ .Pre }}
                         {{ .Name }}
                     </a>
                 </li>
@@ -26,7 +25,6 @@
             {{ else }}
                 <li>
                     <a href="{{ .URL }}">
-                        {{ .Pre }}
                         {{ .Name }}
                     </a>
                 </li>

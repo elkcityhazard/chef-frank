@@ -1,13 +1,15 @@
 ---
 title: Quick Au Jus
 author: elkcityhazard
-type: page
+description: "Au jus is a great sauce for your holiday meals. It's made with a touch of wine, and it will bring out the flavor of your turkey."
 date: 2019-12-16T17:31:48+00:00
+img: https://source.unsplash.com/640x426/?au%20jus,holiday,sauce
 
 ---
+# Au Jus Recipe
 Au Jus, Quick and Easy on the Stove or From Drippings, Great for <a href="/wordpress/chef-franks-seasoning-recipes/holiday-prime-rib-roast-with-au-jus/" rel="noopener noreferrer" target="_blank">Prime Rib</a> During Holidays or Special Function Dinners. This Quick and Easy Au Jus is Made With a Touch of Wine!
 
-## Au Jus Recipe
+## Au Jus Ingredients
 
   * 4 c water
   * 4 tsp beef base

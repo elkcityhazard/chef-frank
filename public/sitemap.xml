@@ -1,1613 +1,1063 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
+    <loc>/tags/biscuits/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bread/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/cakes/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/</loc>
-    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/recipes/easy-bread-recipes/</loc>
-    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/recipes/</loc>
-    <lastmod>2021-08-25T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/rolls/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sandwiches/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
+    <lastmod>2021-08-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/affordable/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/apple-bread-for-200-recipe/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/apple-crisp-for-200/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/apples/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/banana-bread-recipe-for-200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/bananas/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/beef/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/breakfast/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/camps/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/chocolate-chip-cookies-recipe-for-200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/church/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/corn-bread/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/dessert/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/desserts/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/easy-apple-pudding-for-200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/events/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fall/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fresh-herbs-and-spices/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/fruit/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/green-beans/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/ham/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/honey/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/honey-baked-ham-recipe-for-200/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/kids/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/macaroni-and-cheese-recipe-for-200/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/meatloaf-recipe-for-200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/muffins/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/poppy-seed-bread-recipe-for-200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/quick-and-easy-chili-recipe-for-200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/sandwich/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/scalloped-corn-recipe-for-200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/school/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/schools/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/shredded-cheese/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/spaghetti-sauce/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/institutional-recipes-for-200/spaghetti-sauce-recipe-for-200-people/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/vegetarian-options/</loc>
+    <lastmod>2021-08-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/summer/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/blog/2021-08-22/</loc>
     <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-08-22T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/grilling/</loc>
     <lastmod>2020-12-08T02:18:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/hello-world/</loc>
     <lastmod>2020-12-08T02:18:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/joe-grey-soup/</loc>
     <lastmod>2020-10-06T02:34:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/recipes/easy-bread-recipes/quick-e-recipes-site-map/</loc>
+  </url><url>
+    <loc>/site-map/</loc>
     <lastmod>2020-01-06T15:15:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/contact-us/</loc>
     <lastmod>2019-12-16T17:44:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/kitchen-tools/food-safety-tips/</loc>
     <lastmod>2019-12-16T17:43:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/kitchen-tools/</loc>
     <lastmod>2019-12-16T17:43:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/kitchen-tools/kitchen-tools-and-terms/</loc>
     <lastmod>2019-12-16T17:40:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/hacks/</loc>
     <lastmod>2019-12-16T17:39:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/onion-smell-tips/</loc>
     <lastmod>2019-12-16T17:39:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/best-practices/</loc>
     <lastmod>2019-12-16T17:39:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/clean-as-you-go/</loc>
     <lastmod>2019-12-16T17:39:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/tips/</loc>
     <lastmod>2019-12-16T17:39:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/dont-crowd-me/</loc>
     <lastmod>2019-12-16T17:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/tricks/</loc>
     <lastmod>2019-12-16T17:38:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/stories/</loc>
     <lastmod>2019-12-16T17:37:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/why-i-became-a-cook/</loc>
     <lastmod>2019-12-16T17:37:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/blog/</loc>
     <lastmod>2019-12-16T17:36:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/kitchen-tools/herbs-and-spices-chart/</loc>
     <lastmod>2019-12-16T17:35:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/kitchen-tools/ingredient-measurements-and-conventions/</loc>
     <lastmod>2019-12-16T17:33:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipe-basics-and-sauces/quick-au-jus/</loc>
     <lastmod>2019-12-16T17:31:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipe-basics-and-sauces/homemade-barbecue-sauce/</loc>
     <lastmod>2019-12-16T17:31:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipe-basics-and-sauces/</loc>
     <lastmod>2019-12-16T17:30:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/sauces/</loc>
     <lastmod>2019-12-16T17:30:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/</loc>
     <lastmod>2019-12-16T17:29:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/easy-no-bake-cookies/</loc>
     <lastmod>2019-12-16T17:29:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/sandwich-recipes/easy-egg-in-a-basket/</loc>
     <lastmod>2019-12-16T17:27:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/apple-smackers-recipe/</loc>
     <lastmod>2019-12-16T17:24:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/kids-corner-recipes/</loc>
     <lastmod>2019-12-16T17:12:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/sugar-cookies-recipe/</loc>
     <lastmod>2019-12-16T17:09:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/all-sweet-nut-cookies/</loc>
     <lastmod>2019-12-16T17:09:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/peanut-butter-oatmeal-cookies/</loc>
     <lastmod>2019-12-16T17:08:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/homemade-oatmeal-cookies/</loc>
     <lastmod>2019-12-16T17:08:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/monster-cookies-recipe/</loc>
     <lastmod>2019-12-16T17:07:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/peanut-butter-yummies/</loc>
     <lastmod>2019-12-16T17:06:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/easy-peanut-butter-cookies-recipe/</loc>
     <lastmod>2019-12-16T17:06:18+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/jubilee-cookie-recipe/</loc>
     <lastmod>2019-12-16T17:05:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/gingerbread-cookies/</loc>
     <lastmod>2019-12-16T17:04:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/easy-chocolate-chip-cookies/</loc>
     <lastmod>2019-12-16T17:04:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/blueberry-pie-recipe/</loc>
     <lastmod>2019-12-16T16:47:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/peach-pie-with-fresh-peaches/</loc>
     <lastmod>2019-12-16T16:46:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/traverse-city-cherry-pie/</loc>
     <lastmod>2019-12-16T16:46:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/apple-pie-recipe/</loc>
     <lastmod>2019-12-16T16:45:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/apple-crisp-pie-recipe/</loc>
     <lastmod>2019-12-16T16:45:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/vanilla-frosting-recipe-with-cinnamon/</loc>
     <lastmod>2019-12-16T16:41:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/easy-brownie-recipe/</loc>
     <lastmod>2019-12-16T16:41:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/no-egg-chocolate-cake/</loc>
     <lastmod>2019-12-16T16:40:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/chocolate-frosting-recipe/</loc>
     <lastmod>2019-12-16T16:39:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/easy-chocolate-cake-recipe/</loc>
     <lastmod>2019-12-16T16:39:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/easy-frosting-recipe/</loc>
     <lastmod>2019-12-16T16:38:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/cinnamon-rolls-from-scratch/</loc>
     <lastmod>2019-12-16T16:38:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/homemade-cinnamon-caramel-sauce/</loc>
     <lastmod>2019-12-16T16:37:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/homemade-carrot-cake-recipe/</loc>
     <lastmod>2019-12-16T16:36:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/cherry-torte-recipe/</loc>
     <lastmod>2019-12-16T16:35:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/irish-fluff/</loc>
     <lastmod>2019-12-16T16:35:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/fruit-fluff-recipe/</loc>
     <lastmod>2019-12-16T16:34:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/banana-kuhl-fry-recipe/</loc>
     <lastmod>2019-12-16T16:34:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/dessert-recipes/</loc>
     <lastmod>2019-12-16T16:33:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-bread-recipes/easy-homemade-bread/</loc>
     <lastmod>2019-12-16T16:06:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/tags/dried-fruit/</loc>
+    <lastmod>2019-12-16T16:04:04+00:00</lastmod>
+  </url><url>
+    <loc>/tags/nuts/</loc>
+    <lastmod>2019-12-16T16:04:04+00:00</lastmod>
+  </url><url>
+    <loc>/tags/zucchini/</loc>
+    <lastmod>2019-12-16T16:04:04+00:00</lastmod>
+  </url><url>
     <loc>/recipes/easy-bread-recipes/zucchini-bread-recipe/</loc>
     <lastmod>2019-12-16T16:04:04+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/bread/</loc>
-    <lastmod>2019-12-16T16:01:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-bread-recipes/poppy-seed-bread-recipe/</loc>
     <lastmod>2019-12-16T16:01:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/kids-corner-recipes/old-fashioned-macaroni-and-cheese-recipe/</loc>
     <lastmod>2019-12-16T15:56:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/casserole-recipes/</loc>
     <lastmod>2019-12-16T15:53:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/casserole-recipes/</loc>
     <lastmod>2019-12-16T15:53:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/casserole-recipes/cauliflower-broccoli-au-gratin-recipe/</loc>
     <lastmod>2019-12-16T15:51:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/hot-vegetables/</loc>
     <lastmod>2019-12-16T15:47:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/seafood-dishes/</loc>
     <lastmod>2019-12-16T15:45:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/seafood-dishes/tuna-tomato-lotus-recipe/</loc>
     <lastmod>2019-12-16T15:45:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-side-dishes/potato-salad-recipe/</loc>
     <lastmod>2019-12-16T15:43:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/vegetables-and-salad-recipes/</loc>
     <lastmod>2019-12-16T15:36:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/restaurant-sandwich-recipes/</loc>
     <lastmod>2019-12-16T15:34:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilled-sandwich-recipes/</loc>
     <lastmod>2019-12-16T15:30:14+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/sandwich-recipes/sloppy-joe-recipe/</loc>
     <lastmod>2019-12-16T15:25:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/sandwich-recipes/</loc>
     <lastmod>2019-12-16T15:22:53+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/sandwiches/</loc>
-    <lastmod>2019-12-16T15:22:53+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/split-pea-soup-with-ham-recipe/</loc>
     <lastmod>2019-12-16T15:15:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/seafood-dishes/seafood-chowder-recipe/</loc>
     <lastmod>2019-12-16T15:12:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/vegetarian-pumpkin-vegetable-soup/</loc>
     <lastmod>2019-12-16T15:09:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/ukrainian-borscht-recipe/</loc>
     <lastmod>2019-12-16T15:07:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/pumpkin-chicken-vegetable-soup/</loc>
     <lastmod>2019-12-16T15:03:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/easy-french-onion-soup-recipe/</loc>
     <lastmod>2019-12-16T14:59:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-vegetarian-dinner-recipes/cream-of-broccoli-soup-recipe/</loc>
     <lastmod>2019-12-16T14:54:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/seafood-dishes/clam-chowder-recipe/</loc>
     <lastmod>2019-12-16T14:51:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/easy-chili-con-carne/</loc>
     <lastmod>2019-12-16T14:49:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/</loc>
     <lastmod>2019-12-16T14:49:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/homemade-chicken-noodle-soup-recipe/</loc>
     <lastmod>2019-12-16T14:38:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/beef-noodle-soup-recipe/</loc>
     <lastmod>2019-12-16T14:35:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/</loc>
     <lastmod>2019-12-16T14:30:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/easy-black-bean-wraps/</loc>
     <lastmod>2019-12-16T14:26:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/quick-spanish-rice-recipe/</loc>
     <lastmod>2019-12-16T14:21:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/easy-mexican-cheese-dip/</loc>
     <lastmod>2019-12-16T14:19:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/easy-seven-layer-dip-recipe/</loc>
     <lastmod>2019-12-16T14:17:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/easy-mexican-stir-fry/</loc>
     <lastmod>2019-12-16T14:13:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/mexican-grilled-shrimp-quesadillas/</loc>
     <lastmod>2019-12-16T14:10:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/quick-and-easy-chicken-recipes/chicken-quesadillas/</loc>
     <lastmod>2019-12-16T14:05:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/beef-fajitas/</loc>
     <lastmod>2019-12-16T14:01:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/</loc>
     <lastmod>2019-12-16T04:18:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipe-basics-and-sauces/easy-gravy-recipe/</loc>
     <lastmod>2019-12-16T04:12:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipe-basics-and-sauces/coney-sauce-recipe/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/original-recipe/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/recipe-basics/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-side-dishes/</loc>
     <lastmod>2019-12-15T23:48:27+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/seafood-dishes/hawaiian-shrimp-brochettes/</loc>
     <lastmod>2019-12-15T21:51:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/seafood-dishes/shrimp-stir-fry-with-vegetables/</loc>
     <lastmod>2019-12-15T21:49:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/seafood-dishes/shrimp-newburg/</loc>
     <lastmod>2019-12-15T21:43:37+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/seafood-dishes/shrimp-curry-recipe/</loc>
     <lastmod>2019-12-15T21:39:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-pork-recipes/pork-chops-with-yellow-and-green-beans/</loc>
     <lastmod>2019-12-15T01:37:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-pork-recipes/pork-chops-recipe-with-mushroom-gravy/</loc>
     <lastmod>2019-12-15T01:33:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-pork-recipes/southern-fried-pork-chops/</loc>
     <lastmod>2019-12-15T01:28:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-pork-recipes/applesauce-dijon-pork-roast/</loc>
     <lastmod>2019-12-15T01:24:09+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-pork-recipes/</loc>
     <lastmod>2019-12-15T01:18:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/quick-and-easy-chicken-recipes/southern-style-fried-chicken/</loc>
     <lastmod>2019-12-15T01:10:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/quick-and-easy-chicken-recipes/homemade-chicken-strips/</loc>
     <lastmod>2019-12-15T01:08:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/quick-and-easy-chicken-recipes/easy-chicken-stir-fry/</loc>
     <lastmod>2019-12-15T01:03:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/quick-and-easy-chicken-recipes/how-to-make-chicken-pot-pie/</loc>
     <lastmod>2019-12-15T00:59:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/quick-and-easy-chicken-recipes/</loc>
     <lastmod>2019-12-15T00:49:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/easy-swiss-steak-recipe/</loc>
     <lastmod>2019-12-15T00:37:20+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/homemade-salisbury-steak/</loc>
     <lastmod>2019-12-15T00:31:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/beef-pot-roast-recipe/</loc>
     <lastmod>2019-12-15T00:28:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/baked-corned-beef-recipe/</loc>
     <lastmod>2019-12-14T23:39:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/healthy-meatloaf-recipe/</loc>
     <lastmod>2019-12-14T22:42:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/irish-steak-and-dark-beer-pie/</loc>
     <lastmod>2019-12-14T22:33:32+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/hamburger-gravy-recipe/</loc>
     <lastmod>2019-12-14T22:27:31+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/beef-tips-and-noodles-recipe/</loc>
     <lastmod>2019-12-14T22:24:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/quick-beef-stew/</loc>
     <lastmod>2019-12-14T22:19:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/easy-beef-stir-fry-recipe/</loc>
     <lastmod>2019-12-14T22:16:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/beef-pot-pie-recipe/</loc>
     <lastmod>2019-12-14T22:08:03+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/beef-dishes/</loc>
     <lastmod>2019-12-14T21:59:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/tanas-country-style-chicken-kiev-recipe/</loc>
     <lastmod>2019-12-13T23:21:51+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/sandys-sausage-and-cheese-dip-recipe/</loc>
     <lastmod>2019-12-13T23:18:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/mollys-white-chili-recipe/</loc>
     <lastmod>2019-12-13T23:14:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/korys-2nd-grade-voyageur-stew/</loc>
     <lastmod>2019-12-13T23:12:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/monkey-bread-coffee-cake-recipe/</loc>
     <lastmod>2019-12-13T23:06:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/kathys-moist-and-juicy-pork-chops/</loc>
     <lastmod>2019-12-13T23:03:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/karens-grape-salad/</loc>
     <lastmod>2019-12-13T22:59:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/jamies-mothership-tomato-salad/</loc>
     <lastmod>2019-12-13T22:56:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/dotties-salmon-patties/</loc>
     <lastmod>2019-12-13T22:52:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/easy-taco-salad-recipe/</loc>
     <lastmod>2019-12-13T22:48:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/meatloaf-portabella-recipe/</loc>
     <lastmod>2019-12-13T22:42:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/how-to-make-a-rainbow-cake/</loc>
     <lastmod>2019-12-13T22:37:13+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/angies-crescent-turkey-casserole/</loc>
     <lastmod>2019-12-13T22:29:52+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/amys-chocolate-scotcheroos/</loc>
     <lastmod>2019-12-13T19:19:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-from-friends/</loc>
     <lastmod>2019-12-13T19:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-vegetarian-dinner-recipes/vegetarian-spaghetti-recipe/</loc>
     <lastmod>2019-12-13T15:37:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/vegetarian-split-pea-soup/</loc>
     <lastmod>2019-12-13T15:31:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/homemade-soups/vegetarian-northern-michigan-bean-soup/</loc>
     <lastmod>2019-12-13T15:25:29+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-vegetarian-dinner-recipes/vegetarian-chili-recipe/</loc>
     <lastmod>2019-12-13T15:22:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-vegetarian-dinner-recipes/easy-apple-pie/</loc>
     <lastmod>2019-12-13T15:14:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-vegetarian-dinner-recipes/how-to-make-an-egg-wash/</loc>
     <lastmod>2019-12-13T15:10:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-vegetarian-dinner-recipes/easy-apple-dumplings/</loc>
     <lastmod>2019-12-13T15:06:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-vegetarian-dinner-recipes/how-to-make-roux/</loc>
     <lastmod>2019-12-13T15:03:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-vegetarian-dinner-recipes/</loc>
     <lastmod>2019-12-13T14:47:11+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/scalloped-corn-recipe/</loc>
     <lastmod>2019-12-13T14:30:02+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/easy-twice-baked-potato/</loc>
     <lastmod>2019-12-13T14:20:36+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/healthy-sweet-potato-casserole/</loc>
     <lastmod>2019-12-13T14:16:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/stuffed-acorn-squash-recipe/</loc>
     <lastmod>2019-12-13T14:13:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/roasted-red-potatoes-recipe/</loc>
     <lastmod>2019-12-13T14:08:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/</loc>
     <lastmod>2019-12-13T14:03:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/lobster-thermidor-recipe/</loc>
     <lastmod>2019-12-13T13:59:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/simple-green-bean-casserole/</loc>
     <lastmod>2019-12-13T13:55:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/grandmas-fried-chicken/</loc>
     <lastmod>2019-12-13T13:49:47+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/easy-coq-au-vin-recipe/</loc>
     <lastmod>2019-12-13T13:42:07+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/easy-chicken-cordon-bleu/</loc>
     <lastmod>2019-12-13T13:36:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/chicken-almondine-flambe/</loc>
     <lastmod>2019-12-13T13:30:21+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/cheese-broccoli-recipe/</loc>
     <lastmod>2019-12-13T13:22:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/easy-cheese-ball-recipe/</loc>
     <lastmod>2019-12-13T13:17:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/apple-sage-and-walnut-stuffing-recipe/</loc>
     <lastmod>2019-12-13T13:10:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/michigan-apple-sage-stuffing/</loc>
     <lastmod>2019-12-13T13:06:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/michigan-apple-sauce/</loc>
     <lastmod>2019-12-13T13:03:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/baked-acorn-squash-recipe/</loc>
     <lastmod>2019-12-13T13:01:06+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/</loc>
     <lastmod>2019-12-13T12:58:16+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/turkey-salad-with-michigan-apples/</loc>
     <lastmod>2019-12-12T15:37:38+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/red-potato-salad-recipe/</loc>
     <lastmod>2019-12-12T15:34:30+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/easy-macaroni-salad-recipe/</loc>
     <lastmod>2019-12-12T15:32:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-side-dishes/garden-vegetable-salad-recipe/</loc>
     <lastmod>2019-12-12T15:30:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/tossed-garden-salad-recipe/</loc>
     <lastmod>2019-12-12T15:28:43+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/strawberry-spinach-salad-recipe/</loc>
     <lastmod>2019-12-12T15:26:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/pasta-salad-recipe-with-fresh-garden-vegetables/</loc>
     <lastmod>2019-12-12T15:22:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/chef-salad-recipe-with-vegetables-eggs-cheese-meat/</loc>
     <lastmod>2019-12-12T15:20:10+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/easy-caesar-salad-recipe/</loc>
     <lastmod>2019-12-12T15:17:26+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/grilled-sirloin-steak-recipe/</loc>
     <lastmod>2019-12-12T15:13:19+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/london-broil-recipe/</loc>
     <lastmod>2019-12-12T15:09:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/beef-brochettes-recipe/</loc>
     <lastmod>2019-12-12T15:02:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/hawaiian-chicken-brochettes-recipe/</loc>
     <lastmod>2019-12-12T14:55:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/honey-barbecue-teriyaki-chicken/</loc>
     <lastmod>2019-12-12T14:52:28+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/honey-barbecue-chicken-recipe/</loc>
     <lastmod>2019-12-12T14:42:08+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/chicken-brochettes-recipe/</loc>
     <lastmod>2019-12-12T14:35:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipe-basics-and-sauces/honey-barbecue-sauce-recipe/</loc>
     <lastmod>2019-12-12T14:30:12+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/maitre-d-butter/</loc>
     <lastmod>2019-12-12T04:04:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/easy-teriyaki-sauce-recipe/</loc>
     <lastmod>2019-12-12T03:57:41+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/grilling-cookouts-and-barbecues/</loc>
     <lastmod>2019-12-12T03:46:50+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipes-for-special-occasions-and-events/fresh-fruit-tray-for-special-occasions/</loc>
     <lastmod>2019-12-11T16:44:45+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/quick-and-easy-chili-recipe-for-200-people/</loc>
-    <lastmod>2019-12-11T16:36:46+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/spaghetti-sauce-recipe-for-200-people/</loc>
-    <lastmod>2019-12-11T16:31:48+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/scalloped-corn-recipe-for-200-people/</loc>
-    <lastmod>2019-12-11T16:27:10+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/poppy-seed-bread-recipe-for-200-people/</loc>
-    <lastmod>2019-12-11T16:23:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/meatloaf-recipe-for-200-people/</loc>
-    <lastmod>2019-12-11T16:19:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/quick-and-easy-chicken-recipes/mango-sweet-and-sour-chicken-arbutus/</loc>
     <lastmod>2019-12-11T16:13:32+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/macaroni-and-cheese-recipe-for-200/</loc>
-    <lastmod>2019-12-11T16:06:38+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/honey-baked-ham-recipe-for-200/</loc>
-    <lastmod>2019-12-11T15:06:55+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/chocolate-chip-cookies-recipe-for-200-people/</loc>
-    <lastmod>2019-12-11T15:00:07+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/banana-bread-recipe-for-200-people/</loc>
-    <lastmod>2019-12-11T14:51:23+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/easy-apple-pudding-for-200-people/</loc>
-    <lastmod>2019-12-11T14:39:17+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/apple-crisp-for-200/</loc>
-    <lastmod>2019-12-11T14:27:03+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/institutional-recipes-for-200/apple-bread-for-200-recipe/</loc>
-    <lastmod>2019-12-11T14:14:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/institutional-recipes-for-200/</loc>
     <lastmod>2019-12-11T02:37:54+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/puff-pastry-wrap-recipe/</loc>
     <lastmod>2019-12-11T02:32:45+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/kids-pita-pizza-recipe/</loc>
     <lastmod>2019-12-11T02:28:35+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/seafood-sauce-recipe/</loc>
     <lastmod>2019-12-11T02:24:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/hot-mustard-sauce-recipe/</loc>
     <lastmod>2019-12-11T02:21:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/easy-drawn-butter-clarified-butter-recipe/</loc>
     <lastmod>2019-12-11T02:17:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipe-basics-and-sauces/homemade-barbecue-sauce-recipe-with-red-wine/</loc>
     <lastmod>2019-12-11T02:14:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/orange-gelatin-salad-recipe/</loc>
     <lastmod>2019-12-11T02:10:04+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/festive-holiday-cheese-balls/</loc>
     <lastmod>2019-12-11T02:07:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/buffalo-style-hot-wings-recipe/</loc>
     <lastmod>2019-12-11T02:01:42+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/black-bean-wrap-recipe/</loc>
     <lastmod>2019-12-11T01:57:39+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/fresh-mexican-salsa-recipe/</loc>
     <lastmod>2019-12-11T01:53:57+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/mexican-seven-layer-dip-recipe/</loc>
     <lastmod>2019-12-11T01:50:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/scratch-guacamole-recipe/</loc>
     <lastmod>2019-12-11T01:46:15+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/appetizers/</loc>
     <lastmod>2019-12-11T01:41:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/authentic-steak-quesadilla-recipe/</loc>
     <lastmod>2019-12-11T01:41:49+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/mexican-quesadilla-recipe/</loc>
     <lastmod>2019-12-11T01:34:24+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/mexican-cheese-dip/</loc>
     <lastmod>2019-12-11T01:30:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/people-chow-kids-and-adults-snack/</loc>
     <lastmod>2019-12-11T01:25:17+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/microwave-caramel-corn/</loc>
     <lastmod>2019-12-11T01:21:23+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/easy-cinnamon-crunchies/</loc>
     <lastmod>2019-12-11T01:15:55+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/focaccia-pizza-vegetarian-pita-bread-and-fresh-mozzarella/</loc>
     <lastmod>2019-12-11T01:09:59+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/bacon-wrapped-steak/</loc>
     <lastmod>2019-12-11T01:04:25+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/bacon-wrapped-pineapple/</loc>
     <lastmod>2019-12-11T00:58:05+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/bacon-wrapped-olives-appetizer/</loc>
     <lastmod>2019-12-11T00:51:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/appetizers/</loc>
     <lastmod>2019-12-10T23:14:49+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/chef-franks-seasoning-recipes/tartar-sauce-for-fish/</loc>
-    <lastmod>2019-12-10T22:41:05+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/chef-franks-seasoning-recipes/tuna-noodle-casserole/</loc>
-    <lastmod>2019-12-10T22:25:33+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/casserole/</loc>
     <lastmod>2019-12-10T22:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/chicken/</loc>
     <lastmod>2019-12-10T22:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/chicken-noodle-casserole/</loc>
     <lastmod>2019-12-10T22:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/comfort-food/</loc>
     <lastmod>2019-12-10T22:15:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/chef-franks-seasoning-recipes/thyme-chicken-breast-entree/</loc>
-    <lastmod>2019-12-10T18:18:33+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/chef-franks-seasoning-recipes/vegetarian-honey-barbecue-sauce/</loc>
-    <lastmod>2019-12-10T17:27:46+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/</loc>
     <lastmod>2019-12-10T16:19:58+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/</loc>
     <lastmod>2019-12-10T14:30:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/sausage-gravy-for-biscuits/</loc>
     <lastmod>2019-12-10T14:30:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/fresh-homemade-biscuits/</loc>
     <lastmod>2019-12-10T14:26:34+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/banana-muffins/</loc>
     <lastmod>2019-12-10T14:22:56+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/fool-proof-banana-bread/</loc>
     <lastmod>2019-12-10T14:15:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/apple-bread/</loc>
     <lastmod>2019-12-10T13:59:40+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/delicious-french-toast/</loc>
     <lastmod>2019-12-10T13:48:22+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/appetizer/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/barbecue/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/broccoli-and-cheese/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/casseroles/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/cream-sauce/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/creamy-scalloped-potatoes/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/delicious-homemade-teriyaki-chicken/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/desserts/</loc>
+  </url><url>
+    <loc>/tags/dressing/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/easy/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/fish/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/fresh-herbs/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/fresh-summer-cucumber-salad/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/game-hens/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/goulash-with-ground-beef/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/grill/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/ham/</loc>
-    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/holiday-prime-rib-roast-with-au-jus/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/holidays/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/honey-barbecue-country-ribs/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/honey-barbecued-baby-back-ribs/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/honey-teriyaki-barbecue-sauce/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/hot-rolls/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/lake-michigan-broiled-whitefish/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/lime/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/maitre-d/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/tags/ma%C3%AEtre-d/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/michigan/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/michigan-apples/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/nuts/</loc>
+  </url><url>
+    <loc>/tags/one-dish/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/oven/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/pasta/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/picnics/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/pork/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/pork-roast-with-michigan-apples/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/potatoes/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/recipe-basics-and-sauces/quick-and-easy-egg-noodle-recipe/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/ribs/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/roasted-chicken-entree/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/roasted-turkey-recipes-for-the-holidays/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/salads/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/scalloped-potatoes-grandmas-comfort-food/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/scallops-newburg-with-buttery-cream-sauce/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/seafood/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/shrimp-and-angel-hair-pasta/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/side-dish/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/simple-and-tasty-potato-wedges/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/simple-lime-chicken-entree/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/simple-vegetarian-goulash/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/slow-roasted-cornish-game-hen/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/snack/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/soups/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/southwest/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/special-occassions/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/chef-franks-seasoning-recipes/stuffed-pork-loin-recipe/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/stuffing/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/chef-franks-seasoning-recipes/tartar-sauce-for-fish/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/tex-mex/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/tags/thousand-island-dressing/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/chef-franks-seasoning-recipes/thyme-chicken-breast-entree/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/chef-franks-seasoning-recipes/tuna-noodle-casserole/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/turkey/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/tags/vegetarian/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>/chef-franks-seasoning-recipes/vegetarian-honey-barbecue-sauce/</loc>
+    <lastmod>2019-12-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>/tags/whole-wheat/</loc>
     <lastmod>2019-12-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/cinnamon-french-toast/</loc>
     <lastmod>2019-11-15T14:32:48+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-breakfast-recipes/</loc>
     <lastmod>2019-11-15T14:10:44+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/about/</loc>
     <lastmod>2019-11-15T03:41:01+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/banner/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/biography/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/categories/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-bread-recipes/fool-proof-banana-bread/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/recipes/easy-mexican-recipes/easy-wet-burrito/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/featured/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>/products/</loc>
   </url>
-  
 </urlset>

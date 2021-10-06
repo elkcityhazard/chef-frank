@@ -1,7 +1,7 @@
 ---
 title: Authentic Steak Quesadilla Recipe
 author: elkcityhazard
-type: page
+description: ""
 date: 2019-12-11T01:41:49+00:00
 tags:
   - Appetizers

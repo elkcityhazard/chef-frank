@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cakes on Chef Frank&#39;s Recipes</title>
+    <link>/tags/cakes/</link>
+    <description>Recent content in Cakes on Chef Frank&#39;s Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cakes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Easy Bread Recipes</title>
+      <link>/recipes/easy-bread-recipes/</link>
+      <pubDate>Sun, 29 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/recipes/easy-bread-recipes/</guid>
+      <description>Baking bread doesn&amp;rsquo;t need to be difficult. It is easy to make, easy to clean, and is one of the best ways to easily have a fresh loaf of bread to serve for breakfast or dinner. So whether you need a quick and easy recipe for a bread starter or just want to learn how to bake bread, you&amp;rsquo;re on the right blog. Here are some easy recipes.</description>
+    </item>
+    
+  </channel>
+</rss>

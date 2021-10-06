@@ -3,6 +3,7 @@ title: Recipe Basics and Sauces
 author: elkcityhazard
 description: "Sauces can be a delicious way to add flavor to simple recipes. Learn how to make a white sauce, and find easy sauce recipes for seafood, meat, and vegetables."
 date: 2019-12-16T17:30:22+00:00
+img: https://source.unsplash.com/640x426/?sauce
 layout: list
 tags: 
   - Sauces
@@ -14,7 +15,7 @@ category:
 ---
 Welcome to the Recipe Basics Section of our site. Recipe Basics Partner and Link With Other Recipes on This Site. A Convenient and Quick way to Coordinate your Family Menu Plans. For Example, Maitre d&#8217; Butter Goes with Sirloin Steak., Easy Basic Sauce Recipes, Easy Internal Links to the <a href="/wordpress/easy-vegetarian-dinner-recipes/how-to-make-roux/" rel="noopener noreferrer" target="_blank">Roux Recipe</a>, <a href="/wordpress/easy-vegetarian-dinner-recipes/how-to-make-an-egg-wash/" rel="noopener noreferrer" target="_blank">Egg Wash</a> for your Fruit Pie Crusts so your Pie Crust is Flaky. <a href="/wordpress/appetizers/easy-drawn-butter-clarified-butter-recipe/" rel="noopener noreferrer" target="_blank">Drawn Butter</a>, for Fresh Seafood Recipes like <a href="/wordpress/recipes-for-special-occasions-and-events/lobster-thermidor-recipe/" rel="noopener noreferrer" target="_blank">Lobster Thermidor</a> and <a href="/wordpress/chef-franks-seasoning-recipes/lake-michigan-broiled-whitefish/" rel="noopener noreferrer" target="_blank">Broiled Whitefish</a> from Lake Michigan. Delicious!
 
-## Sauces and Bases
+<!-- ## Sauces and Bases
 
   * [Barbecue Sauce][1]
   * [Homemade Gravy Recipes][2]
@@ -48,4 +49,4 @@ Recipes that support other recipes on this site. Great to-go-withs, Roux and Sau
  [12]: /wordpress/index.php/chef-franks-seasoning-recipes/tartar-sauce-for-fish/
  [13]: /wordpress/index.php/grilling-cookouts-and-barbecues/maitre-d-butter/
  [14]: /wordpress/index.php/grilling-cookouts-and-barbecues/honey-barbecue-sauce-recipe/
- [15]: /wordpress/index.php/easy-vegetarian-dinner-recipes/how-to-make-an-egg-wash/
+ [15]: /wordpress/index.php/easy-vegetarian-dinner-recipes/how-to-make-an-egg-wash/ -->

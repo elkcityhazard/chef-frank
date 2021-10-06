@@ -2,9 +2,12 @@
 @use './_mixins';
 
 section.breadcrumbs {
-    margin: 125px auto 1em;
+    align-items: center;
+    display: grid;
+    margin: auto;
     max-width: 968px;
-    padding: 0 1.5em;
+    padding: 2em 1.5em;
+    place-items: center;
     text-align: center;
     a {
         &:hover {

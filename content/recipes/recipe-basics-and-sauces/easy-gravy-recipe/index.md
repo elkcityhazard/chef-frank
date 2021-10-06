@@ -1,10 +1,18 @@
 ---
 title: Easy Gravy Recipe
 author: elkcityhazard
-type: page
+description: "A simple and easy gravy recipe that is great for beef, pork, or chicken. It can be made with a beef, pork, or mushroom base. It makes a great addition to many of Chef Frank's recipes."
 date: 2019-12-16T04:12:01+00:00
+img: https://source.unsplash.com/640x426/?gravy
+category:
+  - Recipes and Sauces 
+tags:
+  - Sauce
+  - Mashed Potatoes
+  - Casseroles
 
 ---
+# Easy Gravy Recipe
 Quick Easy Gravy Recipes, Easily Made with <a href="/wordpress/easy-vegetarian-dinner-recipes/how-to-make-roux/" rel="noopener noreferrer" target="_blank">Roux</a> and Either Chicken, Beef, Seafood, or Pork Base. Great for <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed Potatoes</a> and Sauces for <a href="/wordpress/casserole-recipes/" rel="noopener noreferrer" target="_blank">Casseroles</a> or <a href="/wordpress/homemade-soups/" rel="noopener noreferrer" target="_blank">Stew</a>.
 
 ## Gravy Recipe Ingredients

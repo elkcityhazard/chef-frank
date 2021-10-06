@@ -1,11 +1,24 @@
 ---
 title: Homemade Barbecue Sauce
 author: elkcityhazard
-type: page
+description: "Learn how to make your own barbecue sauce. This imaginative recipe uses red wine, and is easy to make."
 date: 2019-12-16T17:31:26+00:00
+img: https://source.unsplash.com/640x426/?barbecue,sauce
+category:
+  - Recipes and Sauces
+  - Beef
+  - Chicken
+  - Pork
+  - Fish
+tags:
+  - Beef
+  - Barbecue
+  - Red Wine
 
 ---
-Prepare this wonderful barbecue sauce on the stove. Great for <a href="/wordpress/grilling-cookouts-and-barbecues/" rel="noopener noreferrer" target="_blank">grilling</a> outside or in. Use our sauce for <a href="/wordpress/quick-and-easy-chicken-recipes/" rel="noopener noreferrer" target="_blank">chicken</a>, <a href="/wordpress/chef-franks-seasoning-recipes/honey-barbecued-baby-back-ribs/" rel="noopener noreferrer" target="_blank">ribs</a>, <a href="/wordpress/easy-pork-recipes/" rel="noopener noreferrer" target="_blank">pork</a>, or barbecue sandwiches. Chef Frank finishes this recipe off with red wine for an added kick!
+# Homemade Barbecue Sauce 
+
+Prepare this wonderful barbecue sauce on the stove. Great for grilling outside or in. Use our sauce for chicken, ribs, pork, or barbecue sandwiches. Chef Frank finishes this recipe off with red wine for an added kick!
 
 ## Barbecue Sauce Recipe
 

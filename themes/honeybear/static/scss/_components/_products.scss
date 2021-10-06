@@ -1,6 +1,11 @@
 @use './_mixins';
 
 section.products {
+    margin: {
+        top: -1rem;
+    }
+    overflow: hidden;
+    position: relative;
     .row {
         display: flex;
         flex-direction: column;
@@ -8,6 +13,7 @@ section.products {
             @include mixins.wavy-underline;
         }
         .product-card {
+            background: rgba(255,255,255, 0.75);
             box-shadow: 2px 2px 20px -10px rgba(0, 0, 0, 0.5);
             margin: 0 auto 1em;
             max-width: 60ch;
@@ -58,6 +64,16 @@ section.products {
                 font-size: 1.50em;
                 text-align: center;
             }
+        }
+        .circle {
+            background:transparent;
+            left: 0;
+            min-height: 100%;
+            position: absolute;
+            top: 0;
+            transform: scale(1.5) rotateZ(45deg);
+            width: 50%;
+            z-index: -1;
         }
     }
 }

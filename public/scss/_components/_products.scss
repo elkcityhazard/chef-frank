@@ -11,16 +11,28 @@ section.products {
             box-shadow: 2px 2px 20px -10px rgba(0, 0, 0, 0.5);
             margin: 0 auto 1em;
             max-width: 60ch;
+            padding: .25em 1em;
             figure {
-                overflow: none;
+                overflow: hidden;
                 padding: 0;
                 figcaption {
                     font-weight: 600;
                 }
-                img {
-                    height: 100%;
-                    object-fit: cover;
-                    max-width: 100%;
+                a { display: block;
+                    height: auto;
+                    margin: auto;
+                    padding: 0;
+                    max-width: 75%;
+                    overflow: hidden;
+                    img {
+                        height: 100%;
+                        object-fit: cover;
+                        margin: none;
+                        width: 100%;
+                        &:hover {
+                            transform: scale(1.2);
+                        }
+                    }
                 }
                 p {
                     margin: auto;
@@ -53,8 +65,15 @@ section.products {
 @media screen and (min-width: 968px) {
     section.products {
         .row {
-            justify-content: center;
+            justify-content: space-between;
             flex-direction: row;
+            max-width: 1200px;
+            h3 {
+                flex: 0 0 100%;
+            }
+            .product-card {
+                flex: 0 1 45%;
+            }
         }
     }
 }

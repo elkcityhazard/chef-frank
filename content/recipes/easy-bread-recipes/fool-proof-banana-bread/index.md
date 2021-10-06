@@ -1,11 +1,16 @@
 ---
 title: Fool Proof Banana Bread
 author: elkcityhazard
-type: single
+description: " Homemade banana bread is easy to make, quick to prepare, and tasty. You only need a few ingredients and one hour to make this delicious banana bread."
 date: -001-11-30T00:00:00+00:00
-featured_image: images/recipes/featured-images/bread.jpg
-tags:
+img: https://source.unsplash.com/640x426/?banana,bread
+category:
   - Bread
+tags:
+  - Dessert
+  - Bread
+  - Bananas
+  - Muffins
 ---
 # Banana Bread
 

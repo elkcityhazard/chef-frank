@@ -38,16 +38,31 @@ ul {
   }
 }
 
+section.hero {
+  display: grid;
+  margin: 0 auto;
+  min-height: 75vh;
+  place-items: center;
+  p {
+    background: rgba(255, 255, 255, 0.75);
+    padding: 1em;
+  }
+}
+
 section.list-section {
   display: grid;
   place-items: center;
   gap: 1em;
-  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-  padding: .5em;
+  grid-template-columns: repeat(auto-fit, minmax(325px, 1fr));
+  margin: auto;
+  padding: .5em 1em;
+  max-width: 100%;
   .recipe-card {
     box-shadow: 5px 5px 20px -7px rgba(0, 0, 0, 0.5);
     height: 100%;
+    margin: auto;
     margin-bottom: 1em;
+    max-width: 100%;
     position: relative;
     overflow: hidden;
     img {

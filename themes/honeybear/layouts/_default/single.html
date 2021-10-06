@@ -7,9 +7,6 @@
         js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
         fjs.parentNode.insertBefore(js, fjs);
         }(document, 'script', 'facebook-jssdk'));</script>
-<section class="breadcrumbs">
-    {{ partial "breadcrumbs.html" . }}
-</section>
 <div class="single-wrapper">
     <main class="single-main">
         {{ if .Params.img}}
@@ -26,6 +23,10 @@
     
     </main>
     <aside class="single-aside">
+        <section class="breadcrumbs">
+            <h3>Breadcrumbs</h3>
+            {{ partial "breadcrumbs.html" . }}
+        </section>
     <section class="tags">
         <h3> <a href="{{ .Site.BaseURL | absURL}}tags">Tags</a> </h3>
         <ul>
@@ -35,8 +36,6 @@
         </ul>
     </section>
     <section class="related">
-
-
 {{ $related := .Site.RegularPages.Related . | first 5 }}
 {{ with $related }}
 <h3>See Also</h3>
