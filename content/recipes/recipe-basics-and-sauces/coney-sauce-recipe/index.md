@@ -12,7 +12,7 @@ category:
   - Recipes and Sauces
 
 ---
-This Quick Easy Coney Sauce is Chef Frank&#8217;s Original Recipe. Use over High Grade Hot Dogs with Vadalia Onions and make other Lunches Jealous. Coney Sauce is a great Starter for <a href="/wordpress/institutional-recipes-for-200/quick-and-easy-chili-recipe-for-200-people/" rel="noopener noreferrer" target="_blank">Chili</a> Too.
+This Quick Coney Sauce is Chef Frank&#8217;s Original Recipe. Use over High Grade Hot Dogs with Vadalia Onions and make other Lunches Jealous. Coney Sauce is a great Starter for <a href="/wordpress/institutional-recipes-for-200/quick-and-easy-chili-recipe-for-200-people/" rel="noopener noreferrer" target="_blank">Chili</a> Too.
 
 ## Coney Sauce Chef Frank&#8217;s Original Recipe
 

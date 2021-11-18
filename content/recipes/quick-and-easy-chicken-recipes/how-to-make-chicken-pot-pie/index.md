@@ -5,7 +5,7 @@ type: page
 date: 2019-12-15T00:59:05+00:00
 
 ---
-Quick easy Chicken Pot Pie Recipe is made from fresh boiled chicken, vegetables, gravy, and pie crust. Chicken Pot Pie is a wonderful recipe for fall or winter.
+Quick Chicken Pot Pie Recipe is made from fresh boiled chicken, vegetables, gravy, and pie crust. Chicken Pot Pie is a wonderful recipe for fall or winter.
 
 ## Chicken Pot Pie Ingredients
 

@@ -13,7 +13,7 @@ Fresh fruits and vegetables are a staple to the vegetarian diet, including getti
   * [Apple Bread Quick and Easy][1]
   * [Egg Noodles, Homemade Quick and Easy][2]
   * [Focaccia Pita with Fresh Mozzarella and Basil][3]
-  * [Roux, Quick Easy Recipes][4]
+  * [Roux, Quick Recipes][4]
   * [Michigan Apple Dumplings][5]
   * [Easy Drawn Butter][6]
   * [Quick Hot Mustard Sauce][7]

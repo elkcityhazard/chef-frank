@@ -1,7 +1,7 @@
 ---
 title: Traverse City Cherry Torte Recipe
 author: elkcityhazard
-description: "Quick Easy Cherry Torte Recipe is from Aunt Lucy's kitchen. This Cherry Torte Recipe is an old standard from Traverse City and is a great dessert for any occasion." 
+description: "Quick Cherry Torte Recipe is from Aunt Lucy's kitchen. This Cherry Torte Recipe is an old standard from Traverse City and is a great dessert for any occasion." 
 date: 2019-12-16T16:35:48+00:00
 img:
 category:
@@ -12,7 +12,7 @@ tags:
   - Cherries
 
 ---
-Quick Easy Cherry Torte Recipe is from Aunt Lucy's kitchen. This Cherry Torte Recipe is an old standard from Traverse City and is a great dessert for any occasion.
+Quick Cherry Torte Recipe is from Aunt Lucy's kitchen. This Cherry Torte Recipe is an old standard from Traverse City and is a great dessert for any occasion.
 
 ## Aunt Lucy&#8217;s Cherry Torte Ingredients
 

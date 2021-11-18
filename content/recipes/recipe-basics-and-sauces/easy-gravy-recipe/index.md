@@ -13,7 +13,7 @@ tags:
 
 ---
 # Easy Gravy Recipe
-Quick Easy Gravy Recipes, Easily Made with <a href="/wordpress/easy-vegetarian-dinner-recipes/how-to-make-roux/" rel="noopener noreferrer" target="_blank">Roux</a> and Either Chicken, Beef, Seafood, or Pork Base. Great for <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed Potatoes</a> and Sauces for <a href="/wordpress/casserole-recipes/" rel="noopener noreferrer" target="_blank">Casseroles</a> or <a href="/wordpress/homemade-soups/" rel="noopener noreferrer" target="_blank">Stew</a>.
+Quick Gravy Recipes, Easily Made with <a href="/wordpress/easy-vegetarian-dinner-recipes/how-to-make-roux/" rel="noopener noreferrer" target="_blank">Roux</a> and Either Chicken, Beef, Seafood, or Pork Base. Great for <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed Potatoes</a> and Sauces for <a href="/wordpress/casserole-recipes/" rel="noopener noreferrer" target="_blank">Casseroles</a> or <a href="/wordpress/homemade-soups/" rel="noopener noreferrer" target="_blank">Stew</a>.
 
 ## Gravy Recipe Ingredients
 

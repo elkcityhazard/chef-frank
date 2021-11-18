@@ -5,7 +5,7 @@ type: page
 date: 2019-12-16T15:51:45+00:00
 
 ---
-Quick Easy Cauliflower Broccoli Au Gratin Recipe is a nice hearty hot vegetable with cream sauce and cheese topped with bread crumbs. Cauliflower Broccoli Au Gratin will dress up any meal for a <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">Holiday</a> or Special Function.
+Quick Cauliflower Broccoli Au Gratin Recipe is a nice hearty hot vegetable with cream sauce and cheese topped with bread crumbs. Cauliflower Broccoli Au Gratin will dress up any meal for a <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">Holiday</a> or Special Function.
 
 ## Cauliflower Broccoli Au Gratin Ingredients
 

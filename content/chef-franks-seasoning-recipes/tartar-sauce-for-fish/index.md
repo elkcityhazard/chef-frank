@@ -12,7 +12,7 @@ tags:
   - Dressing
   - Thousand Island Dressing
 ---
-Quick Easy Tartar Sauce Recipe makes fish meals complete. With a touch of lemon, Tartar Sauce is great with Fried Clams or Walleye, and Fish and Chips.
+Quick Tartar Sauce Recipe makes fish meals complete. With a touch of lemon, Tartar Sauce is great with Fried Clams or Walleye, and Fish and Chips.
 
 ## Tartar Sauce Ingredients
 

@@ -7,7 +7,7 @@ date: 2019-12-13T13:49:47+00:00
 ---
 I remember being at my grandmother&#8217;s house on any Sunday and smelling the aroma from her awesome cooking. Grandmas chicken that she pan fried, then placed in a slow oven. She always had scalloped corn, mashed potatoes and gravy ( made from the chicken pan), Rolls, relish tray, and three layer jello with cream cheese in the middle for dessert. I love to create similar memories for my family. I thank my grandmother for taking the time to show me some of her methods.
 
-Quick Easy Grandma&#8217;s Chicken Recipe is a Favorite for Sunday Dinners. Grandma&#8217;s Chicken is rolled in flour, fried, then in the oven for about an hour. Grandma&#8217;s Chicken is served with <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed Potatoes</a> and <a href="/wordpress/institutional-recipes-for-200/easy-side-dishes/easy-gravy-recipe/" rel="noopener noreferrer" target="_blank">Gravy</a>.
+Quick Grandma&#8217;s Chicken Recipe is a Favorite for Sunday Dinners. Grandma&#8217;s Chicken is rolled in flour, fried, then in the oven for about an hour. Grandma&#8217;s Chicken is served with <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed Potatoes</a> and <a href="/wordpress/institutional-recipes-for-200/easy-side-dishes/easy-gravy-recipe/" rel="noopener noreferrer" target="_blank">Gravy</a>.
 
 ## Grandma&#8217;s Chicken Ingredients
 

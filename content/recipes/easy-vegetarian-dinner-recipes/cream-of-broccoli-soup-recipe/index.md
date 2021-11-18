@@ -9,7 +9,7 @@ Cream of Broccoli Soup is a Hearty Quick and Easy Cream Soup Recipe For Lunch or
 
 ## Cream of Broccoli Soup Ingredients
 
-**Serves 8-10**
+**Serves 8-10&#8457;*
 
   * 4-5 cups chopped fresh broccoli
   * 1/2 onion, diced

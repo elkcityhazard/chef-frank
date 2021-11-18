@@ -25,7 +25,7 @@ Homemade banana muffins, like the [bread recipe][1], is foolproof and only takes
 
 ### Directions
 
-In mixing bowl combine flour, b. soda, b. powder, salt. Whisk together, set aside. In large mixing bowl put bananas in and smash up. Then add eggs, sugar, vanilla, milk, butter, [whisk][2] well. Add flour to wet ingredients and fold together only to wet flour. Don&#8217;t over mix. Place spoonful of batter in papered muffin tins 3/4 full. Bake in preheated oven at 400* for about 16 minutes. Makes about 16 muffins.
+In mixing bowl combine flour, b. soda, b. powder, salt. Whisk together, set aside. In large mixing bowl put bananas in and smash up. Then add eggs, sugar, vanilla, milk, butter, [whisk][2] well. Add flour to wet ingredients and fold together only to wet flour. Don&#8217;t over mix. Place spoonful of batter in papered muffin tins 3/4 full. Bake in preheated oven at 400&#8457; for about 16 minutes. Makes about 16 muffins.
 
  [1]: /wordpress/easy-breakfast-recipes/fool-proof-banana-bread/
  [2]: http://192.168.0.11/wordpress/kitchen-tools-and-terms/

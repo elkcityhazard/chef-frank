@@ -5,7 +5,7 @@ type: page
 date: 2019-12-12T15:32:12+00:00
 
 ---
-Quick Easy Macaroni Salad Recipe is nice for Picnics and Summer Outings. Macaroni Salad is made with Mayo, Fresh Garden Vegetables and Elbow Macaroni.
+Quick Macaroni Salad Recipe is nice for Picnics and Summer Outings. Macaroni Salad is made with Mayo, Fresh Garden Vegetables and Elbow Macaroni.
 
 ## Macaroni Salad Ingredients
 

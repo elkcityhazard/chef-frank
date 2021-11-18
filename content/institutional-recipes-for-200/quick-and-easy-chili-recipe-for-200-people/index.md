@@ -15,7 +15,7 @@ tags:
   - Corn Bread 
   - Affordable 
 ---
-Try this quick easy chili recipe for school kid&#8217;s lunch or a church function. Corn bread and shredded cheddar cheese along with a <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">salad</a> make this a great meal and is very affordable as well.
+Try this Quick chili recipe for school kid&#8217;s lunch or a church function. Corn bread and shredded cheddar cheese along with a <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">salad</a> make this a great meal and is very affordable as well.
 
 Here&#8217;s the chili recipe for those of you cooking for a crowd:
 
@@ -40,4 +40,4 @@ Serves 180 to 200 people, how easy is that!
 
 Goes great with corn bread or Parmigiano-Reggiano bread sticks and salad.
 
-_Quick Easy Chili Recipe for 200, Great for Large Functions at Church or School, Chili and Corn Bread with a Green Salad tops off this Meal!_
+_Quick Chili Recipe for 200, Great for Large Functions at Church or School, Chili and Corn Bread with a Green Salad tops off this Meal!_

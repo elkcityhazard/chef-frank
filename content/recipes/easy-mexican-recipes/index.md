@@ -19,7 +19,7 @@ Welcome to our Mexican Recipes Section. Cook and Serve Awesome Quick Mexican Rec
   * [Guacamole][5]
   * [Mexican Stir Fry][6]
   * [Mexican Seven (7) Layer Dip][7]
-  * [Quick Easy Mexican Cheese Dip][8]
+  * [Quick Mexican Cheese Dip][8]
   * [Quick Spanish Rice][9]
   * [Wet Burrito][10]
   * [Salsa][11]

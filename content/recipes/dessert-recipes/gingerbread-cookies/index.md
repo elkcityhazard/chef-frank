@@ -5,7 +5,7 @@ type: page
 date: 2019-12-16T17:04:49+00:00
 
 ---
-Quick Easy Gingerbread Cookies Recipe for the [Holidays][1] or Anytime. Gingerbread Cookies or Gingerbread Men are Easy and Make a Great Food Gift for Any Cookie Lover.
+Quick Gingerbread Cookies Recipe for the [Holidays][1] or Anytime. Gingerbread Cookies or Gingerbread Men are Easy and Make a Great Food Gift for Any Cookie Lover.
 
 ![Gingerbread Cookies][2] 
 

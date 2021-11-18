@@ -6,7 +6,7 @@ date: 2019-12-16T14:30:19+00:00
 menu: ["recipes"]
 
 ---
-[Joe Grey Soup][1]Welcome to our Soup Section, Where We Offer Quick Easy Soup Recipes Easily made on the Stove Top. Northern Bean with Ham or Cream of Broccoli Soup for Those Cold Days and Chicken Noodle or Split Pea with Ham for Comfort Food. Don&#8217;t Forget the Crackers.
+[Joe Grey Soup][1]Welcome to our Soup Section, Where We Offer Quick Soup Recipes Easily made on the Stove Top. Northern Bean with Ham or Cream of Broccoli Soup for Those Cold Days and Chicken Noodle or Split Pea with Ham for Comfort Food. Don&#8217;t Forget the Crackers.
 
 ## Homemade Soup Recipes
 

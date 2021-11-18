@@ -37,7 +37,7 @@ Combine ingredients in sauce pan, simmer for 1/2 hour, stirring frequently. Be c
 
 This recipe can be used for vegetarian burgers, etc.
 
-A vegetarian delight, this Quick Easy Honey Barbecue Sauce Recipe is a must for Veggie Burgers or Ribbies. Get inventive with [Sandwiches][2] or [Potatoes][3].
+A vegetarian delight, this Quick Honey Barbecue Sauce Recipe is a must for Veggie Burgers or Ribbies. Get inventive with [Sandwiches][2] or [Potatoes][3].
 
  [1]: /wordpress/grilling-cookouts-and-barbecues/
  [2]: /wordpress/sandwich-recipes/

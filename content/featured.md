@@ -9,7 +9,7 @@ recipes:
       img: /images/featured/seven-layer-dip.jpg
       url: /recipes/easy-mexican-recipes/easy-seven-layer-dip-recipe
     1:
-      title: Honey Barbecue Barbecue Sauce
+      title: Honey Barbecue Sauce
       description:
           "Our honey teriyaki barbecue sauce will become a staple in your recipe file. It's easy to prepare on the stove and great for the barbecue grill for ribs, chicken, chops and steaks."
       img: /images/featured/honey-barbecue-sauce.jpg

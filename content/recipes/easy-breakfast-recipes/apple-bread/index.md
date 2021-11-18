@@ -22,7 +22,7 @@ Everyone loves apple [bread][1] made from Michigan apples for breakfast. Apple m
 
 ## Directions
 
-In medium size mixing bowl combine flour, baking soda, baking powder, salt, mix together , set aside. In large mixing bowl, combine eggs, sugars, cinnamon, oil, vanilla, and milk. Mix together with a wire wisk or you can use electric mixer. Mix well then add apples, finish stirring by hand. Combine wet ingredients with dry and fold into a batter, don&#8217;t overmix. When flour is incorporated into batter, pour into greased bread pan. Bake pre-heated oven 350* for 1 hour. Test with toothpick. Put on wire rack to cool. Enjoy warm!  
+In medium size mixing bowl combine flour, baking soda, baking powder, salt, mix together , set aside. In large mixing bowl, combine eggs, sugars, cinnamon, oil, vanilla, and milk. Mix together with a wire wisk or you can use electric mixer. Mix well then add apples, finish stirring by hand. Combine wet ingredients with dry and fold into a batter, don&#8217;t overmix. When flour is incorporated into batter, pour into greased bread pan. Bake pre-heated oven 350&#8457; for 1 hour. Test with toothpick. Put on wire rack to cool. Enjoy warm!  
 Note If using convection oven remember to lower temperature by 25 degrees.  
 Note: you can add raisins or dried cherries, nuts of your choice like walnuts or pecans are great to add too. Add these items when you add the apples. Also you can put this recipe in muffin tins for a breakfast treat!
 

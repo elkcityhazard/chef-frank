@@ -5,7 +5,7 @@ type: page
 date: 2019-12-11T02:32:45+00:00
 
 ---
-Quick Easy Puff Pastry Wraps Recipes are great for [Appetizers][1] or [Desserts][2]. Simple instructions on how to make Puff Pastry Wraps for any Holiday or Party. Happy New Year Appetizers.
+Quick Puff Pastry Wraps Recipes are great for [Appetizers][1] or [Desserts][2]. Simple instructions on how to make Puff Pastry Wraps for any Holiday or Party. Happy New Year Appetizers.
 
 ## Puff Pastry Wrap Ingredients
 

@@ -5,7 +5,7 @@ type: page
 date: 2019-12-11T02:07:00+00:00
 
 ---
-Quick Easy Cheese Balls Recipe is for the [Holidays][1] with crackers and other [Appetizers][2]. Cheese Balls take 15 minutes to prepare, and are eye appealing too!
+Quick Cheese Balls Recipe is for the [Holidays][1] with crackers and other [Appetizers][2]. Cheese Balls take 15 minutes to prepare, and are eye appealing too!
 
 ## Cheese Ball Recipe
 

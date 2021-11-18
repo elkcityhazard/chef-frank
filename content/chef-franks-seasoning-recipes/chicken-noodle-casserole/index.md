@@ -1,7 +1,7 @@
 ---
 title: Chicken Noodle Casserole
 author: elkcityhazard
-description: "Chicken Noodle Casserole, Quick Easy Recipe for Lunch or Dinner Entree. Chicken Noodle Casserole is True Comfort Food and goes with any Salad, Fruit, and Warm Bread."
+description: "Chicken Noodle Casserole, Quick Recipe for Lunch or Dinner Entree. Chicken Noodle Casserole is True Comfort Food and goes with any Salad, Fruit, and Warm Bread."
 img: images/recipes/featured-images/frontmatter/chicken-noodle-casserole.jpg
 date: 2019-12-10T22:15:00+00:00
 category: 
@@ -12,7 +12,7 @@ tags:
  - Comfort Food 
 
 ---
-Chicken Noodle Casserole, Quick Easy Recipe for Lunch or Dinner Entree. Chicken Noodle Casserole is True Comfort Food and goes with any [Salad][1], [Fruit][2], and [Warm Bread][3].
+Chicken Noodle Casserole, Quick Recipe for Lunch or Dinner Entree. Chicken Noodle Casserole is True Comfort Food and goes with any [Salad][1], [Fruit][2], and [Warm Bread][3].
 
 ![Chicken Noodle Casserole ][4] 
 
@@ -35,7 +35,7 @@ Boil noodles, along with onion and celery in medium, large sauce pan. Cook for a
 
 **note:** Do the noodles and the white sauce seperately at the same time.
 
-Combine white sauce with noodles vegetables, chicken and seasonings. Mix, then place bread crumbs on top of casserole. Place in pre-heated oven at 350* for 45 min. to 1 hour. Serve with salads, fruit , and or Hot rolls and butter.
+Combine white sauce with noodles vegetables, chicken and seasonings. Mix, then place bread crumbs on top of casserole. Place in pre-heated oven at 350&#8457; for 45 min. to 1 hour. Serve with salads, fruit , and or Hot rolls and butter.
 
 ## [Roux][5]
 

@@ -161,9 +161,11 @@
         <span class="price"><strong>Price: $</strong>${{- .price }}</span>
         <span class="shipping"><strong>Shipping: </strong>{{ .shipping }}</span>
       </div>
-      <a href="{{ .url | absURL }}" class="cta-btn" title="{{- .Title -}}">
+      <a href="{{ .url | absURL }}" class="cta-btn" title="{{- .Title -}}" style="display: none;">
         Buy Now 🛒 <br />
       </a>
+      {{ .paypal | safeHTML }}
+        
     </div>
     {{- end -}}
   </div>
@@ -172,55 +174,7 @@
 
 <!-- end products-->
 
-<!-- Blog -->
-{{- with .GetPage "blog" -}}
-<section class="blog" id="blogContainer">
-  <div class="row">
-    <h3>{{- .Title -}}</h3>
-    <p>{{ .Params.subtitle }}</p>
-  </div>
-  <div class="row">
-    {{- range .Pages | first 3 -}}
-    <div class="blog-card">
-      <img
-        data-src="{{ .Params.img | absURL }}"
-        class="blog-card-image lazy"
-        title="{{ .Description }}"
-        alt="{{ .Title }}"
-        width="100%"
-        height="auto"
-      />
-      <div class="container">
-        <div class="row">
-          <h4>
-            <a href="{{ .RelPermalink | absURL }}" title="{{ .Description }}"
-              >{{ .Title }}</a
-            >
-          </h4>
-          <span
-            ><strong>Date: </strong>{{- .Date | time.Format ":date_long" -}}</span
-          >
-          <br />
-          <span><strong>Author: </strong>{{- .Params.author -}}</span>
-        </div>
-        <div class="row">
-          <p>{{- .Params.description -}}</p>
-        </div>
-        <div class="row">
-          <a
-            href="{{ .RelPermalink | absURL}}"
-            title="{{.Description}}"
-            class="cta-btn"
-            >{{ .Title }}</a
-          >
-        </div>
-      </div>
-    </div>
-    {{ end }}
-  </div>
-</section>
-{{ end }}
-<!-- end blog -->
+
 
 <!--contact section-->
 

@@ -15,7 +15,7 @@ tags:
 
 
 ---
-Meatloaf for 200 people is a quick easy recipe when feeding a crowd. <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed potatoes</a> and <a href="/wordpress/recipes-for-special-occasions-and-events/simple-green-bean-casserole/" rel="noopener noreferrer" target="_blank">green beans</a> is standard with this meatloaf recipe. Use leftovers for <a href="/wordpress/sandwich-recipes/" rel="noopener noreferrer" target="_blank">sandwiches</a> or put in <a href="/wordpress/recipe-basics-and-sauces/" rel="noopener noreferrer" target="_blank">spaghetti sauce</a>.
+Meatloaf for 200 people is a Quick recipe when feeding a crowd. <a href="/wordpress/recipes-for-special-occasions-and-events/homemade-mashed-potatoes-recipe/" rel="noopener noreferrer" target="_blank">Mashed potatoes</a> and <a href="/wordpress/recipes-for-special-occasions-and-events/simple-green-bean-casserole/" rel="noopener noreferrer" target="_blank">green beans</a> is standard with this meatloaf recipe. Use leftovers for <a href="/wordpress/sandwich-recipes/" rel="noopener noreferrer" target="_blank">sandwiches</a> or put in <a href="/wordpress/recipe-basics-and-sauces/" rel="noopener noreferrer" target="_blank">spaghetti sauce</a>.
 
 ## Ingredients
 

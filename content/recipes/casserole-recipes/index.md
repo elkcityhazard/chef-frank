@@ -6,7 +6,7 @@ date: 2019-12-16T15:53:32+00:00
 menu: ['recipes']
 
 ---
-Welcome To Our Quick Easy Casserole Recipes Section. Prepare These Easy Noodle Casseroles for Lunch or Dinner. Kids Will Love Our Macaroni and Cheese and Tuna Noodle Casserole as Well as All the Others. Great Comfort Foods for Those Cold days.
+Welcome To Our Quick Casserole Recipes Section. Prepare These Easy Noodle Casseroles for Lunch or Dinner. Kids Will Love Our Macaroni and Cheese and Tuna Noodle Casserole as Well as All the Others. Great Comfort Foods for Those Cold days.
 
 ## Casserole Recipes
 

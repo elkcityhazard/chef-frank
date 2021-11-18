@@ -5,13 +5,13 @@ type: page
 date: 2019-12-13T13:55:35+00:00
 
 ---
-Quick Easy Green Bean Casserole is a standard Recipe used for Holidays and everyday meals. Green Bean Casserole topped with Fried Onions and Cheese will Shake Up your Meals!<figure>
+Quick Green Bean Casserole is a standard Recipe used for Holidays and everyday meals. Green Bean Casserole topped with Fried Onions and Cheese will Shake Up your Meals!<figure>
 
 ![Simple, Healthy Green Bean Casserole][1] <figcaption>A Simple and Healthy Green Bean Casserole</figcaption></figure> 
 
 ## Green Bean Casserole Ingredients
 
-**serves 8 -10**
+**serves 8 -10&#8457;*
 
   * 2 cans green beans, drained
   * 1 can cream of mushroom soup

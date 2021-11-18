@@ -5,7 +5,7 @@ type: page
 date: 2019-12-16T15:43:33+00:00
 
 ---
-Quick Easy Red Potato Salad Recipe with Fresh Boiled Eggs, Red Potatoes, Celery, Onion, and a Mustard Mayo Sauce with Spices. Red Potato Salad makes a Great  
+Quick Red Potato Salad Recipe with Fresh Boiled Eggs, Red Potatoes, Celery, Onion, and a Mustard Mayo Sauce with Spices. Red Potato Salad makes a Great  
 <a href="/wordpress/grilling-cookouts-and-barbecues/" rel="noopener noreferrer" target="_blank">Picnic</a> Better.
 
 ## Potato Salad

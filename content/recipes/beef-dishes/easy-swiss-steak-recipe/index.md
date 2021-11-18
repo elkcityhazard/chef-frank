@@ -5,7 +5,7 @@ type: page
 date: 2019-12-15T00:37:20+00:00
 
 ---
-Quick Easy Swiss Steak Recipe uses Fresh Round Steak or Sirloin, Rolled in flour, Spices, and Browned in Butter. Swiss Steak Entree and [Mashed Potatoes][1] with a [Vegetable][2] is a Satisfying Meal and Leaves Everyone Full and Happy.
+Quick Swiss Steak Recipe uses Fresh Round Steak or Sirloin, Rolled in flour, Spices, and Browned in Butter. Swiss Steak Entree and [Mashed Potatoes][1] with a [Vegetable][2] is a Satisfying Meal and Leaves Everyone Full and Happy.
 
 ## Swiss Steak Ingredients
 

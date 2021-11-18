@@ -7,7 +7,7 @@ date: 2019-12-16T15:15:09+00:00
 ---
 Here is a soup that will keep you warm on a cold winters day!
 
-Quick Easy Split Pea Soup Recipe to warm up any cold day. Our split pea soup recipe has fresh carrots, onion, celery, potatoes, and ham, slow cooked for perfection. Break out the crackers.
+Quick Split Pea Soup Recipe to warm up any cold day. Our split pea soup recipe has fresh carrots, onion, celery, potatoes, and ham, slow cooked for perfection. Break out the crackers.
 
 ## Split Pea Soup with Ham Ingredients
 

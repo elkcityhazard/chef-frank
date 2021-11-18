@@ -5,7 +5,7 @@ type: page
 date: 2019-12-11T01:34:24+00:00
 
 ---
-Chicken Quesadillas &#8211; a Great Quick Easy Mexican Quesadilla Recipe using Fresh Chicken Breasts and Soft Tortillas. Make Fresh [Salsa][1] and [Guacamole][2] if you Desire from our Quick [Easy Mexican Recipes][3]. Quesadillas are Served for Lunch or Supper.
+Chicken Quesadillas &#8211; a Great Quick Mexican Quesadilla Recipe using Fresh Chicken Breasts and Soft Tortillas. Make Fresh [Salsa][1] and [Guacamole][2] if you Desire from our Quick [Easy Mexican Recipes][3]. Quesadillas are Served for Lunch or Supper.
 
 ## Chicken Quesadillas Recipe
 

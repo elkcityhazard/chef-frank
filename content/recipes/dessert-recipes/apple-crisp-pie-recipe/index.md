@@ -1,7 +1,7 @@
 ---
 title: Apple Crisp Pie Recipe
 author: elkcityhazard
-description: "Quick Easy Apple crisp recipe with Michigan Apples. Use Michigan Spy Apples for this Apple Crisp Recipe. With a Hint of Cinnamon and Quick Tapioca, it's Wonderful Served Warm."
+description: "Quick Apple crisp recipe with Michigan Apples. Use Michigan Spy Apples for this Apple Crisp Recipe. With a Hint of Cinnamon and Quick Tapioca, it's Wonderful Served Warm."
 date: 2019-12-16T16:45:03+00:00
 img: https://source.unsplash.com/640x426/?apple,pie
 category:
@@ -16,7 +16,7 @@ tags:
 
 ## Apple Crisp Ingredients
 
-**serves 8-10**
+**serves 8-10&#8457;*
 
   * 6 tart apples, peeled, sliced
   * 1 c sugar

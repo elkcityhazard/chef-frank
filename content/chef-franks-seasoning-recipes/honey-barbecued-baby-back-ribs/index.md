@@ -28,6 +28,6 @@ Chef Frank&#8217;s Honey Barbecued Baby Back Ribs are so delicious and easy to p
 
 ## Honey Barbecue Baby Back Ribs Directions
 
-In roasting pan, place ribs, water, onion, and seasoning. Cover and roast at 300* for 1 1/2 hours. Remove from oven and brush sauce over ribs (you may have to drain excess liquid first). Place under broiler to finish or outside on the barbecue grill.
+In roasting pan, place ribs, water, onion, and seasoning. Cover and roast at 300&#8457; for 1 1/2 hours. Remove from oven and brush sauce over ribs (you may have to drain excess liquid first). Place under broiler to finish or outside on the barbecue grill.
 
 **Note:** can be enjoyed with <a href="/wordpress/chef-franks-seasoning-recipes/scalloped-potatoes-grandmas-comfort-food/" rel="noopener noreferrer" target="_blank">scalloped potatoes</a> in winter, and <a href="/wordpress/vegetables-and-salad-recipes/potato-salad-recipe/" rel="noopener noreferrer" target="_blank">potato</a> or <a href="/wordpress/vegetables-and-salad-recipes/" rel="noopener noreferrer" target="_blank">vegetable salad</a> in summer. I suggest fresh sweet corn in season!

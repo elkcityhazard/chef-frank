@@ -1,11 +1,12 @@
 ---
 title: Bacon Wrapped Olives Appetizer
+description: "This bacon wrapped olives appetizer is the perfect snack for your next party. It's easy to make and it's delicious!"
 author: elkcityhazard
 type: page
 date: 2019-12-11T00:51:34+00:00
 
 ---
-Quick easy Bacon Wrapped Olives Make a great Appetizer for parties and get togethers. Bacon Wrapped Olives are festive too, and make a great [Christmas][1] or New Years Eve Snack.
+Quick Bacon Wrapped Olives Make a great Appetizer for parties and get togethers. Bacon Wrapped Olives are festive too, and make a great [Christmas][1] or New Years Eve Snack.
 
 ## Bacon Wrapped Olives Ingredients
 
@@ -15,6 +16,6 @@ Quick easy Bacon Wrapped Olives Make a great Appetizer for parties and get toget
 
 ## Bacon Wrapped Olives Directions
 
-Wrap bacon around olives. skewer with toothpick. Place on cookie sheet. bake 375* 12-15 minutes or until desired doneness. Serve.
+Wrap bacon around olives. skewer with toothpick. Place on cookie sheet. bake 375&#8457; 12-15 minutes or until desired doneness. Serve.
 
- [1]: /wordpress/recipes-for-special-occasions-and-events/
+ [1]: /recipes/recipes-for-special-occasions-and-events/

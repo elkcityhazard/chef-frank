@@ -5,7 +5,7 @@ type: page
 date: 2019-12-11T01:53:57+00:00
 
 ---
-Quick Easy Mexican Salsa Recipe is made from Fresh Peppers, Tomatoes, Onions, and Spices. Use Mexican Salsa for any [Mexican Recipe][1] as a Topper or Dip.
+Quick Mexican Salsa Recipe is made from Fresh Peppers, Tomatoes, Onions, and Spices. Use Mexican Salsa for any [Mexican Recipe][1] as a Topper or Dip.
 
 ## Salsa Ingedients
 

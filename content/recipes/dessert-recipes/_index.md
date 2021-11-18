@@ -23,7 +23,7 @@ Welcome to our Dessert Section. The Whole Family will Rave when you Prepare Deli
   * [Cinnamon Caramel Sauce][6]
   * [Cinnamon Rolls][7]
   * [Mom&#8217;s Frosting][8]
-  * [Quick Easy Chocolate Cake][9]
+  * [Quick Chocolate Cake][9]
   * [Chocolate Frosting][10]
   * [Quick No Egg Chocolate Cake][11]
   * [Quick-e-Brownies][12]

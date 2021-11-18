@@ -5,13 +5,13 @@ type: page
 date: 2019-12-11T02:10:04+00:00
 
 ---
-Quick Easy Orange Gelatin Salad is a special [Holiday Treat][1] at the end of a great meal. Orange Gelatin Salad has pineapple, manderin oranges and whipped cream. A wonderful [dessert][2].
+Quick Orange Gelatin Salad is a special [Holiday Treat][1] at the end of a great meal. Orange Gelatin Salad has pineapple, manderin oranges and whipped cream. A wonderful [dessert][2].
 
 ## Holiday Orange Gelatin 
 
   * 1 small pkg orange gelatin
   * 1 c orange pop
-  * 1 c hot water 120*(to dissolve gelatin)
+  * 1 c hot water 120&#8457;(to dissolve gelatin)
   * 1 pkg dry whip cream mix
   * 1 can drained pineapple
   * 1 can drained mandarin oranges

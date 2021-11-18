@@ -24,6 +24,6 @@ Beef Pot Pie is a quick and easy recipe for supper tonight. Fresh beef [sirloin]
 
 Place beef, spices, and vegetables in large kettle. Top off with water and boil for about 30 minutes. Drain off 3 cups water and place in sauce pan with beef base for gravy. Discard rest of water. Bring to boil, add <a href="/wordpress/easy-vegetarian-dinner-recipes/how-to-make-roux/" rel="noopener noreferrer" target="_blank">roux</a> slowly until desired thickness.
 
-Press pie shell into oblong glass baking dish, overlap crust slightly over edge. Slowly add gravy to vegetables and beef and stir in kettle. Put mixture in baking dish lined with bottom crust and cover with top crust. Bake 350* for 40-50 minutes or until crust is golden brown. Serve with <a href="/wordpress/institutional-recipes-for-200/easy-side-dishes/" rel="noopener noreferrer" target="_blank">favorite sides</a>.
+Press pie shell into oblong glass baking dish, overlap crust slightly over edge. Slowly add gravy to vegetables and beef and stir in kettle. Put mixture in baking dish lined with bottom crust and cover with top crust. Bake 350&#8457; for 40-50 minutes or until crust is golden brown. Serve with <a href="/wordpress/institutional-recipes-for-200/easy-side-dishes/" rel="noopener noreferrer" target="_blank">favorite sides</a>.
 
  [1]: /wordpress/grilling-cookouts-and-barbecues/grilled-sirloin-steak-recipe/

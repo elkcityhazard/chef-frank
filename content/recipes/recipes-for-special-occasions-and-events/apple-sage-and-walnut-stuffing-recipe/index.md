@@ -27,6 +27,6 @@ Place all ingredients above in medium sauce pan. Slow boil for 1/2 hour or until
 
   1. 4-6 cups dried, cubed bread
   2. Add bread cubes slowly as not to get dressing too thick and pasty.
-  3. Mix together and place in 350* oven for about 30 minutes.
+  3. Mix together and place in 350&#8457; oven for about 30 minutes.
 
 **Note:** This recipe can be used for Stuffed Pork Chops, stuffing a Holiday Turkey or used with an Everyday Hot Turkey Sandwich.

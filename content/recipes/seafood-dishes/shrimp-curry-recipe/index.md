@@ -3,10 +3,10 @@ title: Shrimp Curry Recipe
 author: elkcityhazard
 type: page
 date: 2019-12-15T21:39:34+00:00
-summary: "Curried Shrimp is a Quick Easy Seafood Recipe with Fresh Shrimp, Curry, and Vegetables. Curried Shrimp uses Different Curry Strengths to your Taste."
+summary: "Curried Shrimp is a Quick Seafood Recipe with Fresh Shrimp, Curry, and Vegetables. Curried Shrimp uses Different Curry Strengths to your Taste."
 
 ---
-Curried Shrimp is a Quick Easy Seafood Recipe with Fresh Shrimp, Curry, and Vegetables. Curried Shrimp uses Different Curry Strengths to your Taste.
+Curried Shrimp is a Quick Seafood Recipe with Fresh Shrimp, Curry, and Vegetables. Curried Shrimp uses Different Curry Strengths to your Taste.
 
 ## Shrimp Curry Recipe Ingredients
 

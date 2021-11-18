@@ -9,7 +9,7 @@ Chocolate Cake is made quick and easy for birthdays or any occasion. A five minu
 
 ![Easy Chocolate Cake][1] <figcaption>A beautiful and easy chocolate cake.</figcaption></figure> 
 
-## Quick Easy Chocolate Cake
+## Quick Chocolate Cake
 
   * 2 1/2 c flour
   * 1/2 tsp baking powder

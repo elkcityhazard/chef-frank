@@ -26,4 +26,4 @@ Recipe from Ann L.
 
 ## Directions
 
-In large bowl mix together all ingredients. Place in 9&#215;13 pan and bake at 400* for about an hour. Remove , slice and serve with potatoes, hot vegetables, salads or fruits.
+In large bowl mix together all ingredients. Place in 9&#215;13 pan and bake at 400&#8457; for about an hour. Remove , slice and serve with potatoes, hot vegetables, salads or fruits.

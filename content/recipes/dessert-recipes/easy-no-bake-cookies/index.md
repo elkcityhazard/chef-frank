@@ -5,7 +5,7 @@ type: page
 date: 2019-12-16T17:29:01+00:00
 
 ---
-Quick Easy No Bake Cookies Recipe are a standard for <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">Holidays</a> or any day. No Bake cookies in your lunch bag put a smile on your face. There&#8217;s chocolate in it ya know!<figure> 
+Quick No Bake Cookies Recipe are a standard for <a href="/wordpress/recipes-for-special-occasions-and-events/" rel="noopener noreferrer" target="_blank">Holidays</a> or any day. No Bake cookies in your lunch bag put a smile on your face. There&#8217;s chocolate in it ya know!<figure> 
 
 ![Skippy Loves No Bake Cookies][1] <figcaption>Skippy Loves No Bake Cookies!</figcaption></figure> 
 

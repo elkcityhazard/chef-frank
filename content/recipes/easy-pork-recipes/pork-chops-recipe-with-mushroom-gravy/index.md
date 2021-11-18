@@ -5,7 +5,7 @@ type: page
 date: 2019-12-15T01:33:38+00:00
 
 ---
-Pork Chops With Mushroom Gravy Is a Quick Easy Recipe for Anytime of the Week. Brown Pork Chops, then add Mushroom Soup For Gravy. [Mashed Potatoes][1] Compliment this Standard Recipe.
+Pork Chops With Mushroom Gravy Is a Quick Recipe for Anytime of the Week. Brown Pork Chops, then add Mushroom Soup For Gravy. [Mashed Potatoes][1] Compliment this Standard Recipe.
 
 ## Pork Chops with Mushroom Gravy Ingredients
 

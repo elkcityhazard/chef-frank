@@ -9,7 +9,7 @@ Clam Chowder, Quick and Easy for Your Friday Lunch or Soup and Sandwich Combo. C
 
 ## Clam Chowder Ingredients
 
-**Serves 8-10**
+**Serves 8-10&#8457;*
 
   * 2 c clams (canned are fine) do not drain
   * 3 potaotoes, peeled diced

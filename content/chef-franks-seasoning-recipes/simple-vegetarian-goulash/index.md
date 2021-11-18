@@ -31,7 +31,7 @@ Serves 8
   * 1 c shredded cheddar cheese(optional)
 
 Place Macaroni in boiling water and boil( 8 minutes), then drain  
-sauté vegetables in olive oil until tender, then combine all ingredients into casserole dish, mix together well, and bake in preheated oven at 350* for one (1) hour.
+sauté vegetables in olive oil until tender, then combine all ingredients into casserole dish, mix together well, and bake in preheated oven at 350&#8457; for one (1) hour.
 
 **Note:** Add black or chili beans to make Chili Mac.
 

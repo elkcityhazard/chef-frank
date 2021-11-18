@@ -14,7 +14,7 @@ tags:
   - desserts 
 
 ---
-Real Chocolate Chip Cookies are Quick and Easy Scratch Cookies to make for Gatherings, Large Groups, Camps, or Schools. Kids love them and will want them again! Quick Easy Institutional Recipe.
+Real Chocolate Chip Cookies are Quick and Easy Scratch Cookies to make for Gatherings, Large Groups, Camps, or Schools. Kids love them and will want them again! Quick Institutional Recipe.
 
 ## Real Chocolate Chip Cookies Recipe for 200 People
 

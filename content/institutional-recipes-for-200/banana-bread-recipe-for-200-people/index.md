@@ -3,7 +3,7 @@ title: Banana Bread And Muffins Recipe For 200 People
 author: elkcityhazard
 description: "This is the most popular recipe on the blog. It's a simple scratch recipe for banana bread that uses fresh ingredients. And it's been tested and retested - over 200 times - to get it just right!"
 date: 2021-08-28
-img: images/recipes/featured-images/frontmatter/banana-bread-for-200-people.jpg
+img: "http://quick-e-recipes.com/sitebuildercontent/sitebuilderpictures/IMG_0803_1024.jpg"
 category:
   - Institutional Cooking
   - Bread
@@ -15,9 +15,7 @@ tags:
 ---
 ## Banana Bread Recipe For 200
 
-![banana bread recipe for 200][1] 
-
-Quick Easy Banana Bread or Muffins for 280 People. This Quick Easy Institutional Scratch Recipe will keep your clients happy. Use the same Quick Easy Banana Bread Recipe for Muffins.
+Quick Banana Bread or Muffins for 280 People. This Quick Institutional Scratch Recipe will keep your clients happy. Use the same Quick Banana Bread Recipe for Muffins.
 
 **Prep time:** 15-20 minutes
 
@@ -46,4 +44,3 @@ Grease four (4) full sized sheetpans and scale batter evenly among them. Place i
 
 **Note:** if you do not have a 60 qt electric mixer, you may break the recipe in half and mix by hand. It really does not take much more time as quick breads mix up quickly.
 
- [1]: http://quick-e-recipes.com/sitebuildercontent/sitebuilderpictures/IMG_0803_1024.jpg

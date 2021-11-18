@@ -5,7 +5,7 @@ type: page
 date: 2019-12-14T22:42:25+00:00
 
 ---
-Quick Easy Meatloaf Recipe from Mom&#8217;s Cupboard is made from Fresh Ground Beef, Onions, Celery, Eggs, Bread, and Spices. Meatloaf also makes Good Leftovers for [Sandwiches][1] or just re-heat and eat.
+Quick Meatloaf Recipe from Mom&#8217;s Cupboard is made from Fresh Ground Beef, Onions, Celery, Eggs, Bread, and Spices. Meatloaf also makes Good Leftovers for [Sandwiches][1] or just re-heat and eat.
 
 ![Delicious Beef Meatloaf][2] 
 

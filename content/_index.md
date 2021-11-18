@@ -4,7 +4,7 @@ siteHeading: "👋 Welcome To Chef Frank's Recipes"
 subTitle: ["Everyday Family Meals", "Everyday Fresh Ingredients", "Everyday Quick Recipes"] 
 button: 
   enable: true
-  link: '#contact'
+  link: '/recipes'
   label: 'Lets Get Started'
 customClass: 
   name: "cta"

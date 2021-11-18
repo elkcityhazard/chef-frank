@@ -5,7 +5,7 @@ type: page
 date: 2019-12-11T01:57:39+00:00
 
 ---
-Quick Easy Black Bean Wraps Recipe is an [Easy Mexican Recipe][1] and is great for lunch or dinner. Black bean wraps are filled with black beans, vegetables, cheese and all the fixings.
+Quick Black Bean Wraps Recipe is an [Easy Mexican Recipe][1] and is great for lunch or dinner. Black bean wraps are filled with black beans, vegetables, cheese and all the fixings.
 
 ## Black Bean Wrap Recipe
 
@@ -27,6 +27,6 @@ Quick Easy Black Bean Wraps Recipe is an [Easy Mexican Recipe][1] and is great f
 
 ### Directions
 
-Open tortillas. Spread refried beans (amount desired) on. Put black beans with rice in tortilla. Roll up and put on cookie sheet. Put more refried beans on top of tortillas with cheese and a small amount of salsa. Bake 350* for 15-20 minutes. Top with rest of ingredients.
+Open tortillas. Spread refried beans (amount desired) on. Put black beans with rice in tortilla. Roll up and put on cookie sheet. Put more refried beans on top of tortillas with cheese and a small amount of salsa. Bake 350&#8457; for 15-20 minutes. Top with rest of ingredients.
 
  [1]: /wordpress/easy-mexican-recipes/

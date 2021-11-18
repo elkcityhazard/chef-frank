@@ -19,7 +19,7 @@ Delicious honey baked ham for 200 with a quick 15 minute prep time and 1 hour co
 
 ### Ingredients
 
-  * 45# whole ham (flat buffet)sliced 1/4 inch thick
+  * 45 lbs. of buffet ham pre-sliced to 1/4"
   * 5 tsp ground clove
   * 4 c honey
   * 10 c applesauce

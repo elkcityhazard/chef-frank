@@ -5,7 +5,7 @@ type: page
 date: 2019-12-12T15:17:26+00:00
 
 ---
-Quick Easy Caesar Salad Recipe is Fresh Romaine Lettuce, Croutons, and Shredded Parmesan Cheese. Caesar Salad is Great Topped with Diced [Chicken][1]. Caesar Dressing is the Finale.
+Quick Caesar Salad Recipe is Fresh Romaine Lettuce, Croutons, and Shredded Parmesan Cheese. Caesar Salad is Great Topped with Diced [Chicken][1]. Caesar Dressing is the Finale.
 
 ## Caesar Salad Ingredients
 

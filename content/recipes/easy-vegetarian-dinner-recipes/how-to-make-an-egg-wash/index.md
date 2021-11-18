@@ -5,7 +5,7 @@ type: page
 date: 2019-12-13T15:10:11+00:00
 
 ---
-Quick Easy Egg Wash Recipe for Putting a Shine on all your Pie and Pastry Crusts. Egg Wash Takes a Minute to Prepare and adds Eye Appeal to your Pie and [Pastry Recipes][1].
+Quick Egg Wash Recipe for Putting a Shine on all your Pie and Pastry Crusts. Egg Wash Takes a Minute to Prepare and adds Eye Appeal to your Pie and [Pastry Recipes][1].
 
 If you&#8217;re Making a Fruit Pie, Sprinkle a Little Sugar on Top of your Crust After you Brush it with Egg Wash.
 

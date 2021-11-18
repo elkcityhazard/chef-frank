@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Hot Vegetables on Chef Frank&#39;s Recipes</title>
-    <link>/recipes/hot-vegetables/</link>
-    <description>Recent content in Hot Vegetables on Chef Frank&#39;s Recipes</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 16 Dec 2019 15:47:38 +0000</lastBuildDate><atom:link href="/recipes/hot-vegetables/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Hot Vegetables on Chef Frank's Recipes</title><link>https://quick-e-recipes.com/recipes/hot-vegetables/</link><description>Recent content in Hot Vegetables on Chef Frank's Recipes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 16 Dec 2019 15:47:38 +0000</lastBuildDate><atom:link href="https://quick-e-recipes.com/recipes/hot-vegetables/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

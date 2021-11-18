@@ -1,7 +1,7 @@
 ---
 title: Apple Smackers Recipe
 author: elkcityhazard
-description: "Quick Easy Apple Smackers are a baked Michigan Apple with cinnamon and sugar, So easy to prepare. Apple Smackers are a kids favorite snack."
+description: "Quick Apple Smackers are a baked Michigan Apple with cinnamon and sugar, So easy to prepare. Apple Smackers are a kids favorite snack."
 date: 2019-12-16
 img: https://source.unsplash.com/640x426/?apple,pie
 category:

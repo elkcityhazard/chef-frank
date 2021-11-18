@@ -26,7 +26,7 @@ Welcome to the Recipe Basics Section of our site. Recipe Basics Partner and Link
   * [Quick Hot Mustard Sauce][7]
   * [Roux][8]
   * [Seafood Sauce][9]
-  * [Spaghetti Sauce, Homemade Quick Easy Recipe][10]
+  * [Spaghetti Sauce, Homemade Quick Recipe][10]
   * [Easy Teriyaki Sauce][11]
   * [Tartar Sauce][12]
   * [Maitre d&#8217; Butter][13]

@@ -5,7 +5,7 @@ type: page
 date: 2019-12-16T14:49:00+00:00
 
 ---
-Chili Con Carne So Quick And Easy. A Filling Meal for Lunch or Dinner. Chili Con Carne with Corn Muffins, Crackers, and A Green Leafy Salad. A Quick Easy Chili Recipe for Fall.
+Chili Con Carne So Quick And Easy. A Filling Meal for Lunch or Dinner. Chili Con Carne with Corn Muffins, Crackers, and A Green Leafy Salad. A Quick Chili Recipe for Fall.
 
 ## Chili Con Carne Ingredients
 

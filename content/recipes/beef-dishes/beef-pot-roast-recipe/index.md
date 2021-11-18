@@ -5,7 +5,7 @@ type: page
 date: 2019-12-15T00:28:03+00:00
 
 ---
-Beef Pot Roast for a Delicious Supper is a Quick Easy Recipe with [Potatoes][1] and Carrots, and only takes 15 Minutes to Prepare, then place in Oven to Roast. Sunday we&#8217;re having Pot Roast!
+Beef Pot Roast for a Delicious Supper is a Quick Recipe with [Potatoes][1] and Carrots, and only takes 15 Minutes to Prepare, then place in Oven to Roast. Sunday we&#8217;re having Pot Roast!
 
 ## Pot Roast of Beef (English cut or Chuck) Ingredients
 

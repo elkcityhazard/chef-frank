@@ -5,7 +5,7 @@ type: page
 date: 2019-12-13T15:22:34+00:00
 
 ---
-Vegetarian Mexican Chili a Quick Easy Recipe for Lunch or Dinner. Vegetarian Mexican Chili with Corn Muffins, Crackers, and A Green Leafy Salad or Sandwich. A True Comfort Food Soup.
+Vegetarian Mexican Chili a Quick Recipe for Lunch or Dinner. Vegetarian Mexican Chili with Corn Muffins, Crackers, and A Green Leafy Salad or Sandwich. A True Comfort Food Soup.
 
 ## Vegetarian Chili Ingredients
 

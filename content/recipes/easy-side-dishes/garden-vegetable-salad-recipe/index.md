@@ -5,7 +5,7 @@ type: page
 date: 2019-12-12T15:30:39+00:00
 
 ---
-Quick Easy Garden Vegetable Salad Recipe is a fresh salad directly from the garden or fresh vegetable stand. It&#8217;s Quick and Easy to prepare and is a nice [Side Salad][1] for back yard barbeques or picnics.
+Quick Garden Vegetable Salad Recipe is a fresh salad directly from the garden or fresh vegetable stand. It&#8217;s Quick and Easy to prepare and is a nice [Side Salad][1] for back yard barbeques or picnics.
 
 ## Vegetable Salad Ingredients
 

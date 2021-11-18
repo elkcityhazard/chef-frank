@@ -5,7 +5,7 @@ type: page
 date: 2019-12-16T14:35:26+00:00
 
 ---
-Quick Easy Beef Noodle Soup can be made with our [Homemade Noodle Recipe][1], and has fresh carrots, onion, celery, and diced beef. Beef Noodle Soup with salad and crackers, a very nice lunch.
+Quick Beef Noodle Soup can be made with our [Homemade Noodle Recipe][1], and has fresh carrots, onion, celery, and diced beef. Beef Noodle Soup with salad and crackers, a very nice lunch.
 
 ## Beef Noodle Soup Ingredients
 

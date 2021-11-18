@@ -7,7 +7,7 @@ date: 2019-12-16T16:41:01+00:00
 ---
 ## Quick-e-Brownies Ingredients
 
-**serves 20**
+**serves 20&#8457;*
 
   * 1 1/2 c flour
   * 2 c sugar

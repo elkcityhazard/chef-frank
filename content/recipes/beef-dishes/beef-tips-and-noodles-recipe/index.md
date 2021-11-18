@@ -5,7 +5,7 @@ type: page
 date: 2019-12-14T22:24:36+00:00
 
 ---
-Quick Easy Beef Tips and Noodles is an easy recipe to prepare and serve for supper. Beef Tips and <a href="/wordpress/chef-franks-seasoning-recipes/quick-and-easy-egg-noodle-recipe/" rel="noopener noreferrer" target="_blank">Noodles</a> recipe is made from diced beef, thick <a href="/wordpress/institutional-recipes-for-200/easy-side-dishes/easy-gravy-recipe/" rel="noopener noreferrer" target="_blank">gravy</a>, and noodles. A delicious comfort food.
+Quick Beef Tips and Noodles is an easy recipe to prepare and serve for supper. Beef Tips and <a href="/wordpress/chef-franks-seasoning-recipes/quick-and-easy-egg-noodle-recipe/" rel="noopener noreferrer" target="_blank">Noodles</a> recipe is made from diced beef, thick <a href="/wordpress/institutional-recipes-for-200/easy-side-dishes/easy-gravy-recipe/" rel="noopener noreferrer" target="_blank">gravy</a>, and noodles. A delicious comfort food.
 
 ## Beef Tips and Noodles
 

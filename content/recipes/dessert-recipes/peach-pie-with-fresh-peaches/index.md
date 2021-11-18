@@ -5,7 +5,7 @@ type: page
 date: 2019-12-16T16:46:48+00:00
 
 ---
-Quick Easy Peach Pie Recipe with Fresh or Frozen Sliced Peaches, Quick Tapioca, Lemon, and Sugar. A Quick Pie Crust and Peach Pie is Ready for Dessert.
+Quick Peach Pie Recipe with Fresh or Frozen Sliced Peaches, Quick Tapioca, Lemon, and Sugar. A Quick Pie Crust and Peach Pie is Ready for Dessert.
 
 ## Quick Peach Pie Recipe
 

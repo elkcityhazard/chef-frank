@@ -5,11 +5,11 @@ type: page
 date: 2019-12-12T15:22:56+00:00
 
 ---
-Quick Easy Pasta Salad Recipe using fresh broccoli, peppers, and other garden fresh vegetables. Pasta Salad is a summer favorite for picnics and luncheons with friends.
+Quick Pasta Salad Recipe using fresh broccoli, peppers, and other garden fresh vegetables. Pasta Salad is a summer favorite for picnics and luncheons with friends.
 
 ## Pasta Salad Ingredients
 
-**serves about 10**
+**serves about 10&#8457;*
 
   * 1 lb pasta (your choice of styles) cooked, drained, cooled under water
   * 1/2 onion, diced

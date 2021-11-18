@@ -1,11 +1,12 @@
 ---
 title: Food Safety Tips
 author: elkcityhazard
+description: "Welcome to the food safety section of our site.  Here you can learn tips about safe food preparation and sanitation."
 type: page
 date: 2019-12-16T17:43:05+00:00
 
 ---
-Welcome to our food safety section of our site where we offer Quick Easy Food Safety and Tips to make food prep safe and insure food quality. Don&#8217;t take chances with food safety.
+Welcome to our food safety section of our site where we offer Quick Food Safety and Tips to make food prep safe and insure food quality. Don&#8217;t take chances with food safety.
 
 ## Food Safety
 
@@ -18,7 +19,7 @@ Date and label foods. Discard leftovers after 6 days.
 
 Keep cold foods cold at 40&#8457; and hot foods hot at 135&#8457;. This is a new standard for Michigan hot foods, remember this is the minimum temperature.
 
-Cool large quantities of food fast with an ice bath, cooling in shallow containers, or an ice stick submerged in food. At maximum, 2 hours to reach 70* then 4 hours to reach 40&#8457;.
+Cool large quantities of food fast with an ice bath, cooling in shallow containers, or an ice stick submerged in food. At maximum, 2 hours to reach 70&#8457; then 4 hours to reach 40&#8457;.
 
 Prevent cross-contamination by washing and sanitizing(50 to 100 part per million (ppm) bleach water rinse) cutting boards and utensils. About a capful per gallon. You can test the strength with chlorine test strips
 

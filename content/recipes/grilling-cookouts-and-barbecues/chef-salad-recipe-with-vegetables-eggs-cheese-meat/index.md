@@ -5,7 +5,7 @@ type: page
 date: 2019-12-12T15:20:10+00:00
 
 ---
-Quick Easy Chef Salad Recipe is the perfect summer meal. Fresh vegetables, boiled egg, [ham][1], [turkey][2], [chicken][3] or [shrimp][4] to top it off. Chef Salad entree is healthy and delicious and great with a hot roll or soup.
+Quick Chef Salad Recipe is the perfect summer meal. Fresh vegetables, boiled egg, [ham][1], [turkey][2], [chicken][3] or [shrimp][4] to top it off. Chef Salad entree is healthy and delicious and great with a hot roll or soup.
 
 ## Chef Salad Ingredients
 

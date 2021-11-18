@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "https://quick-e-recipes.com/"
 languageCode = "en-us"
 title = "Chef Frank's Recipes"
 theme = "honeybear"
@@ -49,12 +49,6 @@ weight = -210
 # url = '/about/'
 # weight = -150
 
-[[menu.main]]
-identifier = 'blog'
-name = 'Blog'
-pre = "🐝"
-url = '/blog/'
-weight = -160
 
 [[menu.main]]
 identifier = 'chef-franks-seasoning-recipes'
@@ -106,12 +100,6 @@ pre = "🐝"
 url = '/about/'
 weight = -150
 
-[[menu.footer]]
-identifier = 'blog'
-name = 'Blog'
-pre = "🐝"
-url = '/blog/'
-weight = -160
 
 [[menu.footer]]
 identifier = 'chef-franks-seasoning-recipes'

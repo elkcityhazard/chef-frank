@@ -42,6 +42,6 @@ Place all ingredients in crock pot, stir well, cover, and set on fast heat for 4
 
 Serve over any pasta, and makes Lasagna Delicious!
 
-Any Pasta is Better with our Vegetarian Spaghetti Sauce, made fresh with [herbs and spices][1]. Our Quick Easy Spaghetti Recipe will make any <a href="/wordpress/easy-bread-recipes/easy-homemade-bread/" rel="noopener noreferrer" target="_blank">Garlic Bread</a> Envious.
+Any Pasta is Better with our Vegetarian Spaghetti Sauce, made fresh with [herbs and spices][1]. Our Quick Spaghetti Recipe will make any <a href="/wordpress/easy-bread-recipes/easy-homemade-bread/" rel="noopener noreferrer" target="_blank">Garlic Bread</a> Envious.
 
  [1]: /wordpress/herbs-and-spices-chart/

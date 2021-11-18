@@ -5,7 +5,7 @@ type: page
 date: 2019-12-13T23:21:51+00:00
 
 ---
-Tana&#8217;s Country Style Chicken Kiev Recipe is a Quick Easy way to a Wonderful Meal. For Holidays or Everyday Entrees. Serve with any Rice, [Side Dish][1], Fruit, or <a href="/wordpress/hot-vegetables/" rel="noopener noreferrer" target="_blank">Hot Vegetable</a>.
+Tana&#8217;s Country Style Chicken Kiev Recipe is a Quick way to a Wonderful Meal. For Holidays or Everyday Entrees. Serve with any Rice, [Side Dish][1], Fruit, or <a href="/wordpress/hot-vegetables/" rel="noopener noreferrer" target="_blank">Hot Vegetable</a>.
 
 ## Tana&#8217;s Country Style Chicken Kiev
 

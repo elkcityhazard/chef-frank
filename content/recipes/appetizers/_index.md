@@ -20,7 +20,7 @@ Celebrate Holidays and special events with these quick, wonderful and eye appeal
 [Cinnamon Crunchies][5]  
 [Microwave Caramel Corn][6]  
 [People Chow][7]  
-[Quick Easy Mexican Cheese Dip][8]  
+[Quick Mexican Cheese Dip][8]  
 [Chicken Quesadillas][9]  
 [Steak Quesadillas][10]  
 [Guacamole][11]  
@@ -37,7 +37,7 @@ Celebrate Holidays and special events with these quick, wonderful and eye appeal
 [Pita Pizza][22]  
 [Puff Pastry Wraps][23]
 
-There&#8217;s more to come in our Quick Easy Appetizer Recipes Section!
+There&#8217;s more to come in our Quick Appetizer Recipes Section!
 
  [1]: /wordpress/appetizers/bacon-wrapped-olives-appetizer/
  [2]: /wordpress/index.php/appetizers/bacon-wrapped-pineapple/
@@ -53,7 +53,7 @@ There&#8217;s more to come in our Quick Easy Appetizer Recipes Section!
  [12]: /wordpress/index.php/appetizers/mexican-seven-layer-dip-recipe/
  [13]: /wordpress/index.php/appetizers/fresh-mexican-salsa-recipe/
  [14]: /wordpress/index.php/appetizers/black-bean-wrap-recipe/
- [15]: /wordpress/index.php/appetizers/buffalo-style-hot-wings-recipe/ "Try this Quick Easy Hot Wing Recipe for Any Get Together, Like watching the Game , or a Birthday Party, or on New Year's Eve. Have them Just for a Snack! They're Great Any time!"
+ [15]: /wordpress/index.php/appetizers/buffalo-style-hot-wings-recipe/ "Try this Quick Hot Wing Recipe for Any Get Together, Like watching the Game , or a Birthday Party, or on New Year's Eve. Have them Just for a Snack! They're Great Any time!"
  [16]: /wordpress/index.php/appetizers/festive-holiday-cheese-balls/
  [17]: /wordpress/index.php/appetizers/orange-gelatin-salad-recipe/
  [18]: /wordpress/index.php/appetizers/homemade-barbecue-sauce-recipe-with-red-wine/

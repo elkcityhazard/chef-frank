@@ -1,12 +1,12 @@
 ---
 title: Bacon Wrapped Steak
+description: "Bacon wrapped steak is a great holiday or special event appetizer. Learn how to make bacon wrapped steak with this easy recipe."
 author: elkcityhazard
-type: page
-date: 2019-12-11T01:04:25+00:00
-featured_image: /images/recipes/bacon-wrapped-steak.jpg
+date: 2021-10-14
+img: /images/archive/bacon-wrapped-steak-appetizer.JPG
 
 ---
-Quick Easy Bacon Wrapped Steak Recipe is a great Appetizer for parties. Bacon Wrapped Steak dipped in Seafood Sauce is nice on your New Year&#8217;s Eve Party.
+Quick Bacon Wrapped Steak Recipe is a great Appetizer for parties. Bacon Wrapped Steak dipped in Seafood Sauce is nice on your New Year&#8217;s Eve Party.
 
 ## Bacon Wrapped Steak
 
@@ -19,8 +19,8 @@ Quick Easy Bacon Wrapped Steak Recipe is a great Appetizer for parties. Bacon Wr
 
 ## Bacon Wrapped Steak Directions
 
-Wrap bacon around steak and secure with a toothpick. Deep fry at 350* for 3-5 minutes or until desired doneness is achieved. Serve with a hot cheese dip, or seafood sauce.
+Wrap bacon around steak and secure with a toothpick. Deep fry at 350&#8457; for 3-5 minutes or until desired doneness is achieved. Serve with a hot cheese dip, or seafood sauce.
 
 **Note:** My daughter introduced this party snack to me on [New Years Eve][1] several years ago. Even though I love this snack we joke because of its lack of healthiness and call it Fat Back. Enjoy!
 
- [1]: /wordpress/recipes-for-special-occasions-and-events/
+ [1]: /recipes/recipes-for-special-occasions-and-events/

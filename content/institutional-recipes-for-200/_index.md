@@ -48,15 +48,15 @@ Welcome to our institutional section. Here we will be providing recipes for larg
     <a href="/wordpress/index.php/institutional-recipes-for-200/spaghetti-sauce-recipe-for-200-people/">Spaghetti Sauce for 200</a>
   </li>
   <li>
-    <a href="/wordpress/index.php/institutional-recipes-for-200/quick-and-easy-chili-recipe-for-200-people/">Quick Easy Chili Recipe for 200</a>
+    <a href="/wordpress/index.php/institutional-recipes-for-200/quick-and-easy-chili-recipe-for-200-people/">Quick Chili Recipe for 200</a>
   </li>
   <li>
     <a href="/wordpress/index.php/institutional-recipes-for-200/fresh-fruit-tray-for-special-occasions/">Wonderful Fresh Fruit Tray for Special Occasions</a>
   </li>
   <p style="margin-top: 40px;">
-    We are Currently Building our Quick Easy Institutional Recipes for 50 to 200 people, Beef, Chicken, Pork and Seafood Entrees, Side Dishes, Salads, Quick Breads, Tools and Terms, and Great Ideas too! If you Need a Recipe not Listed yet, Write us and we will Provide it for You.
+    We are Currently Building our Quick Institutional Recipes for 50 to 200 people, Beef, Chicken, Pork and Seafood Entrees, Side Dishes, Salads, Quick Breads, Tools and Terms, and Great Ideas too! If you Need a Recipe not Listed yet, Write us and we will Provide it for You.
   </p>
   
   <p>
-    Send your favorite quick easy recipes to <a href="mailto:cheffrank@quick-e-recipes.com">cheffrank@quick-e-recipes.com</a> and share them with the world!
+    Send your favorite Quick recipes to <a href="mailto:cheffrank@quick-e-recipes.com">cheffrank@quick-e-recipes.com</a> and share them with the world!
   </p>

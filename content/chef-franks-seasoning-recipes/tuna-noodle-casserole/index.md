@@ -36,7 +36,7 @@ Boil noodles, along with onion and celery in medium, large sauce pan. Cook for a
 
 **note:** Do the noodles and the white sauce at the same time.
 
-Combine white sauce with noodles vegetables, tuna and seasonings. Mix, then place bread crumbs on top of casserole. Place in pre-heated oven at 350* for 45 min. to 1 hour. Serve with salads, fruit , and or Hot rolls and butter.
+Combine white sauce with noodles vegetables, tuna and seasonings. Mix, then place bread crumbs on top of casserole. Place in pre-heated oven at 350&#8457; for 45 min. to 1 hour. Serve with salads, fruit , and or Hot rolls and butter.
 
 ## Egg Noodles
 

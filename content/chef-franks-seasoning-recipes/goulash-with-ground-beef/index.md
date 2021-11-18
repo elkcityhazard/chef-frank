@@ -1,7 +1,7 @@
 ---
 title: Goulash With Ground Beef
 author: elkcityhazard
-description: "This Quick Easy Goulash Recipe is the perfect time saver for busy families. It's delicious, too!"
+description: "This Quick Goulash Recipe is the perfect time saver for busy families. It's delicious, too!"
 date: 2019-12-10
 img: images/recipes/featured-images/frontmatter/beef-goulash-recipe.jpg
 category:
@@ -13,7 +13,7 @@ tags:
  - Easy
 
 ---
-Quick Easy Goulash Recipe with Fresh Ground Beef and Elbow Macaroni, Tomato Sauce and Fresh Cut Vegetables with Cheese. Goulash is a Great [Casserole][1] for Lunch or Supper.
+Quick Goulash Recipe with Fresh Ground Beef and Elbow Macaroni, Tomato Sauce and Fresh Cut Vegetables with Cheese. Goulash is a Great [Casserole][1] for Lunch or Supper.
 
 ## Goulash
 

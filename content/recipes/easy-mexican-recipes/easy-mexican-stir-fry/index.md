@@ -5,7 +5,7 @@ type: page
 date: 2019-12-16T14:13:41+00:00
 
 ---
-Quick Easy Mexican Stir Fry Recipe, sure to become a Family Favorite Meal. [Beef][1], [Shrimp][2], [Chicken][3] Seasoned with fresh Vegetables. Mexican Stir Fry added to our [Spanish Rice][4] tonight. Ole&#8217;.
+Quick Mexican Stir Fry Recipe, sure to become a Family Favorite Meal. [Beef][1], [Shrimp][2], [Chicken][3] Seasoned with fresh Vegetables. Mexican Stir Fry added to our [Spanish Rice][4] tonight. Ole&#8217;.
 
 ## Mexican Stir Fry Ingredients
 
