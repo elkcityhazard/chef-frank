@@ -13,7 +13,7 @@ recipes:
       description:
           "Our honey teriyaki barbecue sauce will become a staple in your recipe file. It's easy to prepare on the stove and great for the barbecue grill for ribs, chicken, chops and steaks."
       img: /images/featured/honey-barbecue-sauce.jpg
-      url: /recipes/chef-franks-seasoning-recipes/honey-teriyaki-barbecue-sauce
+      url: /chef-franks-seasoning-recipes/honey-teriyaki-barbecue-sauce/
     2:
       title: Cream of Broccoli Soup
       description: "Cream of Broc Soup is delightful and easy to make with only 5 minutes active time. This unique creamy soup is full of flavor and texture and is a great addition to any meal with a sandwich or salad."
