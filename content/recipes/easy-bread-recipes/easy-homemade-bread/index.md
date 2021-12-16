@@ -10,7 +10,7 @@ tags:
   - Bread
   - Beef 
 ---
-# Easy Homemade Bread
+
 Quick Whole Wheat or White Bread Recipe is From Scratch, Makes Two Loaves, and is the same as Grandma Makes. Homemade Bread Aroma Welcomes Your Family and Guests Warmly.
 
 ## Homemade Bread Ingredients

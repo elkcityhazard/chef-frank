@@ -11,6 +11,11 @@
   {{ end }} {{ hugo.Generator }}
   <title>{{ .Title }}</title>
 
+  {{ if .Params.canonical_url}}
+  <link rel="canonical" href="{{ .canonical_url }}">
+  {{ else}}
+  <link rel="canonical" href="{{ .RelPermalink | absURL}}">
+  {{ end }}
   
   <!-- preconnect-->
 

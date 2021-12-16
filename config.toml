@@ -1,4 +1,4 @@
-baseURL = "https://quick-e-recipes.com/"
+baseURL = "https://www.quick-e-recipes.com/"
 languageCode = "en-us"
 title = "Chef Frank's Recipes"
 theme = "honeybear"
