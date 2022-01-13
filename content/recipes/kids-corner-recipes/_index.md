@@ -25,10 +25,10 @@ Skippy loves kids and wants you to learn to cook these great foods! There&#8217;
 For all you kids out there that like summer camp, check out this link for <a href="http://www.hayowentha.org" rel="noopener noreferrer" target="_blank">www.hayowentha.org</a>  
 They have nutritional fun foods and world class programs. Chef Frank recommends it.
 
- [1]: /wordpress/index.php/kids-corner-recipes/apple-smackers-recipe/
- [2]: /wordpress/index.php/kids-corner-recipes/easy-egg-in-a-basket/
- [3]: /wordpress/index.php/appetizers/easy-cinnamon-crunchies/
- [4]: /wordpress/index.php/appetizers/microwave-caramel-corn/
- [5]: /wordpress/index.php/kids-corner-recipes/easy-no-bake-cookies/
- [6]: /wordpress/index.php/appetizers/people-chow-kids-and-adults-snack/
- [7]: /wordpress/index.php/appetizers/kids-pita-pizza-recipe/
+ [1]: /kids-corner-recipes/apple-smackers-recipe/
+ [2]: /kids-corner-recipes/easy-egg-in-a-basket/
+ [3]: /kids-corner-recipes/easy-cinnamon-crunchies/
+ [4]: /kids-corner-recipes/microwave-caramel-corn/
+ [5]: /kids-corner-recipes/easy-no-bake-cookies/
+ [6]: /kids-corner-recipes/people-chow-kids-and-adults-snack/
+ [7]: /kids-corner-recipes/kids-pita-pizza-recipe/
