@@ -1,0 +1,55 @@
+<!-- Products -->
+{{- with .GetPage "products" -}}
+<section
+  class="products
+{{- with .Params.custom_css -}}
+{{ if .Params.custom_css.active }}
+{{ .Params.custom_css.name | safeCSS}} 
+{{- end -}} 
+{{- end -}}
+"
+>
+  <div class="row">
+    <h3>{{- .Title -}}</h3>
+  </div>
+  <div class="row">
+    <div class="circle">
+      <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+        <path fill="#FFB930" d="M36.5,-59.9C41.1,-46.9,34.3,-27.9,41,-12.1C47.8,3.6,68.1,16.2,70.5,27.2C72.8,38.2,57.2,47.7,42.4,50.9C27.7,54.1,13.8,51.1,-2.5,54.6C-18.9,58.1,-37.8,68,-50,64C-62.2,59.9,-67.7,41.9,-73,24.1C-78.3,6.3,-83.3,-11.2,-80.8,-28.5C-78.2,-45.7,-68.1,-62.7,-53.3,-72.3C-38.6,-82,-19.3,-84.3,-1.7,-82C16,-79.7,31.9,-72.8,36.5,-59.9Z" transform="translate(100 100)" />
+      </svg>
+    </div>
+    
+    {{- range .Params.products -}}
+    <div class="product-card">
+      <h4>{{- .Title -}}</h4>
+      <figure>
+        <a href="{{- .url | absURL -}}"
+          ><img
+            data-src="{{ .img | absURL}}"
+            alt="{{- .title -}}"
+            width="325px"
+            height="auto"
+            class="lazy"
+        /></a>
+        <figcaption>{{ .Title }}</figcaption>
+      </figure>
+      <p>
+        <strong>Description: </strong>
+        {{- .description -}}
+      </p>
+      <div class="card-info">
+        <span class="price"><strong>Price: $</strong>${{- .price }}</span>
+        <span class="shipping"><strong>Shipping: </strong>{{ .shipping }}</span>
+      </div>
+      <a href="{{ .url | absURL }}" class="cta-btn" title="{{- .Title -}}" style="display: none;">
+        Buy Now 🛒 <br />
+      </a>
+      {{ .paypal | safeHTML }}
+        
+    </div>
+    {{- end -}}
+  </div>
+</section>
+{{- end -}}
+
+<!-- end products-->
