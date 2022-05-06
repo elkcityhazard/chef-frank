@@ -5,7 +5,7 @@ description: "Chef Frank's Recipes offers easy, handcrafted whole wheat bread re
 date: 2019-12-16T16:06:40+00:00
 img: https://source.unsplash.com/640x426/?bread,homemade
 category:
-  - Bread
+  - homemade bread for soup and sandwiches
 tags:
   - Bread
   - Beef 
