@@ -44,4 +44,4 @@ in 20 quart mixer place the following:
 
 Mix on low speed until well incorporated. Divide evenly over the pans of apples and bake in convection oven at 300&#8457; for 1 1/4 hour or longer to ensure apples are cooked. If using conventional oven, 1 hour at 350&#8457;
 
- [1]: /wordpress/kids-corner-recipes/
+ [1]: https://www.quick-e-recipes.com/recipes/kids-corner-recipes/

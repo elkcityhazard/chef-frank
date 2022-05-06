@@ -1,2 +1,30 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>grilling on Chef Frank's Recipes</title><link>https://www.quick-e-recipes.com/tags/grilling/</link><description>Recent content in grilling on Chef Frank's Recipes</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Dec 2020 02:18:05 +0000</lastBuildDate><atom:link href="https://www.quick-e-recipes.com/tags/grilling/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello world!</title><link>https://www.quick-e-recipes.com/hello-world/</link><pubDate>Tue, 08 Dec 2020 02:18:05 +0000</pubDate><guid>https://www.quick-e-recipes.com/hello-world/</guid><description>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</description></item><item><title>Vegetarian Honey Barbecue Sauce</title><link>https://www.quick-e-recipes.com/chef-franks-seasoning-recipes/vegetarian-honey-barbecue-sauce/</link><pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate><guid>https://www.quick-e-recipes.com/chef-franks-seasoning-recipes/vegetarian-honey-barbecue-sauce/</guid><description>Prepare this vegetarian honey barbecue sauce recipe when you’re grilling outside or cooking inside. It makes your vegetarian burgers, and ribs taste amazing.
-Vegetarian Honey Barbecue Sauce Ingredients 1 c ketchup 1/2 c honey 1 tbsp yellow mustard 1 tbsp Chef Frank’s Seasoning 1/2 onion small diced 1 tbsp garlic, fresh chopped 1/4 c brown sugar 1/8 c vinegar 1 tbsp soy sauce 2 tbsp Italian herb seasoning 1 tsp ground rosemary 1/2 c red wine 1/8 c molasses Combine ingredients in sauce pan, simmer for 1/2 hour, stirring frequently.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>grilling on Chef Frank&#39;s Recipes</title>
+    <link>https://www.quick-e-recipes.com/tags/grilling/</link>
+    <description>Recent content in grilling on Chef Frank&#39;s Recipes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Dec 2020 02:18:05 +0000</lastBuildDate><atom:link href="https://www.quick-e-recipes.com/tags/grilling/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello world!</title>
+      <link>https://www.quick-e-recipes.com/hello-world/</link>
+      <pubDate>Tue, 08 Dec 2020 02:18:05 +0000</pubDate>
+      
+      <guid>https://www.quick-e-recipes.com/hello-world/</guid>
+      <description>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</description>
+    </item>
+    
+    <item>
+      <title>Vegetarian Honey Barbecue Sauce</title>
+      <link>https://www.quick-e-recipes.com/chef-franks-seasoning-recipes/vegetarian-honey-barbecue-sauce/</link>
+      <pubDate>Tue, 10 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.quick-e-recipes.com/chef-franks-seasoning-recipes/vegetarian-honey-barbecue-sauce/</guid>
+      <description>Prepare this vegetarian honey barbecue sauce recipe when you’re grilling outside or cooking inside. It makes your vegetarian burgers, and ribs taste amazing.
+Vegetarian Honey Barbecue Sauce Ingredients  1 c ketchup 1/2 c honey 1 tbsp yellow mustard 1 tbsp Chef Frank’s Seasoning 1/2 onion small diced 1 tbsp garlic, fresh chopped 1/4 c brown sugar 1/8 c vinegar 1 tbsp soy sauce 2 tbsp Italian herb seasoning 1 tsp ground rosemary 1/2 c red wine 1/8 c molasses  Combine ingredients in sauce pan, simmer for 1/2 hour, stirring frequently.</description>
+    </item>
+    
+  </channel>
+</rss>

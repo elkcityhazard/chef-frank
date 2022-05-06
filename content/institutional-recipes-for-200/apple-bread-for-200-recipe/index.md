@@ -13,7 +13,7 @@ tags:
   - Breakfast
   - Muffins
 ---
-Our apple bread recipe is easy to make about a 15 minute prep time. This recipe from scratch will keep your clients happy. Apple quick bread for 200 will enhance any [breakfast][1] and makes great muffins too.
+Our apple bread recipe is easy to make and about a 15 minute prep time. This recipe from scratch will keep your clients happy. Apple quick bread for 200 will enhance any [breakfast][1] and makes great muffins too.
 
 ## Apple Bread Or Muffins For 200
 
@@ -45,4 +45,4 @@ Grease four (4) full sized sheet pans and scale batter evenly among them. Place 
 
 **Note:** if you do not have a 60 qt electric mixer, you may break the recipe in half and mix by hand. It really does not take much more time as quick breads mix up quickly.
 
- [1]: /wordpress/easy-breakfast-recipes/
+ [1]: https://www.quick-e-recipes.com/recipes/easy-breakfast-recipes/

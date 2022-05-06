@@ -1,14 +1,15 @@
 {{ define "main" }}
 <div class="fb-root"></div>
-    <script async="true">(function(d, s, id) {
-        var js, fjs = d.getElementsByTagName(s)[0];
-        if (d.getElementById(id)) return;
-        js = d.createElement(s); js.id = id;
-        js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
-        fjs.parentNode.insertBefore(js, fjs);
-        }(document, 'script', 'facebook-jssdk'));</script>
+    
 <div class="single-wrapper">
     <main class="single-main">
+        <section class="ads"><script async="true">(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+            fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'facebook-jssdk'));</script></section>
         {{ if .Params.img}}
         <figure>
             <img data-src="{{ .Params.img | absURL }}" class="lazy" alt="{{ .Description }}" width="100%" height="auto">
@@ -23,6 +24,15 @@
     
     </main>
     <aside class="single-aside">
+        <section class="ads">
+            <script async="true">(function(d, s, id) {
+                var js, fjs = d.getElementsByTagName(s)[0];
+                if (d.getElementById(id)) return;
+                js = d.createElement(s); js.id = id;
+                js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+                fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+        </section>
         <section class="breadcrumbs">
             <h3>Breadcrumbs</h3>
             {{ partial "breadcrumbs.html" . }}
@@ -56,5 +66,12 @@
 </section>
     </aside>
 </div>
+<section class="ads"><script async="true">(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v3.0";
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script></section>
 {{ partial "market-basket.html" . }}
 {{ end }}

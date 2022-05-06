@@ -35,4 +35,4 @@ Real Chocolate Chip Cookies are Quick and Easy Scratch Cookies to make for Gathe
 
 In a large mixer, place softened butter and sugar. Mix until fluffy on med. speed. Turn off, then add eggs, vanilla, and salt, and mix for a few minutes, turn mixer off. In separate large bowl, place flour, baking soda and baking powder and mix with wire wisk. Add to wet mixture in mixer. Turn mixer (low speed) on and off quickly to prevent flour from flying all over the place. When mixture is somewhat mixed, leave mixer on low and mix thoroughly. Once mixed, add chocolate chips and mix until all is incorporated into dough. using a small food disher (scoop) place on lightly greased sheet pans, 24 per tray and place in convection oven at 325&#8457; for 8-10 minutes. Remove and let cool for a few minutes before removing from pan.
 
- [1]: /wordpress/dessert-recipes/
+ [1]: https://www.quick-e-recipes.com/recipes/dessert-recipes/
